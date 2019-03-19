@@ -1,0 +1,460 @@
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <style>
+    
+    .links line {
+      stroke: #999;
+      stroke-opacity: 0.6;
+    }
+    
+    .nodes circle {
+      stroke: #888888;
+      stroke-width: 1.5px;
+    }
+    
+    text {
+      font-family: sans-serif;
+      font-size: 10px;
+    }
+    
+    .ticks {
+        font: 10px sans-serif;
+    }
+
+    .track,
+    .track-inset,
+    .track-overlay {
+        stroke-linecap: round;
+    }
+
+    .track {
+        stroke: #000;
+        stroke-opacity: 0.3;
+        stroke-width: 10px;
+    }
+
+    .track-inset {
+        stroke: #ddd;
+        stroke-width: 8px;
+    }
+
+    .track-overlay {
+        pointer-events: stroke;
+        stroke-width: 50px;
+        stroke: transparent;
+        cursor: crosshair;
+    }
+
+    .handle {
+        fill: #fff;
+        stroke: #000;
+        stroke-opacity: 0.5;
+        stroke-width: 1.25px;
+    }
+    .year_title {
+        font-family: sans-serif;
+        font-size: 25px;
+
+    }
+    /* Color bar legend */
+    
+    .axis text {
+        font: 10px sans-serif;
+    }
+
+    .axis line, .axis path {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+    .everything{
+        margin-top: 200px;
+        z-index: -1;
+    }
+    .legend{
+        z-index: 100;
+    }
+
+    .plot_area{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+    .main_menu{
+        height: 100px;
+        width: 1200px;
+        stroke: #000;
+        stroke-width: 2px;
+    }
+</style>
+
+    </style>
+</head>
+<body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <!-- <script src="http://marvl.infotech.monash.edu/webcola/cola.min.js"></script> -->
+    <div class="main_menu">menu</div>
+    <div class="plot_area"></div>
+    <script>
+    
+        var width = 1200,
+            height = 1000
+        
+        var svg = d3.select(".plot_area").append("svg")
+        .attr("width", width)
+        .attr("height", height)
+
+        var svg_network = svg.append("svg")
+        .attr("width", width-200)
+        .attr("height", height-200)
+        .style("margin-top", "200px")        
+        .attr("transform", "translate(" + 0 + "," + 200 + ")");
+
+        var simulation = d3.forceSimulation()
+            .force("link", d3.forceLink().id(function(d) { return d.id; }))
+            .force("charge", d3.forceManyBody().strength(-30).theta(0.9).distanceMin(2).distanceMax(100))
+            .force("collide",d3.forceCollide())
+            .force("center", d3.forceCenter(width / 2, height / 2))
+        
+        // var d3cola = cola.d3adaptor(d3)
+        // .linkDistance(200)
+        // .size([width, height])
+        // .avoidOverlaps(true)
+        // .handleDisconnected(true)
+
+        d3.json("./data_no_index.json", function(error, graph) {
+            if (error) throw error;
+                        
+            // d3cola
+            // .nodes(graph.nodes)
+            // .links(graph.links.filter(function(d) { return d.year <= 2014} ) )
+            // .constraints(graph.constraints)
+            // .symmetricDiffLinkLengths(3)
+            // .avoidOverlaps(true)
+            // .start(3,3,3)
+
+            links_filtered = graph.links.filter(function(d) { return d.year == 2014} )
+            
+
+            var g = svg_network.append("g")
+            .attr("class", "everything")
+            .style("stroke", "black")
+            .style("stroke-width", 1)
+            .attr("width", 1000)
+            .attr("height", 800)
+
+            var link = g.append("g")
+            .attr("class", "links")
+            .selectAll("line")
+            .data(links_filtered)
+            .enter().append("line")
+            // .attr("stroke-width", function(links_filtered) { return links_filtered.weight/10; })
+            .attr("stroke-width", 100)
+            .attr("stroke", "black")
+            .attr("alpha", 1)
+            .exit().remove()
+
+            var node = g.append("g")
+            .attr("class", "nodes")
+            .selectAll(".node")
+            .data(graph.nodes)
+            .enter().append("circle")
+            .attr("class", function(d) { return "node " + "py_" + d.pubyear;})
+            .attr("r", function(d) { return d.diameter/3. } )
+            .style("fill", "black")
+            .attr("stroke", "black")
+            .attr("stroke-width", 2)
+            // .style("fill", function(d) {return colorScale(node_strength[d]) })
+            // .call(d3cola.drag)
+            // .call(d3.drag()
+            //     .on("start", dragstarted)
+            //     .on("drag", dragged)
+            //     .on("end", dragended)
+            // );
+            
+            //add drag capabilities  
+            var drag_handler = d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended);	
+
+                drag_handler(node);
+
+            //add zoom capabilities 
+            var zoom_handler = d3.zoom()
+            .on("zoom", zoom_actions)
+                
+
+            zoom_handler(svg); 
+
+            // node.each(function(d) { d3.select(this).classed(d.pubyear, true)
+
+            // graph.nodes.forEach(function (v) { v.width = 10, v.height = 10 })
+
+            node.append("title")
+            .text(function(d) { return (d.title + " (" + d.pubyear + ")"); });    
+        
+
+            // d3cola.on("tick", function () {
+            //     link.attr("x1", function (d) { return d.source.x; })
+            //     .attr("y1", function (d) { return d.source.y; })
+            //     .attr("x2", function (d) { return d.target.x; })
+            //     .attr("y2", function (d) { return d.target.y; });
+
+            //     node.attr("cx", function (d) { return d.x; })
+            //         .attr("cy", function (d) { return d.y; });
+            // });
+
+
+            function ticked() {
+                link
+                .attr("x1", function(d) { return d.source.x; })
+                .attr("y1", function(d) { return d.source.y; })
+                .attr("x2", function(d) { return d.target.x; })
+                .attr("y2", function(d) { return d.target.y; });
+
+                node
+                .attr("cx", function(d) { return d.x; })
+                .attr("cy", function(d) { return d.y; });
+            }
+
+
+               
+            function dragstarted(d) {
+            if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+            }
+            
+            function dragged(d) {
+            d.fx = d3.event.x;
+            d.fy = d3.event.y;
+            }
+            
+            function dragended(d) {
+            if (!d3.event.active) simulation.alphaTarget(0);
+            d.fx = null;
+            d.fy = null;
+            }
+
+            //Zoom functions 
+            function zoom_actions(){
+                g.attr("transform", d3.event.transform)
+            }            
+
+
+            simulation
+            .nodes(graph.nodes)
+            .on("tick", ticked)
+            .force("collide").radius((d)=>{return d.diameter/2.})
+
+            simulation.force("link")
+            .links(links_filtered);
+            
+            // Restart parts!
+
+            restart()
+            
+            function get_now_year(){
+                return parseInt(x.invert( jQuery(".handle").attr("cx") ) )
+            }
+            
+            var prev_year = get_now_year()
+
+
+            d3.interval(function()
+                { 
+                    var cur_year = get_now_year()
+                    // console.log(prev_year, cur_year)
+
+                    if(prev_year != cur_year) restart();
+                    prev_year = cur_year
+                }, 100)
+                
+
+            function restart()
+            {   
+                var cur_year = parseInt(x.invert( jQuery(".handle").attr("cx") ) )
+                console.log("restarting" + cur_year)
+                $(".node").show()
+                for (var y = cur_year+1; y <= 2014; y++) {
+                    console.log(y)
+                    // $(".py_" + y).show()
+                    $(".py_"+y).hide()
+                }
+                
+
+                links_filtered = graph.links.filter(function(d) { return d.year == cur_year} )
+                link = link.data(links_filtered)
+                link.exit().remove(); 
+
+                link = link.enter()
+                .append("line")
+                // .attr("stroke-width", function(links_filtered) { return links_filtered.weight/10; })
+                .attr("stroke-width", 2)
+                .attr("stroke", "black")
+                .attr("alpha", 1)
+                .merge(link)
+                
+                simulation
+                .nodes(graph.nodes)
+                .on("tick", ticked);
+
+                simulation.force("link")
+                .links(links_filtered);
+                
+                simulation.restart()  
+
+                var node_strength = {};
+
+                links_filtered.forEach(function(l) {
+                    if(l.source.id in node_strength){
+                        node_strength[l.source.id] = node_strength[l.source.id] + l.weight;
+                    }
+                    else{
+                        node_strength[l.source.id] = l.weight;
+                    }
+                    
+                    if(l.target.id in node_strength){
+                        node_strength[l.target.id] = node_strength[l.target.id] + l.weight;
+                    }
+                    else{
+                        node_strength[l.target.id] = l.weight;
+                    }
+                });
+                console.log(node_strength)
+
+                max_strength_uid = Object.keys(node_strength).reduce((a, b) => node_strength[a] > node_strength[b] ? a : b);
+                console.log(max_strength_uid)
+
+                var colorScale = d3.scaleSequential(d3.interpolateGnBu)
+                .domain([0, node_strength[max_strength_uid]+1])
+                
+
+                var node = g.selectAll(".node")
+                .style("fill", function(d) {
+                    if(d.id in node_strength){
+                        return colorScale(node_strength[d.id])
+                    }
+                    else{
+                        return colorScale(0)
+                    } 
+                })
+                .style("opacity", 1)
+
+
+                // area for legends
+                d3.select(".legend-area").selectAll("g").remove();
+                d3.select(".legend-area").remove();
+
+                var legend = svg.append("g").attr("class", "legend-area").selectAll(".legend")
+                .data(colorScale.ticks(10).slice(1).reverse())
+                .enter().append("g")
+                .attr("class", "legend")
+                .attr("transform", function(d, i) { return "translate(" + (width - 100) + "," + (220 + i * 20) + ")"; });
+
+                legend.append("rect")
+                    .attr("width", 20)
+                    .attr("height", 20)
+                    .style("fill", colorScale);
+
+                legend.append("text")
+                    .attr("x", 26)
+                    .attr("y", 10)
+                    .attr("dy", ".35em")
+                    .text(String);
+
+
+
+            } // end of restart
+
+            //text of legend
+            svg.append("text")
+            .attr("class", "label")
+            .attr("x", width - 100)
+            .attr("y", 200)
+            .attr("dy", ".35em")
+            .style("font-size", 20)
+            .text("Strength");
+        });
+        // Text box
+        // slide bar
+        scale_width = 1000
+
+        var x = d3.scaleLinear()
+            .domain([1997, 2014])
+            .range([100, scale_width])
+            .clamp(true);
+        
+        var slider_background = svg
+
+
+        var slider = svg
+        .append("g")
+        .attr("class", "slider")
+        .attr("transform", "translate(" + 10 + "," + 810 + ")")
+        // .style('fill', 'white')
+        .style('padding', 50)
+
+
+        slider.append("line")
+            .attr("class", "track")
+            .attr("x1", x.range()[0])
+            .attr("x2", x.range()[1])
+            .select(function() { return this.parentNode.appendChild(this.cloneNode(true)); })
+            .attr("class", "track-inset")
+            .select(function() { return this.parentNode.appendChild(this.cloneNode(true)); })
+            .attr("class", "track-overlay")
+            .call(d3.drag()
+                .on("start.interrupt", function() { slider.interrupt(); })
+                .on("start drag", function() { change_year_textbox(x.invert(d3.event.x)); })
+            );
+
+        slider.insert("g", ".track-overlay")
+            .attr("class", "ticks")
+            .attr("transform", "translate(0," + 18 + ")")
+            .selectAll("text")
+            .data(x.ticks(20))
+            .enter().append("text")
+            .attr("x", x)
+            .attr("text-anchor", "middle")
+            .text(function(d) { return d; })
+
+
+        var handle = slider.insert("circle", ".track-overlay")
+            .attr("cx", 1000)
+            .attr("class", "handle")
+            .attr("r", 9);
+
+        function change_year_textbox(h) {
+            handle.attr("cx", x(h));
+            textLabels.text(parseInt(h+0.5) );
+        }
+
+        //Add the SVG Text Element to the svgContainer
+        var text = svg.append("text").attr("class", "year_title")
+
+        //Add SVG Text Element Attributes
+        var textLabels = text
+                .attr("x", 100)
+                .attr("y", 70)
+                .text(parseInt(x.invert( jQuery(".handle").attr("cx") ) ))
+                .attr("font-family", "sans-serif")
+                .attr("font-size", "120px")
+                .attr("fill", "black");
+
+
+
+
+
+
+    </script>
+
+    <p> aaaaaa </p>
+</body>
+
+</html>
