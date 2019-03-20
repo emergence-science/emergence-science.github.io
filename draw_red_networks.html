@@ -114,6 +114,15 @@
         top:920; 
         left:1010px;
     }
+
+    .background_head_plot_area{
+        position:absolute; 
+        top:100px; 
+        left:0px; 
+        width: 1000px;
+        height: 150px;
+        background-color: #fff;
+    }
 </style>
 
     </style>
@@ -121,8 +130,9 @@
 <body>
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-    <!-- <script src="http://marvl.infotech.monash.edu/webcola/cola.min.js"></script> -->
     <div class="main_menu">menu</div>
+    <div class="background_head_plot_area"></div>
+
     <div class="plot_area"></div>
     <div class="button_area">
         <button type="button" id="go_prev_year"><<</button>
@@ -131,9 +141,11 @@
 
     <div class="paper_list">
         <ul>
-            <li><a href="#" class="papers" id="SIAM_review_Newman">SIAM review paper</a></li>
-            <li><a href="#" class="papers" id="CRISPR_cell">CRISPR review paper</a></li>
+            <li><a href="#" class="papers" id="SIAM_review_Newman">SIAM review</a></li>
+            <li><a href="#" class="papers" id="CRISPR_cell">CRISPR review</a></li>
+            <li><a href="#" class="papers" id="network_medicine_review">Network medicine review</a></li>
             <li><a href="#" class="papers" id="multiplex_PRX">Multiplex paper</a></li>
+            <li><a href="#" class="papers" id="controlability_Natcomm">Controlability paper</a></li>
         </ul>
     </div>
 
@@ -156,10 +168,11 @@
             .attr("height", height)
 
             var svg_network = svg.append("svg")
-            .attr("width", width-200)
+            .attr("width", width-130)
             .attr("height", height-120)
-            .style("margin-top", "200px")        
-            .attr("transform", "translate(" + 0 + "," + 200 + ")");
+            .style("margin-top", "200px")
+            // .style("margin-left", "50px")        
+            .attr("transform", "translate(" + 50 + "," + 200 + ")");
 
             var simulation = d3.forceSimulation()
             .force("link", d3.forceLink().id(function(d) { return d.id; }))
@@ -171,6 +184,28 @@
             d3.json(json_path, function(error, graph) {
                 if (error) throw error;
                 
+                // show metadata
+                var elem_metadata = svg.append("g").attr("class", "metadata_area")
+                
+                elem_metadata.append("text")
+                .attr("x", 1000)
+                .attr("y", 100)
+                .text( graph.metadata.title + " (" + graph.metadata.journal + ", " + graph.metadata.pubyear + ")")
+                .style("font-family", "sans-serif")
+                .style("text-anchor", "end")
+                .style("font-size", 15)
+                .style("font-weight", 700)
+
+                elem_metadata.append("text")
+                .attr("x", 1000)
+                .attr("y", 130)
+                .text( graph.metadata.authors)
+                .style("font-family", "sans-serif")
+                .style("text-anchor", "end")
+                .style("font-size", 10)
+                .style("font-weight", 300)
+
+
                 var title_name_dic = {}
                 graph.nodes.forEach( function(v, i) {
                     title_name_dic[v.id] = v.title;
@@ -219,7 +254,7 @@
                     .attr("class", "ticks")
                     .attr("transform", "translate(0," + 18 + ")")
                     .selectAll("text")
-                    .data(x.ticks(20))
+                    .data(x.ticks(max_year - min_year + 1))
                     .enter().append("text")
                     .attr("x", x)
                     .attr("text-anchor", "middle")
