@@ -1,0 +1,1071 @@
+{
+  "nodes": [
+    {
+      "id": "WOS:000276635000035",
+      "title": "Catastrophic cascade of failures in interdependent networks",
+      "journal": "NATURE",
+      "diameter": 19.183326093250876,
+      "pubyear": 2010
+    },
+    {
+      "id": "WOS:000305203400018",
+      "title": "Differential recruitment of the sensorimotor putamen and frontoparietal cortex during motor chunking in humans",
+      "journal": "NEURON",
+      "diameter": 4.898979485566356,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000303310400001",
+      "title": "Multiplexity-facilitated cascades in networks",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 5.196152422706632,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000246239400006",
+      "title": "An information-theoretic framework for resolving community structure in complex networks",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "diameter": 11.789826122551595,
+      "pubyear": 2007
+    },
+    {
+      "id": "WOS:000326685000013",
+      "title": "Abrupt transition in the structural formation of interconnected networks",
+      "journal": "NATURE PHYSICS",
+      "diameter": 4.795831523312719,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000185194400031",
+      "title": "Properties of highly clustered networks",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 11.832159566199232,
+      "pubyear": 2003
+    },
+    {
+      "id": "WOS:000230619700011",
+      "title": "Statistics of cycles: how loopy is your network?",
+      "journal": "JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL",
+      "diameter": 5.744562646538029,
+      "pubyear": 2005
+    },
+    {
+      "id": "WOS:000249154700012",
+      "title": "Clustering in complex directed networks",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 8.12403840463596,
+      "pubyear": 2007
+    },
+    {
+      "id": "WOS:000074020000035",
+      "title": "Collective dynamics of 'small-world' networks",
+      "journal": "NATURE",
+      "diameter": 84.10707461325711,
+      "pubyear": 1998
+    },
+    {
+      "id": "WOS:000325158300031",
+      "title": "Eigenvector centrality of nodes in multiplex networks",
+      "journal": "CHAOS",
+      "diameter": 1.7320508075688772,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000277991600008",
+      "title": "The complex network of global cargo ship movements",
+      "journal": "JOURNAL OF THE ROYAL SOCIETY INTERFACE",
+      "diameter": 9.899494936611665,
+      "pubyear": 2010
+    },
+    {
+      "id": "WOS:000320392900009",
+      "title": "Statistical mechanics of multiplex networks: entropy and overlap",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 5.0990195135927845,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000324400800004",
+      "title": "Spectral properties of the laplacian of multiplex networks",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 3.4641016151377544,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000169373000049",
+      "title": "Weighted evolving networks",
+      "journal": "PHYSICAL REVIEW LETTERS",
+      "diameter": 13.564659966250536,
+      "pubyear": 2001
+    },
+    {
+      "id": "WOS:000271350700002",
+      "title": "Entropy measures for networks: toward an information theory of complex topologies",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 5.830951894845301,
+      "pubyear": 2009
+    },
+    {
+      "id": "WOS:000275543500054",
+      "title": "Entropic origin of disassortativity in complex networks",
+      "journal": "PHYSICAL REVIEW LETTERS",
+      "diameter": 5.196152422706632,
+      "pubyear": 2010
+    },
+    {
+      "id": "WOS:000301712600003",
+      "title": "Suppressing cascades of load in interdependent networks",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "diameter": 8.0,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000315375400001",
+      "title": "Emergence of network features from multiplexity",
+      "journal": "SCIENTIFIC REPORTS",
+      "diameter": 4.58257569495584,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000238278400002",
+      "title": "Modularity and community structure in networks",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "diameter": 31.54362059117501,
+      "pubyear": 2006
+    },
+    {
+      "id": "WOS:000250800800001",
+      "title": "Random walker ranking for ncaa division i-a football",
+      "journal": "AMERICAN MATHEMATICAL MONTHLY",
+      "diameter": 3.0,
+      "pubyear": 2007
+    },
+    {
+      "id": "WOS:000244532000070",
+      "title": "Generalizations of the clustering coefficient to weighted complex networks",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 7.3484692283495345,
+      "pubyear": 2007
+    },
+    {
+      "id": "WOS:000308530800002",
+      "title": "Analysis of complex contagions in random multiplex networks",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 3.605551275463989,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000220344400063",
+      "title": "Random walks on complex networks",
+      "journal": "PHYSICAL REVIEW LETTERS",
+      "diameter": 18.24828759089466,
+      "pubyear": 2004
+    },
+    {
+      "id": "WOS:000309204700001",
+      "title": "Stability of boolean multilevel networks",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 4.358898943540674,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000313336500013",
+      "title": "Diffusion dynamics on multiplex networks",
+      "journal": "PHYSICAL REVIEW LETTERS",
+      "diameter": 8.18535277187245,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000297006700014",
+      "title": "Robustness of a network of networks",
+      "journal": "PHYSICAL REVIEW LETTERS",
+      "diameter": 9.327379053088816,
+      "pubyear": 2011
+    },
+    {
+      "id": "WOS:000252884100026",
+      "title": "The entropy of randomized network ensembles",
+      "journal": "EPL",
+      "diameter": 6.928203230275509,
+      "pubyear": 2008
+    },
+    {
+      "id": "WOS:000316950900042",
+      "title": "Robust detection of dynamic community structure in networks",
+      "journal": "CHAOS",
+      "diameter": 3.872983346207417,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000268616500021",
+      "title": "Multiresolution community detection for megascale networks by information-based replica correlations",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 7.211102550927978,
+      "pubyear": 2009
+    },
+    {
+      "id": "WOS:000305031000004",
+      "title": "Epidemics on interconnected networks",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 5.0,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000248194700068",
+      "title": "Spectral coarse graining of complex networks",
+      "journal": "PHYSICAL REVIEW LETTERS",
+      "diameter": 5.0990195135927845,
+      "pubyear": 2007
+    },
+    {
+      "id": "WOS:000324489200024",
+      "title": "Dynamical interplay between awareness and epidemic spreading in multiplex networks",
+      "journal": "PHYSICAL REVIEW LETTERS",
+      "diameter": 5.196152422706632,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000299152900004",
+      "title": "A mathematical model for networks with structures in the mesoscale",
+      "journal": "INTERNATIONAL JOURNAL OF COMPUTER MATHEMATICS",
+      "diameter": 2.449489742783178,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000248552600006",
+      "title": "Ensemble approach to the analysis of weighted networks",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 4.0,
+      "pubyear": 2007
+    },
+    {
+      "id": "WOS:000298423000013",
+      "title": "Networks formed from interdependent networks",
+      "journal": "NATURE PHYSICS",
+      "diameter": 11.045361017187261,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000084087500002",
+      "title": "Logit models and logistic regressions for social networks: ii. multivariate relations",
+      "journal": "BRITISH JOURNAL OF MATHEMATICAL & STATISTICAL PSYCHOLOGY",
+      "diameter": 4.898979485566356,
+      "pubyear": 1999
+    },
+    {
+      "id": "WOS:000277618800043",
+      "title": "Community structure in time-dependent, multiscale, and multiplex networks",
+      "journal": "SCIENCE",
+      "diameter": 12.36931687685298,
+      "pubyear": 2010
+    },
+    {
+      "id": "WOS:000240870300020",
+      "title": "Finding community structure in networks using the eigenvectors of matrices",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 21.79449471770337,
+      "pubyear": 2006
+    },
+    {
+      "id": "WOS:000083464700057",
+      "title": "Optimizing the success of random searches",
+      "journal": "NATURE",
+      "diameter": 21.656407827707714,
+      "pubyear": 1999
+    },
+    {
+      "id": "WOS:000220314500008",
+      "title": "The architecture of complex weighted networks",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "diameter": 27.94637722496424,
+      "pubyear": 2004
+    },
+    {
+      "id": "WOS:000279238400028",
+      "title": "Hyperstructures, a new approach to complex systems",
+      "journal": "INTERNATIONAL JOURNAL OF BIFURCATION AND CHAOS",
+      "diameter": 2.0,
+      "pubyear": 2010
+    },
+    {
+      "id": "WOS:000308427800005",
+      "title": "Evolution of cooperation in multiplex networks",
+      "journal": "SCIENTIFIC REPORTS",
+      "diameter": 7.745966692414834,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000227459400020",
+      "title": "Exploring complex networks by walking on them",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 7.54983443527075,
+      "pubyear": 2005
+    },
+    {
+      "id": "WOS:000302341300002",
+      "title": "Correlated multiplexity and connectivity of multiplex random networks",
+      "journal": "NEW JOURNAL OF PHYSICS",
+      "diameter": 5.291502622129181,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000264767400022",
+      "title": "Entropy of network ensembles",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 6.928203230275509,
+      "pubyear": 2009
+    }
+  ],
+  "links": [
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000185194400031",
+      "weight": 19,
+      "year": 2005
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000230619700011",
+      "weight": 2,
+      "year": 2005
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000227459400020",
+      "weight": 5,
+      "year": 2006
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000244532000070",
+      "weight": 2,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000244532000070",
+      "weight": 2,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000220344400063",
+      "target": "WOS:000227459400020",
+      "weight": 9,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000248552600006",
+      "weight": 3,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000249154700012",
+      "weight": 2,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000244532000070",
+      "weight": 4,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000248552600006",
+      "weight": 3,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000249154700012",
+      "weight": 2,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000220344400063",
+      "target": "WOS:000227459400020",
+      "weight": 12,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000244532000070",
+      "weight": 7,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000248552600006",
+      "weight": 5,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000220344400063",
+      "target": "WOS:000227459400020",
+      "weight": 18,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000252884100026",
+      "target": "WOS:000264767400022",
+      "weight": 5,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000185194400031",
+      "weight": 44,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000249154700012",
+      "weight": 7,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000244532000070",
+      "weight": 11,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000248552600006",
+      "weight": 7,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000240870300020",
+      "target": "WOS:000277618800043",
+      "weight": 3,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000252884100026",
+      "target": "WOS:000264767400022",
+      "weight": 8,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000264767400022",
+      "target": "WOS:000271350700002",
+      "weight": 3,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000185194400031",
+      "weight": 50,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000249154700012",
+      "weight": 17,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000244532000070",
+      "weight": 14,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000248552600006",
+      "weight": 7,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000252884100026",
+      "target": "WOS:000271350700002",
+      "weight": 6,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000252884100026",
+      "target": "WOS:000275543500054",
+      "weight": 4,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000264767400022",
+      "target": "WOS:000271350700002",
+      "weight": 6,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000264767400022",
+      "target": "WOS:000275543500054",
+      "weight": 4,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000297006700014",
+      "weight": 2,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000185194400031",
+      "weight": 53,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000244532000070",
+      "weight": 15,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000249154700012",
+      "weight": 22,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000244532000070",
+      "weight": 15,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000248552600006",
+      "weight": 8,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000238278400002",
+      "target": "WOS:000277618800043",
+      "weight": 17,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000240870300020",
+      "target": "WOS:000250800800001",
+      "weight": 4,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000264767400022",
+      "target": "WOS:000271350700002",
+      "weight": 9,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000297006700014",
+      "weight": 17,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000298423000013",
+      "weight": 16,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000301712600003",
+      "weight": 9,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000302341300002",
+      "weight": 4,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000303310400001",
+      "weight": 3,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000308427800005",
+      "weight": 2,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000185194400031",
+      "weight": 63,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000244532000070",
+      "weight": 19,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000249154700012",
+      "weight": 33,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000279238400028",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000248552600006",
+      "weight": 10,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000324400800004",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000238278400002",
+      "target": "WOS:000277618800043",
+      "weight": 27,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000240870300020",
+      "target": "WOS:000250800800001",
+      "weight": 5,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000248552600006",
+      "target": "WOS:000324400800004",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000252884100026",
+      "target": "WOS:000324400800004",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000264767400022",
+      "target": "WOS:000271350700002",
+      "weight": 11,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000279238400028",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000297006700014",
+      "weight": 47,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000298423000013",
+      "weight": 61,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000299152900004",
+      "weight": 4,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000301712600003",
+      "weight": 29,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000302341300002",
+      "weight": 11,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000303310400001",
+      "weight": 10,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000305031000004",
+      "weight": 6,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000308427800005",
+      "weight": 21,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000313336500013",
+      "weight": 18,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000315375400001",
+      "weight": 5,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000277618800043",
+      "target": "WOS:000279238400028",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000277618800043",
+      "target": "WOS:000305203400018",
+      "weight": 3,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000277618800043",
+      "target": "WOS:000324489200024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000277991600008",
+      "target": "WOS:000324400800004",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000279238400028",
+      "target": "WOS:000299152900004",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000279238400028",
+      "target": "WOS:000308427800005",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000298423000013",
+      "target": "WOS:000308530800002",
+      "weight": 4,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000299152900004",
+      "target": "WOS:000308427800005",
+      "weight": 4,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000302341300002",
+      "target": "WOS:000324489200024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000303310400001",
+      "target": "WOS:000308530800002",
+      "weight": 4,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000303310400001",
+      "target": "WOS:000324489200024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000308530800002",
+      "target": "WOS:000324489200024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000309204700001",
+      "target": "WOS:000313336500013",
+      "weight": 8,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000309204700001",
+      "target": "WOS:000324489200024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000313336500013",
+      "target": "WOS:000315375400001",
+      "weight": 5,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000313336500013",
+      "target": "WOS:000320392900009",
+      "weight": 7,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000313336500013",
+      "target": "WOS:000324489200024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000320392900009",
+      "target": "WOS:000324400800004",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000320392900009",
+      "target": "WOS:000324489200024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000185194400031",
+      "weight": 69,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000244532000070",
+      "weight": 24,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000248194700068",
+      "weight": 16,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000249154700012",
+      "weight": 40,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000279238400028",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000074020000035",
+      "target": "WOS:000316950900042",
+      "weight": 7,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000244532000070",
+      "weight": 24,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000220314500008",
+      "target": "WOS:000248552600006",
+      "weight": 11,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000220344400063",
+      "target": "WOS:000227459400020",
+      "weight": 32,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000240870300020",
+      "target": "WOS:000250800800001",
+      "weight": 5,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000264767400022",
+      "target": "WOS:000271350700002",
+      "weight": 13,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000279238400028",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000297006700014",
+      "weight": 73,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000298423000013",
+      "weight": 100,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000299152900004",
+      "weight": 5,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000301712600003",
+      "weight": 48,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000302341300002",
+      "weight": 21,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000303310400001",
+      "weight": 20,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000305031000004",
+      "weight": 17,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000308427800005",
+      "weight": 41,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000313336500013",
+      "weight": 44,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000325158300031",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000276635000035",
+      "target": "WOS:000326685000013",
+      "weight": 19,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000277618800043",
+      "target": "WOS:000279238400028",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000277618800043",
+      "target": "WOS:000316950900042",
+      "weight": 7,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000279238400028",
+      "target": "WOS:000299152900004",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000279238400028",
+      "target": "WOS:000308427800005",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000299152900004",
+      "target": "WOS:000308427800005",
+      "weight": 5,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000303310400001",
+      "target": "WOS:000308530800002",
+      "weight": 9,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000308427800005",
+      "target": "WOS:000325158300031",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000309204700001",
+      "target": "WOS:000313336500013",
+      "weight": 16,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000313336500013",
+      "target": "WOS:000315375400001",
+      "weight": 16,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000313336500013",
+      "target": "WOS:000320392900009",
+      "weight": 20,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000313336500013",
+      "target": "WOS:000324400800004",
+      "weight": 9,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000313336500013",
+      "target": "WOS:000324489200024",
+      "weight": 13,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000313336500013",
+      "target": "WOS:000325158300031",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000315375400001",
+      "target": "WOS:000325158300031",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000320392900009",
+      "target": "WOS:000325158300031",
+      "weight": 3,
+      "year": 2014
+    }
+  ]
+}
