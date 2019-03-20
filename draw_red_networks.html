@@ -360,6 +360,73 @@
                     .attr("y", 10)
                     .attr("dy", ".35em")
                     .text(String);
+                
+                
+                var link_legend_data = [
+                    {"x1": 1100, "y1": 500, "x2": 1140, "y2": 500, "w": 10},
+                    {"x1": 1100, "y1": 520, "x2": 1140, "y2": 520, "w": 100},
+                    {"x1": 1100, "y1": 540, "x2": 1140, "y2": 540, "w": 1000},
+                    {"x1": 1100, "y1": 560, "x2": 1140, "y2": 560, "w": 10000},
+                    
+                ]
+
+                var legend2 = svg.append("g").attr("class", "legend-link").selectAll("line")
+                .data(link_legend_data)
+                .enter()
+                .append("line")
+                .attr("x1", function(d) {return d.x1})
+                .attr("y1", function(d) {return d.y1})
+                .attr("x2", function(d) {return d.x2})
+                .attr("y2", function(d) {return d.y2})
+                .attr("stroke-width", function(d) {return Math.log10(d.w)})
+                .style("stroke", "grey")
+                
+                
+                var legend2_text = svg.append("g").selectAll("text")
+                .data(link_legend_data)
+                .enter()
+                .append("text")
+
+                var aaaaaa = legend2_text
+                .attr("x", function(d) {return (d.x2 + 10)})
+                .attr("y", function(d) {return (d.y2 + 3)})
+                .text(function(d) {return d.w} )
+                .attr("font-family", "sans-serif")
+                .attr("font-size", "20px")
+                .attr("fill", "black")
+                
+
+                var node_legend_data = [
+                    {"cx": 1120, "cy": 620, "r": 10},
+                    {"cx": 1120, "cy": 630, "r": 100},
+                    {"cx": 1120, "cy": 660, "r": 1000},
+                    {"cx": 1120, "cy": 720, "r": 10000}
+                ]
+
+                var legend3 = svg.append("g").attr("class", "legend-node").selectAll("circle")
+                .data(node_legend_data)
+                .enter()
+                .append("circle")
+                .attr("cx", function(d) {return d.cx})
+                .attr("cy", function(d) {return d.cy})
+                .attr("stroke-width", 1)
+                .attr("stroke", "grey")
+                .attr("r", function(d) {return (Math.sqrt(d.r)/3.0) })
+                .attr("fill", "rgb(227, 244, 222)")
+                
+                
+                var legend3_text = svg.append("g").selectAll("text")
+                .data(node_legend_data)
+                .enter()
+                .append("text")
+
+                var aaaaaa = legend3_text
+                .attr("x", function(d) {return (d.cx + 50)})
+                .attr("y", function(d) {return (d.cy + 3)})
+                .text(function(d) {return d.r} )
+                .attr("font-family", "sans-serif")
+                .attr("font-size", "20px")
+                .attr("fill", "black")
 
 
 
