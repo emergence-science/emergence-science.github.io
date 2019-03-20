@@ -1,0 +1,2740 @@
+{
+  "nodes": [
+    {
+      "id": "WOS:000328693300006",
+      "title": "Dynamic imaging of genomic loci in living human cells by an optimized crispr/cas system",
+      "journal": "CELL",
+      "diameter": 7.0710678118654755,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000245106900039",
+      "title": "Crispr provides acquired resistance against viruses in prokaryotes",
+      "journal": "SCIENCE",
+      "diameter": 26.870057685088806,
+      "pubyear": 2007
+    },
+    {
+      "id": "WOS:000328644300012",
+      "title": "Cancer immunotherapy",
+      "journal": "SCIENCE",
+      "diameter": 6.4031242374328485,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000287023000021",
+      "title": "A tale nuclease architecture for efficient genome editing",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 21.88606862823929,
+      "pubyear": 2011
+    },
+    {
+      "id": "WOS:000294718400022",
+      "title": "An unbiased genome-wide analysis of zinc-finger nuclease specificity",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 12.041594578792296,
+      "pubyear": 2011
+    },
+    {
+      "id": "WOS:000240988200042",
+      "title": "Reassembly of shattered chromosomes in deinococcus radiodurans",
+      "journal": "NATURE",
+      "diameter": 13.0,
+      "pubyear": 2006
+    },
+    {
+      "id": "WOS:000324306300024",
+      "title": "Cas9 transcriptional activators for target specificity screening and paired nickases for cooperative genome engineering",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 11.874342087037917,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000283786900036",
+      "title": "The crispr/cas bacterial immune system cleaves bacteriophage and plasmid dna",
+      "journal": "NATURE",
+      "diameter": 15.329709716755891,
+      "pubyear": 2010
+    },
+    {
+      "id": "WOS:000290614100019",
+      "title": "Evolution and classification of the crispr-cas systems",
+      "journal": "NATURE REVIEWS MICROBIOLOGY",
+      "diameter": 19.390719429665317,
+      "pubyear": 2011
+    },
+    {
+      "id": "WOS:A1992HF71900006",
+      "title": "Site-specific recombination determined by i-scei, a mitochondrial group-i intron-encoded endonuclease expressed in the yeast nucleus",
+      "journal": "GENETICS",
+      "diameter": 10.344080432788601,
+      "pubyear": 1992
+    },
+    {
+      "id": "WOS:000244032500001",
+      "title": "A putative rna-interference-based immune system in prokaryotes: computational analysis of the predicted enzymatic machinery, functional analogies with eukaryotic rnai, and hypothetical mechanisms of action",
+      "journal": "BIOLOGY DIRECT",
+      "diameter": 17.663521732655695,
+      "pubyear": 2006
+    },
+    {
+      "id": "WOS:000338768100008",
+      "title": "Classification and evolution of type ii crispr-cas systems",
+      "journal": "NUCLEIC ACIDS RESEARCH",
+      "diameter": 2.23606797749979,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:000272623600050",
+      "title": "Breaking the code of dna binding specificity of tal-type iii effectors",
+      "journal": "SCIENCE",
+      "diameter": 22.737634001804146,
+      "pubyear": 2009
+    },
+    {
+      "id": "WOS:000297375700025",
+      "title": "The streptococcus thermophilus crispr/cas system provides immunity in escherichia coli",
+      "journal": "NUCLEIC ACIDS RESEARCH",
+      "diameter": 9.9498743710662,
+      "pubyear": 2011
+    },
+    {
+      "id": "WOS:A1989AA76500022",
+      "title": "Altering the genome by homologous recombination",
+      "journal": "SCIENCE",
+      "diameter": 35.156791662493895,
+      "pubyear": 1989
+    },
+    {
+      "id": "WOS:000182579800040",
+      "title": "Enhancing gene targeting with designed zinc finger nucleases",
+      "journal": "SCIENCE",
+      "diameter": 16.09347693943108,
+      "pubyear": 2003
+    },
+    {
+      "id": "WOS:000253005800029",
+      "title": "Diversity, activity, and evolution of crispr loci in streptococcus thermophilus",
+      "journal": "JOURNAL OF BACTERIOLOGY",
+      "diameter": 13.45362404707371,
+      "pubyear": 2008
+    },
+    {
+      "id": "WOS:000324306300023",
+      "title": "Dna targeting specificity of rna-guided cas9 nucleases",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 13.674794331177344,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000315710300022",
+      "title": "Repurposing crispr as an rna-guided platform for sequence-specific control of gene expression",
+      "journal": "CELL",
+      "diameter": 12.96148139681572,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000272169400018",
+      "title": "Rna-guided rna cleavage by a crispr rna-cas protein complex",
+      "journal": "CELL",
+      "diameter": 16.431676725154983,
+      "pubyear": 2009
+    },
+    {
+      "id": "WOS:000288951200035",
+      "title": "Crispr rna maturation by trans-encoded small rna and host factor rnase iii",
+      "journal": "NATURE",
+      "diameter": 15.620499351813308,
+      "pubyear": 2011
+    },
+    {
+      "id": "WOS:000329162000052",
+      "title": "Genetic screens in human cells using the crispr-cas9 system",
+      "journal": "SCIENCE",
+      "diameter": 9.643650760992955,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:000332224400042",
+      "title": "Dna interrogation by the crispr rna-guided endonuclease cas9",
+      "journal": "NATURE",
+      "diameter": 6.48074069840786,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:000338705900033",
+      "title": "Genome-wide binding of the crispr endonuclease cas9 in mammalian cells",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 5.0,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:A1987L042600013",
+      "title": "Nucleotide-sequence of the iap gene, responsible for alkaline-phosphatase isozyme conversion in escherichia-coli, and identification of the gene-product",
+      "journal": "JOURNAL OF BACTERIOLOGY",
+      "diameter": 10.63014581273465,
+      "pubyear": 1987
+    },
+    {
+      "id": "WOS:000266218100008",
+      "title": "Comparative analysis of crispr loci in lactic acid bacteria genomes",
+      "journal": "INTERNATIONAL JOURNAL OF FOOD MICROBIOLOGY",
+      "diameter": 9.0,
+      "pubyear": 2009
+    },
+    {
+      "id": "WOS:000318844000018",
+      "title": "One-step generation of mice carrying mutations in multiple genes by crispr/cas-mediated genome engineering",
+      "journal": "CELL",
+      "diameter": 17.74823934929885,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000300481100005",
+      "title": "Essential features and rational design of crispr rnas that function with the cas ramp module complex to cleave rnas",
+      "journal": "MOLECULAR CELL",
+      "diameter": 9.273618495495704,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000332381000048",
+      "title": "Phylogeny of cas9 determines functional exchangeability of dual-rna and cas9 among orthologous type ii crispr-cas systems",
+      "journal": "NUCLEIC ACIDS RESEARCH",
+      "diameter": 3.4641016151377544,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:000253005800028",
+      "title": "Phage response to crispr-encoded resistance in streptococcus thermophilus",
+      "journal": "JOURNAL OF BACTERIOLOGY",
+      "diameter": 15.684387141358123,
+      "pubyear": 2008
+    },
+    {
+      "id": "WOS:000331379800020",
+      "title": "Generation of gene-modified cynomolgus monkey via cas9/rna-mediated gene targeting in one-cell embryos",
+      "journal": "CELL",
+      "diameter": 7.211102550927978,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:000332819800027",
+      "title": "Improving crispr-cas nuclease specificity using truncated guide rnas",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 6.928203230275509,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:000174710000017",
+      "title": "Identification of genes that are associated with dna repeats in prokaryotes",
+      "journal": "MOLECULAR MICROBIOLOGY",
+      "diameter": 17.406895185529212,
+      "pubyear": 2002
+    },
+    {
+      "id": "WOS:000273981100057",
+      "title": "Self versus non-self discrimination during crispr rna-directed immunity",
+      "journal": "NATURE",
+      "diameter": 11.445523142259598,
+      "pubyear": 2010
+    },
+    {
+      "id": "WOS:000329571700009",
+      "title": "Correction of a genetic disease in mouse via use of crispr-cas9",
+      "journal": "CELL STEM CELL",
+      "diameter": 5.477225575051661,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000282807400025",
+      "title": "Targeting dna double-strand breaks with tal effector nucleases",
+      "journal": "GENETICS",
+      "diameter": 17.86057109949175,
+      "pubyear": 2010
+    },
+    {
+      "id": "WOS:000285712000024",
+      "title": "Selection-free zinc-finger-nuclease engineering by context-dependent assembly (coda)",
+      "journal": "NATURE METHODS",
+      "diameter": 11.874342087037917,
+      "pubyear": 2011
+    },
+    {
+      "id": "WOS:000314874400050",
+      "title": "Rna-guided human genome engineering via cas9",
+      "journal": "SCIENCE",
+      "diameter": 25.15949125081825,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000272623600048",
+      "title": "A simple cipher governs dna recognition by tal effectors",
+      "journal": "SCIENCE",
+      "diameter": 21.283796653792763,
+      "pubyear": 2009
+    },
+    {
+      "id": "WOS:000325073800018",
+      "title": "Crispr rna-guided activation of endogenous human genes",
+      "journal": "NATURE METHODS",
+      "diameter": 6.708203932499369,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000085409600039",
+      "title": "Positive and negative regulation of endogenous genes by designed transcription factors",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "diameter": 14.106735979665885,
+      "pubyear": 2000
+    },
+    {
+      "id": "WOS:A1989AE30400006",
+      "title": "Genetic and physical analysis of double-strand break repair and recombination in saccharomyces-cerevisiae",
+      "journal": "GENETICS",
+      "diameter": 9.16515138991168,
+      "pubyear": 1989
+    },
+    {
+      "id": "WOS:000177192500019",
+      "title": "Targeted chromosomal cleavage and mutagenesis in drosophila using zinc-finger nucleases",
+      "journal": "GENETICS",
+      "diameter": 15.132745950421556,
+      "pubyear": 2002
+    },
+    {
+      "id": "WOS:000227707100005",
+      "title": "Crispr elements in yersinia pestis acquire new repeats by preferential uptake of bacteriophage dna, and provide additional tools for evolutionary studies",
+      "journal": "MICROBIOLOGY-SGM",
+      "diameter": 14.798648586948742,
+      "pubyear": 2005
+    },
+    {
+      "id": "WOS:000276196500016",
+      "title": "Modular system for the construction of zinc-finger libraries and proteins",
+      "journal": "NATURE PROTOCOLS",
+      "diameter": 5.656854249492381,
+      "pubyear": 2010
+    },
+    {
+      "id": "WOS:000243191500002",
+      "title": "A combinatorial approach to create artificial homing endonucleases cleaving chosen sequences",
+      "journal": "NUCLEIC ACIDS RESEARCH",
+      "diameter": 9.219544457292887,
+      "pubyear": 2006
+    },
+    {
+      "id": "WOS:000318063400010",
+      "title": "Mammalian base excision repair: the forgotten archangel",
+      "journal": "NUCLEIC ACIDS RESEARCH",
+      "diameter": 5.0990195135927845,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000229476200043",
+      "title": "Highly efficient endogenous human gene correction using designed zinc-finger nucleases",
+      "journal": "NATURE",
+      "diameter": 24.08318915758459,
+      "pubyear": 2005
+    },
+    {
+      "id": "WOS:000258083400014",
+      "title": "Rapid \"open-source\" engineering of customized zinc-finger nucleases for highly efficient gene modification",
+      "journal": "MOLECULAR CELL",
+      "diameter": 16.792855623746664,
+      "pubyear": 2008
+    },
+    {
+      "id": "WOS:000326507600029",
+      "title": "Orthogonal cas9 proteins for rna-guided gene regulation and editing",
+      "journal": "NATURE METHODS",
+      "diameter": 7.14142842854285,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000086338200024",
+      "title": "Biological significance of a family of regularly spaced repeats in the genomes of archaea, bacteria and mitochondria",
+      "journal": "MOLECULAR MICROBIOLOGY",
+      "diameter": 9.695359714832659,
+      "pubyear": 2000
+    },
+    {
+      "id": "WOS:000324239300023",
+      "title": "One-step generation of mice carrying reporter and conditional alleles by crispr/cas-mediated genome engineering",
+      "journal": "CELL",
+      "diameter": 10.392304845413264,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000293562600001",
+      "title": "Unification of cas protein families and a simple scenario for the origin and evolution of crispr-cas systems",
+      "journal": "BIOLOGY DIRECT",
+      "diameter": 10.535653752852738,
+      "pubyear": 2011
+    },
+    {
+      "id": "WOS:000251086500031",
+      "title": "Gene editing in human stem cells using zinc finger nucleases and integrase-defective lentiviral vector delivery",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 19.026297590440446,
+      "pubyear": 2007
+    },
+    {
+      "id": "WOS:000258436700038",
+      "title": "Small crispr rnas guide antiviral defense in prokaryotes",
+      "journal": "SCIENCE",
+      "diameter": 20.445048300260872,
+      "pubyear": 2008
+    },
+    {
+      "id": "WOS:000324765100038",
+      "title": "Efficient genome engineering in human pluripotent stem cells using cas9 from neisseria meningitidis",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "diameter": 6.244997998398398,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000284832900009",
+      "title": "Exome sequencing, angptl3 mutations, and familial combined hypolipidemia",
+      "journal": "NEW ENGLAND JOURNAL OF MEDICINE",
+      "diameter": 11.789826122551595,
+      "pubyear": 2010
+    },
+    {
+      "id": "WOS:000323176900026",
+      "title": "Protospacer recognition motifs: mixed identities and functional diversity",
+      "journal": "RNA BIOLOGY",
+      "diameter": 5.0,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000316851100026",
+      "title": "Nucleotide-resolution dna double-strand break mapping by next-generation sequencing",
+      "journal": "NATURE METHODS",
+      "diameter": 3.1622776601683795,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000175908600040",
+      "title": "Identification of 86 candidates for small non-messenger rnas from the archaeon archaeoglobus fulgidus",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "diameter": 13.45362404707371,
+      "pubyear": 2002
+    },
+    {
+      "id": "WOS:000227070100004",
+      "title": "Intervening sequences of regularly spaced prokaryotic repeats derive from foreign genetic elements",
+      "journal": "JOURNAL OF MOLECULAR EVOLUTION",
+      "diameter": 16.217274740226856,
+      "pubyear": 2005
+    },
+    {
+      "id": "WOS:000323316100038",
+      "title": "Optical control of mammalian endogenous transcription and epigenetic states",
+      "journal": "NATURE",
+      "diameter": 9.327379053088816,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000329571700008",
+      "title": "Functional repair of cftr by crispr/cas9 in intestinal stem cell organoids of cystic fibrosis patients",
+      "journal": "CELL STEM CELL",
+      "diameter": 6.244997998398398,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000261799400054",
+      "title": "Crispr interference limits horizontal gene transfer in staphylococci by targeting dna",
+      "journal": "SCIENCE",
+      "diameter": 17.97220075561143,
+      "pubyear": 2008
+    },
+    {
+      "id": "WOS:000337233800017",
+      "title": "Genome editing with cas9 in adult mice corrects a disease mutation and phenotype",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 5.477225575051661,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:000329162000053",
+      "title": "Genome-scale crispr-cas9 knockout screening in human cells",
+      "journal": "SCIENCE",
+      "diameter": 9.327379053088816,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:000316439500017",
+      "title": "Targeted genome engineering in human cells with the cas9 rna-guided endonuclease",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 13.92838827718412,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000332083900012",
+      "title": "Crystal structure of cas9 in complex with guide rna and target dna",
+      "journal": "CELL",
+      "diameter": 6.244997998398398,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:000323176900011",
+      "title": "The tracrrna and cas9 families of type ii crispr-cas immunity systems",
+      "journal": "RNA BIOLOGY",
+      "diameter": 5.744562646538029,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000165847300028",
+      "title": "Stimulation of homologous recombination through targeted cleavage by chimeric nucleases",
+      "journal": "MOLECULAR AND CELLULAR BIOLOGY",
+      "diameter": 14.071247279470288,
+      "pubyear": 2001
+    },
+    {
+      "id": "WOS:000247994000029",
+      "title": "An improved zinc-finger nuclease architecture for highly specific genome editing",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 18.411952639521967,
+      "pubyear": 2007
+    },
+    {
+      "id": "WOS:000324306300025",
+      "title": "High-throughput profiling of off-target dna cleavage reveals rna-programmed cas9 nuclease specificity",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 10.44030650891055,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000322911000009",
+      "title": "Simultaneous generation and germline transmission of multiple gene mutations in rat using crispr-cas systems",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 7.681145747868608,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000316439500018",
+      "title": "Rna-guided editing of bacterial genomes using crispr-cas systems",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 13.45362404707371,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000231459000006",
+      "title": "Clustered regularly interspaced short palindrome repeats (crisprs) have spacers of extrachromosomal origin",
+      "journal": "MICROBIOLOGY-SGM",
+      "diameter": 15.297058540778355,
+      "pubyear": 2005
+    },
+    {
+      "id": "WOS:000234713300005",
+      "title": "A guild of 45 crispr-associated (cas) protein families and multiple crispr/cas subtypes exist in prokaryotic genomes",
+      "journal": "PLOS COMPUTATIONAL BIOLOGY",
+      "diameter": 17.578395831246947,
+      "pubyear": 2005
+    },
+    {
+      "id": "WOS:000328585600001",
+      "title": "Rna-programmed genome editing in human cells",
+      "journal": "ELIFE",
+      "diameter": 12.12435565298214,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000307535600036",
+      "title": "A programmable dual-rna-guided dna endonuclease in adaptive bacterial immunity",
+      "journal": "SCIENCE",
+      "diameter": 21.79449471770337,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000324239300024",
+      "title": "Double nicking by rna-guided crispr cas9 for enhanced genome editing specificity",
+      "journal": "CELL",
+      "diameter": 12.12435565298214,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000332728500028",
+      "title": "Structures of cas9 endonucleases reveal rna-mediated conformational activation",
+      "journal": "SCIENCE",
+      "diameter": 5.830951894845301,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:000329559000007",
+      "title": "Increased brain penetration and potency of a therapeutic antibody using a monovalent molecular shuttle",
+      "journal": "NEURON",
+      "diameter": 3.1622776601683795,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:000321950700019",
+      "title": "Crispr-mediated modular rna-guided regulation of transcription in eukaryotes",
+      "journal": "CELL",
+      "diameter": 10.535653752852738,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000319893600005",
+      "title": "Processing-independent crispr rnas limit natural transformation in neisseria meningitidis",
+      "journal": "MOLECULAR CELL",
+      "diameter": 5.477225575051661,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000328251900027",
+      "title": "Locus-specific editing of histone modifications at endogenous enhancers",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 7.14142842854285,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000332309800007",
+      "title": "Gene editing of ccr5 in autologous cd4 t cells of persons infected with hiv",
+      "journal": "NEW ENGLAND JOURNAL OF MEDICINE",
+      "diameter": 7.0,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:A1997YJ92400011",
+      "title": "Cytosine methylation targetted to pre-determined sequences",
+      "journal": "NATURE GENETICS",
+      "diameter": 8.660254037844387,
+      "pubyear": 1997
+    },
+    {
+      "id": "WOS:000090003800035",
+      "title": "Chemically regulated zinc finger transcription factors",
+      "journal": "JOURNAL OF BIOLOGICAL CHEMISTRY",
+      "diameter": 8.54400374531753,
+      "pubyear": 2000
+    },
+    {
+      "id": "WOS:000336092300061",
+      "title": "Comprehensive analysis of the specificity of transcription activator-like effector nucleases",
+      "journal": "NUCLEIC ACIDS RESEARCH",
+      "diameter": 2.23606797749979,
+      "pubyear": 2014
+    },
+    {
+      "id": "WOS:A1995QM49200015",
+      "title": "Induction of homologous recombination in mammalian chromosomes by using the i-scei system of saccharomyces-cerevisiae",
+      "journal": "MOLECULAR AND CELLULAR BIOLOGY",
+      "diameter": 13.711309200802088,
+      "pubyear": 1995
+    },
+    {
+      "id": "WOS:A1994PV67400039",
+      "title": "Introduction of double-strand breaks into the genome of mouse cells by expression of a rare-cutting endonuclease",
+      "journal": "MOLECULAR AND CELLULAR BIOLOGY",
+      "diameter": 15.556349186104045,
+      "pubyear": 1994
+    },
+    {
+      "id": "WOS:000324306300022",
+      "title": "High-frequency off-target mutagenesis induced by crispr-cas nucleases in human cells",
+      "journal": "NATURE BIOTECHNOLOGY",
+      "diameter": 15.297058540778355,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000309604500003",
+      "title": "Cas9-crrna ribonucleoprotein complex mediates specific dna cleavage for adaptive immunity in bacteria",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "diameter": 11.74734012447073,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000325073800017",
+      "title": "Rna-guided gene activation by crispr-cas9-based transcription factors",
+      "journal": "NATURE METHODS",
+      "diameter": 7.211102550927978,
+      "pubyear": 2013
+    },
+    {
+      "id": "WOS:000314874400049",
+      "title": "Multiplex genome engineering using crispr/cas systems",
+      "journal": "SCIENCE",
+      "diameter": 25.67099530598687,
+      "pubyear": 2013
+    }
+  ],
+  "links": [
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 12,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 19,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 23,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 27,
+      "year": 2000
+    },
+    {
+      "source": "WOS:000085409600039",
+      "target": "WOS:A1997YJ92400011",
+      "weight": 6,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 31,
+      "year": 2001
+    },
+    {
+      "source": "WOS:000085409600039",
+      "target": "WOS:000090003800035",
+      "weight": 9,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 31,
+      "year": 2002
+    },
+    {
+      "source": "WOS:000085409600039",
+      "target": "WOS:000090003800035",
+      "weight": 13,
+      "year": 2003
+    },
+    {
+      "source": "WOS:000165847300028",
+      "target": "WOS:000177192500019",
+      "weight": 7,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 35,
+      "year": 2003
+    },
+    {
+      "source": "WOS:000085409600039",
+      "target": "WOS:000090003800035",
+      "weight": 16,
+      "year": 2004
+    },
+    {
+      "source": "WOS:000085409600039",
+      "target": "WOS:A1997YJ92400011",
+      "weight": 8,
+      "year": 2004
+    },
+    {
+      "source": "WOS:000165847300028",
+      "target": "WOS:000177192500019",
+      "weight": 7,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 37,
+      "year": 2004
+    },
+    {
+      "source": "WOS:000085409600039",
+      "target": "WOS:000090003800035",
+      "weight": 20,
+      "year": 2005
+    },
+    {
+      "source": "WOS:000165847300028",
+      "target": "WOS:000177192500019",
+      "weight": 14,
+      "year": 2005
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000227707100005",
+      "weight": 2,
+      "year": 2005
+    },
+    {
+      "source": "WOS:000175908600040",
+      "target": "WOS:000227707100005",
+      "weight": 2,
+      "year": 2005
+    },
+    {
+      "source": "WOS:000182579800040",
+      "target": "WOS:000229476200043",
+      "weight": 11,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 40,
+      "year": 2005
+    },
+    {
+      "source": "WOS:000085409600039",
+      "target": "WOS:000090003800035",
+      "weight": 22,
+      "year": 2006
+    },
+    {
+      "source": "WOS:000086338200024",
+      "target": "WOS:000174710000017",
+      "weight": 8,
+      "year": 2006
+    },
+    {
+      "source": "WOS:000165847300028",
+      "target": "WOS:000177192500019",
+      "weight": 20,
+      "year": 2006
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000227070100004",
+      "weight": 9,
+      "year": 2006
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000227707100005",
+      "weight": 8,
+      "year": 2006
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000231459000006",
+      "weight": 5,
+      "year": 2006
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000234713300005",
+      "weight": 4,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 46,
+      "year": 2006
+    },
+    {
+      "source": "WOS:000086338200024",
+      "target": "WOS:000174710000017",
+      "weight": 15,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000227070100004",
+      "weight": 19,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000227707100005",
+      "weight": 16,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000231459000006",
+      "weight": 10,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000234713300005",
+      "weight": 12,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000244032500001",
+      "weight": 13,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000177192500019",
+      "target": "WOS:000182579800040",
+      "weight": 25,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000247994000029",
+      "weight": 3,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000244032500001",
+      "target": "WOS:000245106900039",
+      "weight": 9,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 50,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000086338200024",
+      "target": "WOS:000174710000017",
+      "weight": 20,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000086338200024",
+      "target": "WOS:A1987L042600013",
+      "weight": 8,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000227070100004",
+      "weight": 29,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000227707100005",
+      "weight": 29,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000231459000006",
+      "weight": 22,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000234713300005",
+      "weight": 27,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000177192500019",
+      "target": "WOS:000182579800040",
+      "weight": 36,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000227070100004",
+      "target": "WOS:000231459000006",
+      "weight": 22,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000251086500031",
+      "weight": 13,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000244032500001",
+      "target": "WOS:000245106900039",
+      "weight": 31,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000244032500001",
+      "target": "WOS:000258436700038",
+      "weight": 4,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800028",
+      "weight": 14,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800029",
+      "weight": 9,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000258436700038",
+      "weight": 4,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000253005800028",
+      "target": "WOS:000253005800029",
+      "weight": 9,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 52,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000085409600039",
+      "target": "WOS:000090003800035",
+      "weight": 26,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000086338200024",
+      "target": "WOS:000174710000017",
+      "weight": 25,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000086338200024",
+      "target": "WOS:A1987L042600013",
+      "weight": 13,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000227070100004",
+      "weight": 44,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000227707100005",
+      "weight": 40,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000177192500019",
+      "target": "WOS:000182579800040",
+      "weight": 44,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000247994000029",
+      "weight": 43,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000251086500031",
+      "weight": 31,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000258083400014",
+      "weight": 24,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000231459000006",
+      "target": "WOS:000245106900039",
+      "weight": 34,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000234713300005",
+      "target": "WOS:000245106900039",
+      "weight": 47,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000244032500001",
+      "target": "WOS:000245106900039",
+      "weight": 54,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800028",
+      "weight": 33,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800029",
+      "weight": 22,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000258436700038",
+      "weight": 30,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000261799400054",
+      "weight": 18,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000266218100008",
+      "weight": 6,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 61,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000086338200024",
+      "target": "WOS:000174710000017",
+      "weight": 33,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000245106900039",
+      "weight": 64,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000227070100004",
+      "weight": 63,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000177192500019",
+      "target": "WOS:000229476200043",
+      "weight": 58,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000227070100004",
+      "target": "WOS:000227707100005",
+      "weight": 58,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000247994000029",
+      "weight": 66,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000251086500031",
+      "weight": 56,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000258083400014",
+      "weight": 45,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000231459000006",
+      "target": "WOS:000245106900039",
+      "weight": 58,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000234713300005",
+      "target": "WOS:000245106900039",
+      "weight": 73,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000234713300005",
+      "target": "WOS:A1987L042600013",
+      "weight": 21,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000244032500001",
+      "target": "WOS:000245106900039",
+      "weight": 80,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800028",
+      "weight": 59,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800029",
+      "weight": 43,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000258436700038",
+      "weight": 65,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000261799400054",
+      "weight": 55,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000266218100008",
+      "weight": 14,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000273981100057",
+      "weight": 9,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:A1987L042600013",
+      "weight": 21,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000253005800028",
+      "target": "WOS:000273981100057",
+      "weight": 9,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000258436700038",
+      "target": "WOS:000272169400018",
+      "weight": 19,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000258436700038",
+      "target": "WOS:000273981100057",
+      "weight": 9,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000261799400054",
+      "target": "WOS:000273981100057",
+      "weight": 9,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000272623600048",
+      "target": "WOS:000272623600050",
+      "weight": 19,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 68,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000086338200024",
+      "target": "WOS:000174710000017",
+      "weight": 42,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000165847300028",
+      "target": "WOS:000229476200043",
+      "weight": 81,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000245106900039",
+      "weight": 95,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000177192500019",
+      "target": "WOS:000229476200043",
+      "weight": 78,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000227070100004",
+      "target": "WOS:000245106900039",
+      "weight": 97,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000227070100004",
+      "target": "WOS:000227707100005",
+      "weight": 87,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000247994000029",
+      "weight": 96,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000251086500031",
+      "weight": 85,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000258083400014",
+      "weight": 68,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000231459000006",
+      "target": "WOS:000245106900039",
+      "weight": 92,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000234713300005",
+      "target": "WOS:000245106900039",
+      "weight": 110,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000244032500001",
+      "target": "WOS:000245106900039",
+      "weight": 122,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800028",
+      "weight": 88,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800029",
+      "weight": 61,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000258436700038",
+      "weight": 118,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000261799400054",
+      "weight": 97,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000266218100008",
+      "weight": 24,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000273981100057",
+      "weight": 33,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000283786900036",
+      "weight": 27,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000290614100019",
+      "weight": 13,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:A1987L042600013",
+      "weight": 33,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000258083400014",
+      "target": "WOS:000276196500016",
+      "weight": 3,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000258083400014",
+      "target": "WOS:000285712000024",
+      "weight": 18,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000258436700038",
+      "target": "WOS:000272169400018",
+      "weight": 67,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000258436700038",
+      "target": "WOS:000283786900036",
+      "weight": 27,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000258436700038",
+      "target": "WOS:000288951200035",
+      "weight": 10,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000261799400054",
+      "target": "WOS:000273981100057",
+      "weight": 33,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000272169400018",
+      "target": "WOS:000283786900036",
+      "weight": 27,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000272623600048",
+      "target": "WOS:000272623600050",
+      "weight": 60,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000272623600048",
+      "target": "WOS:000282807400025",
+      "weight": 23,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000272623600050",
+      "target": "WOS:000282807400025",
+      "weight": 23,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000282807400025",
+      "target": "WOS:000287023000021",
+      "weight": 23,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 75,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000085409600039",
+      "target": "WOS:000090003800035",
+      "weight": 31,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000086338200024",
+      "target": "WOS:000174710000017",
+      "weight": 50,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000165847300028",
+      "target": "WOS:000229476200043",
+      "weight": 88,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000245106900039",
+      "weight": 135,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000177192500019",
+      "target": "WOS:000229476200043",
+      "weight": 86,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000227070100004",
+      "target": "WOS:000245106900039",
+      "weight": 135,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000227070100004",
+      "target": "WOS:000227707100005",
+      "weight": 113,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000247994000029",
+      "weight": 112,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000251086500031",
+      "weight": 101,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000231459000006",
+      "target": "WOS:000245106900039",
+      "weight": 127,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000234713300005",
+      "target": "WOS:000245106900039",
+      "weight": 151,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000244032500001",
+      "target": "WOS:000245106900039",
+      "weight": 157,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000258436700038",
+      "weight": 177,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800028",
+      "weight": 133,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800029",
+      "weight": 91,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000261799400054",
+      "weight": 145,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000266218100008",
+      "weight": 34,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000273981100057",
+      "weight": 62,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000283786900036",
+      "weight": 72,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000290614100019",
+      "weight": 69,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000300481100005",
+      "weight": 15,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:A1987L042600013",
+      "weight": 49,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000247994000029",
+      "target": "WOS:000258083400014",
+      "weight": 88,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000258083400014",
+      "target": "WOS:000276196500016",
+      "weight": 7,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000258083400014",
+      "target": "WOS:000285712000024",
+      "weight": 40,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000258436700038",
+      "target": "WOS:000272169400018",
+      "weight": 116,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000258436700038",
+      "target": "WOS:000288951200035",
+      "weight": 43,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000258436700038",
+      "target": "WOS:000300481100005",
+      "weight": 15,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000272169400018",
+      "target": "WOS:000300481100005",
+      "weight": 15,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000272623600048",
+      "target": "WOS:000272623600050",
+      "weight": 131,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000282807400025",
+      "target": "WOS:000287023000021",
+      "weight": 68,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000288951200035",
+      "target": "WOS:000307535600036",
+      "weight": 8,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000290614100019",
+      "target": "WOS:000293562600001",
+      "weight": 22,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000290614100019",
+      "target": "WOS:000297375700025",
+      "weight": 20,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000290614100019",
+      "target": "WOS:000307535600036",
+      "weight": 8,
+      "year": 2012
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 83,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000085409600039",
+      "target": "WOS:000090003800035",
+      "weight": 32,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000086338200024",
+      "target": "WOS:000174710000017",
+      "weight": 59,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000165847300028",
+      "target": "WOS:000229476200043",
+      "weight": 96,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000245106900039",
+      "weight": 170,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000177192500019",
+      "target": "WOS:000229476200043",
+      "weight": 100,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000182579800040",
+      "target": "WOS:000229476200043",
+      "weight": 119,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000227070100004",
+      "target": "WOS:000245106900039",
+      "weight": 171,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000227707100005",
+      "target": "WOS:000245106900039",
+      "weight": 144,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000251086500031",
+      "weight": 123,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000231459000006",
+      "target": "WOS:000245106900039",
+      "weight": 163,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000234713300005",
+      "target": "WOS:000245106900039",
+      "weight": 189,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000244032500001",
+      "target": "WOS:000245106900039",
+      "weight": 195,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000258436700038",
+      "weight": 254,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800028",
+      "weight": 181,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800029",
+      "weight": 128,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000261799400054",
+      "weight": 195,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000266218100008",
+      "weight": 49,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000273981100057",
+      "weight": 87,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000283786900036",
+      "weight": 129,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000290614100019",
+      "weight": 156,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000319893600005",
+      "weight": 10,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000323176900026",
+      "weight": 8,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:A1987L042600013",
+      "weight": 62,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000247994000029",
+      "target": "WOS:000258083400014",
+      "weight": 108,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000258083400014",
+      "target": "WOS:000276196500016",
+      "weight": 13,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000258083400014",
+      "target": "WOS:000285712000024",
+      "weight": 61,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000258436700038",
+      "target": "WOS:000272169400018",
+      "weight": 174,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000258436700038",
+      "target": "WOS:000319893600005",
+      "weight": 10,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000272623600048",
+      "target": "WOS:000272623600050",
+      "weight": 264,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000272623600050",
+      "target": "WOS:000287023000021",
+      "weight": 146,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000272623600050",
+      "target": "WOS:000323316100038",
+      "weight": 3,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000282807400025",
+      "target": "WOS:000287023000021",
+      "weight": 126,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000287023000021",
+      "target": "WOS:000324239300024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000288951200035",
+      "target": "WOS:000290614100019",
+      "weight": 103,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000290614100019",
+      "target": "WOS:000293562600001",
+      "weight": 58,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000290614100019",
+      "target": "WOS:000297375700025",
+      "weight": 44,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000290614100019",
+      "target": "WOS:000300481100005",
+      "weight": 50,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000290614100019",
+      "target": "WOS:000324239300024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000314874400050",
+      "weight": 107,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000309604500003",
+      "weight": 57,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000321950700019",
+      "weight": 11,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000324239300024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000325073800017",
+      "weight": 3,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000325073800018",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000314874400050",
+      "weight": 164,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000315710300022",
+      "weight": 40,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000316439500018",
+      "weight": 62,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000318844000018",
+      "weight": 54,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000321950700019",
+      "weight": 11,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000322911000009",
+      "weight": 6,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000324239300023",
+      "weight": 5,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000324239300024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000324306300022",
+      "weight": 32,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000324306300023",
+      "weight": 23,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000324306300024",
+      "weight": 10,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000324306300025",
+      "weight": 10,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000324765100038",
+      "weight": 4,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000325073800017",
+      "weight": 3,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000325073800018",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000316439500017",
+      "weight": 72,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000321950700019",
+      "weight": 11,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000322911000009",
+      "weight": 6,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000324239300023",
+      "weight": 5,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000324239300024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000324306300022",
+      "weight": 32,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000325073800017",
+      "weight": 3,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000325073800018",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000328585600001",
+      "weight": 58,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000315710300022",
+      "target": "WOS:000324239300024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000315710300022",
+      "target": "WOS:000325073800017",
+      "weight": 3,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000315710300022",
+      "target": "WOS:000325073800018",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000316439500017",
+      "target": "WOS:000324239300023",
+      "weight": 5,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000316439500017",
+      "target": "WOS:000324239300024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000316439500017",
+      "target": "WOS:000325073800017",
+      "weight": 3,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000316439500017",
+      "target": "WOS:000325073800018",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000316439500018",
+      "target": "WOS:000324239300024",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000316439500018",
+      "target": "WOS:000325073800017",
+      "weight": 3,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000316439500018",
+      "target": "WOS:000325073800018",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000321950700019",
+      "target": "WOS:000325073800017",
+      "weight": 3,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000321950700019",
+      "target": "WOS:000325073800018",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000323316100038",
+      "target": "WOS:000328251900027",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000324239300023",
+      "target": "WOS:000324306300022",
+      "weight": 5,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000324239300023",
+      "target": "WOS:000324306300023",
+      "weight": 5,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000324239300024",
+      "target": "WOS:000324306300022",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000324239300024",
+      "target": "WOS:000324306300023",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000324306300022",
+      "target": "WOS:000324306300025",
+      "weight": 10,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000324306300023",
+      "target": "WOS:000324306300025",
+      "weight": 10,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000325073800017",
+      "target": "WOS:000325073800018",
+      "weight": 2,
+      "year": 2013
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 87,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000085409600039",
+      "target": "WOS:000090003800035",
+      "weight": 36,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000086338200024",
+      "target": "WOS:000174710000017",
+      "weight": 67,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000165847300028",
+      "target": "WOS:000229476200043",
+      "weight": 107,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000174710000017",
+      "target": "WOS:000245106900039",
+      "weight": 198,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000177192500019",
+      "target": "WOS:000229476200043",
+      "weight": 112,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000182579800040",
+      "target": "WOS:000229476200043",
+      "weight": 137,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000227070100004",
+      "target": "WOS:000245106900039",
+      "weight": 209,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000227707100005",
+      "target": "WOS:000245106900039",
+      "weight": 169,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000251086500031",
+      "weight": 148,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000229476200043",
+      "target": "WOS:000258083400014",
+      "weight": 120,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000231459000006",
+      "target": "WOS:000245106900039",
+      "weight": 194,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000234713300005",
+      "target": "WOS:000245106900039",
+      "weight": 220,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000244032500001",
+      "target": "WOS:000245106900039",
+      "weight": 227,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000258436700038",
+      "weight": 330,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800028",
+      "weight": 216,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000253005800029",
+      "weight": 152,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000261799400054",
+      "weight": 244,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000266218100008",
+      "weight": 57,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000273981100057",
+      "weight": 106,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000283786900036",
+      "weight": 194,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000290614100019",
+      "weight": 231,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000297375700025",
+      "weight": 71,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:000323176900026",
+      "weight": 22,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000245106900039",
+      "target": "WOS:A1987L042600013",
+      "weight": 78,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000258083400014",
+      "target": "WOS:000276196500016",
+      "weight": 17,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000258083400014",
+      "target": "WOS:000285712000024",
+      "weight": 78,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000258436700038",
+      "target": "WOS:000272169400018",
+      "weight": 223,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000272623600048",
+      "target": "WOS:000272623600050",
+      "weight": 411,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000272623600048",
+      "target": "WOS:000336092300061",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000272623600050",
+      "target": "WOS:000282807400025",
+      "weight": 179,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000272623600050",
+      "target": "WOS:000287023000021",
+      "weight": 220,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000272623600050",
+      "target": "WOS:000336092300061",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000272623600050",
+      "target": "WOS:000338768100008",
+      "weight": 4,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000282807400025",
+      "target": "WOS:000336092300061",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000288951200035",
+      "target": "WOS:000290614100019",
+      "weight": 152,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000288951200035",
+      "target": "WOS:000319893600005",
+      "weight": 22,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000290614100019",
+      "target": "WOS:000293562600001",
+      "weight": 89,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000290614100019",
+      "target": "WOS:000300481100005",
+      "weight": 73,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000314874400050",
+      "weight": 313,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000309604500003",
+      "weight": 128,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000318063400010",
+      "weight": 6,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000323176900011",
+      "weight": 23,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000326507600029",
+      "weight": 43,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000332083900012",
+      "weight": 33,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000332224400042",
+      "weight": 31,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000332381000048",
+      "weight": 11,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000332728500028",
+      "weight": 25,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000307535600036",
+      "target": "WOS:000338768100008",
+      "weight": 4,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000309604500003",
+      "target": "WOS:000338768100008",
+      "weight": 4,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000314874400050",
+      "weight": 510,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000315710300022",
+      "weight": 115,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000316439500018",
+      "weight": 146,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000318063400010",
+      "weight": 6,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000318844000018",
+      "weight": 223,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000321950700019",
+      "weight": 73,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000322911000009",
+      "weight": 48,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000324239300023",
+      "weight": 78,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000324239300024",
+      "weight": 120,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000324306300023",
+      "weight": 159,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000324306300024",
+      "weight": 114,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000324306300025",
+      "weight": 98,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000328693300006",
+      "weight": 29,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000329571700009",
+      "weight": 23,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000331379800020",
+      "weight": 31,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000332309800007",
+      "weight": 16,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000337233800017",
+      "weight": 19,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000338705900033",
+      "weight": 19,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400049",
+      "target": "WOS:000338768100008",
+      "weight": 4,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000316439500017",
+      "weight": 171,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000318063400010",
+      "weight": 6,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000322911000009",
+      "weight": 48,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000324306300022",
+      "weight": 182,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000324765100038",
+      "weight": 34,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000325073800017",
+      "weight": 38,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000328585600001",
+      "weight": 140,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000329571700008",
+      "weight": 27,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000332819800027",
+      "weight": 38,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000338705900033",
+      "weight": 19,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000314874400050",
+      "target": "WOS:000338768100008",
+      "weight": 4,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000316439500017",
+      "target": "WOS:000318063400010",
+      "weight": 6,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000316439500018",
+      "target": "WOS:000318063400010",
+      "weight": 6,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000321950700019",
+      "target": "WOS:000325073800018",
+      "weight": 34,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000323176900011",
+      "target": "WOS:000338768100008",
+      "weight": 4,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000323316100038",
+      "target": "WOS:000328251900027",
+      "weight": 30,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000323316100038",
+      "target": "WOS:000336092300061",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000328251900027",
+      "target": "WOS:000336092300061",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000329162000052",
+      "target": "WOS:000329162000053",
+      "weight": 68,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000332083900012",
+      "target": "WOS:000338768100008",
+      "weight": 4,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000332728500028",
+      "target": "WOS:000338768100008",
+      "weight": 4,
+      "year": 2014
+    },
+    {
+      "source": "WOS:A1994PV67400039",
+      "target": "WOS:A1995QM49200015",
+      "weight": 91,
+      "year": 2014
+    }
+  ]
+}

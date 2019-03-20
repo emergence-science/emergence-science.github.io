@@ -107,7 +107,12 @@
         line-height:1.7em;
         top:300px; 
         left:1140px;
+    }
 
+    .button_area{
+        position:absolute; 
+        top:920; 
+        left:1010px;
     }
 </style>
 
@@ -119,13 +124,18 @@
     <!-- <script src="http://marvl.infotech.monash.edu/webcola/cola.min.js"></script> -->
     <div class="main_menu">menu</div>
     <div class="plot_area"></div>
-    <div class="paper_list">
-    <ul>
-        <li><a href="#" class="papers" id="SIAM_review_Newman">SIAM review paper</a></li>
-        <li id="CRISPR_review_cell"> CRISPR review paper</li>
-    </ul>
-
+    <div class="button_area">
+        <button type="button" id="go_prev_year"><<</button>
+        <button type="button" id="go_next_year">>></button>
     </div>
+
+    <div class="paper_list">
+        <ul>
+            <li><a href="#" class="papers" id="SIAM_review_Newman">SIAM review paper</a></li>
+            <li><a href="#" class="papers" id="CRISPR_cell">CRISPR review paper</a></li>
+        </ul>
+    </div>
+
 
     <script>
         
@@ -171,7 +181,7 @@
                     if(v.year <= min_year) min_year = v.year;
                     if(v.year >= max_year) max_year = v.year;
                 })
-                console.log(min_year, max_year)
+                // console.log(min_year, max_year)
 
                 var x = d3.scaleLinear()
                     .domain([min_year, max_year])
@@ -236,8 +246,32 @@
                         .attr("font-family", "sans-serif")
                         .attr("font-size", "120px")
                         .attr("fill", "black");
-
                 
+                
+                // connect button to slide bar
+                var prevButton = d3.select("#go_prev_year");
+                var nextButton = d3.select("#go_next_year");
+
+                function get_now_year(){
+                    return parseInt(x.invert( jQuery(".handle").attr("cx") ) )
+                }
+                                
+                prevButton
+                .on("click", function() {
+                    cur_year = get_now_year();
+                    if(cur_year > min_year){
+                        change_year_textbox(cur_year-1);
+                    }
+                })
+
+                nextButton
+                .on("click", function() {
+                    cur_year = get_now_year();
+                    if(cur_year < max_year){
+                        change_year_textbox(cur_year+1);
+                    }
+                })
+
                 // make networks
 
                 links_filtered = graph.links.filter(function(d) { return d.year == max_year} )
@@ -252,7 +286,7 @@
                 var link = g.append("g")
                 .attr("class", "links")
                 .selectAll("line")
-                .data(links_filtered, function(d) { return d.source.id + "-" + d.target.id; })
+                .data(links_filtered, function(d) { return d.source + "-" + d.target; })
                 .enter().append("line")
                 .attr("stroke-width", 100)
                 .attr("stroke", "black")
@@ -293,11 +327,11 @@
                 // graph.nodes.forEach(function (v) { v.width = 10, v.height = 10 })
 
                 node.append("title")
-                .text(function(d) { return (d.title + " (" + d.pubyear + ")"); });    
+                .text(function(d) { return (d.title + " (" + d.journal + ", " + d.pubyear + ")"); });    
 
-                link.append("title")
-                    .text(function(d) { 
-                        return ( title_name_dic[d.source] + " - " + title_name_dic[d.target] + " (" + d.weight + ")"); });   
+                // link.append("title")
+                //     .text(function(d) { 
+                //         return ( title_name_dic[d.source] + " - " + title_name_dic[d.target] + " (" + d.weight + ")"); });   
         
 
                 function ticked() {
@@ -349,10 +383,7 @@
 
                 restart()
                 
-                function get_now_year(){
-                    return parseInt(x.invert( jQuery(".handle").attr("cx") ) )
-                }
-                
+
                 var prev_year = get_now_year()
 
 
@@ -364,7 +395,8 @@
                         if(prev_year != cur_year) {
                             console.log(prev_year, cur_year)
                             restart();
-                        }
+                       
+ }
                         prev_year = cur_year
                     }, 100)
                     
@@ -377,22 +409,33 @@
 
                     $(".node").show()
                     for (var y = cur_year+1; y <= 2014; y++) {
-                        console.log(y)
-                        // $(".py_" + y).show()
                         $(".py_"+y).hide()
                     }
 
-                    links_filtered = graph.links.filter(function(d) { return d.year == cur_year} )
+                    var links_filtered = []
+                    graph.links.forEach(function(v, i) { 
+                        if(v.year == cur_year){
+                            links_filtered.push(v)
+                        }
+                    })
                     
+                    console.log(links_filtered)
+
+                    var link_weight_dic = {}
+                    links_filtered.forEach(function(v, i){
+                        link_weight_dic[v.source.id + "-" + v.target.id] = v.weight
+                    })
+                    
+                    console.log(link_weight_dic)
+
                     // Apply the general update pattern to the links.
-                    link = link.data(links_filtered, function(d) { return d.source.id + "-" + d.target.id; });
+                    link = link.data(links_filtered, function(d) { return d.source + "-" + d.target; });
                     link.exit().remove();
-    
 
                     link = link.enter()
                     .append("line")
+                    // .attr("stroke-width", function(d) { return Math.log10(link_weight_dic[d.source.id + "-" + d.target.id]); })
                     .attr("stroke-width", function(d) { return Math.log10(d.weight); })
-                    // .attr("stroke-width", 2)
                     .attr("stroke", "black")
                     .attr("alpha", 1)
                     .merge(link)
@@ -400,7 +443,8 @@
                     link.append("title")
                     .text(function(d) { 
                         // console.log(d.source)
-                        return ( title_name_dic[d.source] + " - " + title_name_dic[d.target] + " (" + d.weight + ")"); });   
+                        // return ( title_name_dic[d.source] + " - " + title_name_dic[d.target] + " (" + link_weight_dic[d.source.id + "-" + d.target.id] + ")"); });   
+                        return ( d.source.title + " - " + d.target.title + " (" + d.weight + ")"); });   
 
 
                     simulation
@@ -455,7 +499,7 @@
                     d3.select(".legend-area").remove();
 
                     var legend = svg.append("g").attr("class", "legend-area").selectAll(".legend")
-                    .data(colorScale.ticks(10).slice(1).reverse())
+                    .data(colorScale.ticks(7).slice(1).reverse())
                     .enter().append("g")
                     .attr("class", "legend")
                     .attr("transform", function(d, i) { return "translate(" + (width - 100) + "," + (220 + i * 20) + ")"; });
