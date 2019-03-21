@@ -455,14 +455,14 @@
                         }
                     })
                     
-                    console.log(links_filtered)
+                    // console.log(links_filtered)
 
                     var link_weight_dic = {}
                     links_filtered.forEach(function(v, i){
                         link_weight_dic[v.source.id + "-" + v.target.id] = v.weight
                     })
                     
-                    console.log(link_weight_dic)
+                    // console.log(link_weight_dic)
 
                     // Apply the general update pattern to the links.
                     link = link.data(links_filtered, function(d) { return d.source + "-" + d.target; });
