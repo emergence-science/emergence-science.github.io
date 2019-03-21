@@ -161,7 +161,7 @@
 
             var json_path = $(this).attr('id') + ".json";
             console.log(json_path);
-            d3.selectAll("svg > *").remove();
+            d3.d3.select(".plot_area").selectAll("svg > *").remove();
 
             var svg = d3.select(".plot_area").append("svg")
             .attr("width", width)
@@ -431,12 +431,10 @@
                         if(prev_year != cur_year) {
                             console.log(prev_year, cur_year)
                             restart();
-                       
- }
+                       }
                         prev_year = cur_year
                     }, 100)
                     
-
                 function restart()
                 {   
                     var cur_year = parseInt(x.invert( jQuery(".handle").attr("cx") ) )
@@ -630,10 +628,7 @@
                 .attr("fill", "black")
             }); // end of d3.json
 
-        });
-
-        
-
+        }); // end of jquery
     </script>
 
     <div class="inst">   
