@@ -115,6 +115,14 @@
         left:1010px;
     }
 
+    .paper_info_area{
+        position:absolute; 
+        top:1000px; 
+        left:100px;
+        width: 900px;
+        word-break: break-word;
+    }
+
     .background_head_plot_area{
         position:absolute; 
         top:100px; 
@@ -139,6 +147,10 @@
         <button type="button" id="go_next_year">>></button>
     </div>
 
+    <div class="paper_info_area">
+        Metadata of a chonse paper will be shown. 
+    </div>
+    
     <div class="paper_list">
         <ul>
             <p> Reviews</p>
@@ -193,6 +205,7 @@
                 
                 // show metadata
                 var elem_metadata = svg.append("g").attr("class", "metadata_area")
+                var paper_info_elem = svg.append("g").attr("class", "paper_info_area")
                 
                 elem_metadata.append("text")
                 .attr("x", 1000)
@@ -360,9 +373,8 @@
                 node
                 .on('click', function(d) {
                     console.log("mouseover event occurs")
-                    node_label
-                    .attr("x", function(d) {return d.x + 8 })
-                    .attr("y", function(d) {return d.y + 8 })
+                    d3.selectAll('.paper_info_area')
+                    .text( "ID: " + d.id +  " | Title: " + d.title + " (" + d.journal + ", "+d.pubyear + ")")
                 })
                 
                 //add drag capabilities  
@@ -447,7 +459,8 @@
                 function restart(cur_year)
                 {   
                     console.log("restarting" + cur_year)
-
+                    d3.selectAll('.paper_info_area')
+                    .text("Metadata of a chonse paper will be shown.")
 
                     $(".node").show()
                     for (var y = (cur_year+1); y <= max_year; y++) {
