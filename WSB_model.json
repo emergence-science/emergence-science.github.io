@@ -1,0 +1,852 @@
+{
+  "metadata": {
+    "title": "Quantifying Long-Term Scientific Impact",
+    "pubyear": 2013,
+    "journal": "SCIENCE",
+    "authors": "Wang, Dashun, Song, Chaoming, Barabasi, Albert-Laszlo"
+  },
+  "nodes": [
+    {
+      "id": "WOS:000263478400031",
+      "title": "Open access and global participation in science",
+      "journal": "SCIENCE",
+      "diameter": 5.5677643628300215,
+      "pubyear": 2009
+    },
+    {
+      "id": "WOS:000281799000011",
+      "title": "Nonuniversal power law scaling in the probability distribution of scientific citations",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "diameter": 4.242640687119285,
+      "pubyear": 2010
+    },
+    {
+      "id": "WOS:000240477000010",
+      "title": "Theory and practise of the g-index",
+      "journal": "SCIENTOMETRICS",
+      "diameter": 16.431676725154983,
+      "pubyear": 2006
+    },
+    {
+      "id": "WOS:000308635900013",
+      "title": "Predicting scientific success",
+      "journal": "NATURE",
+      "diameter": 4.898979485566356,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000083121200054",
+      "title": "Emergence of scaling in random networks",
+      "journal": "SCIENCE",
+      "diameter": 83.96427811873333,
+      "pubyear": 1999
+    },
+    {
+      "id": "WOS:000179678900061",
+      "title": "Scale-free networks from varying vertex intrinsic fitness",
+      "journal": "PHYSICAL REVIEW LETTERS",
+      "diameter": 15.937377450509228,
+      "pubyear": 2002
+    },
+    {
+      "id": "WOS:000242971100029",
+      "title": "Measures for measures",
+      "journal": "NATURE",
+      "diameter": 8.426149773176359,
+      "pubyear": 2006
+    },
+    {
+      "id": "WOS:000168869500005",
+      "title": "Competition and multiscaling in evolving networks",
+      "journal": "EUROPHYSICS LETTERS",
+      "diameter": 15.0996688705415,
+      "pubyear": 2001
+    },
+    {
+      "id": "WOS:000234381100025",
+      "title": "The history and meaning of the journal impact factor",
+      "journal": "JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION",
+      "diameter": 20.71231517720798,
+      "pubyear": 2006
+    },
+    {
+      "id": "WOS:000295265100032",
+      "title": "Characterizing and modeling citation dynamics",
+      "journal": "PLOS ONE",
+      "diameter": 4.69041575982343,
+      "pubyear": 2011
+    },
+    {
+      "id": "WOS:000260586500027",
+      "title": "Effectiveness of journal ranking schemes as a tool for locating information",
+      "journal": "PLOS ONE",
+      "diameter": 5.916079783099616,
+      "pubyear": 2008
+    },
+    {
+      "id": "WOS:000233462900010",
+      "title": "An index to quantify an individual's scientific research output",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "diameter": 34.828149534535996,
+      "pubyear": 2005
+    },
+    {
+      "id": "WOS:000297553100004",
+      "title": "Temporal effects in the growth of networks",
+      "journal": "PHYSICAL REVIEW LETTERS",
+      "diameter": 3.0,
+      "pubyear": 2011
+    },
+    {
+      "id": "WOS:000229444500024",
+      "title": "Citation statistics from 110 years of physical review",
+      "journal": "PHYSICS TODAY",
+      "diameter": 10.295630140987,
+      "pubyear": 2005
+    },
+    {
+      "id": "WOS:A1997WJ41900034",
+      "title": "Why the impact factor of journals should not be used for evaluating research",
+      "journal": "BRITISH MEDICAL JOURNAL",
+      "diameter": 22.427661492005804,
+      "pubyear": 1997
+    },
+    {
+      "id": "WOS:000287205700057",
+      "title": "Metaknowledge",
+      "journal": "SCIENCE",
+      "diameter": 6.324555320336759,
+      "pubyear": 2011
+    },
+    {
+      "id": "WOS:000261033400046",
+      "title": "Multi-university research teams: shifting impact, geography, and stratification in science",
+      "journal": "SCIENCE",
+      "diameter": 8.426149773176359,
+      "pubyear": 2008
+    },
+    {
+      "id": "WOS:000075708000001",
+      "title": "How popular is your paper? an empirical study of the citation distribution",
+      "journal": "EUROPEAN PHYSICAL JOURNAL B",
+      "diameter": 21.307275752662516,
+      "pubyear": 1998
+    },
+    {
+      "id": "WOS:000238254100006",
+      "title": "Cash for papers: putting a premium on publication",
+      "journal": "NATURE",
+      "diameter": 3.7416573867739413,
+      "pubyear": 2006
+    },
+    {
+      "id": "WOS:000272309700010",
+      "title": "Diffusion of scientific credits and the ranking of scientists",
+      "journal": "PHYSICAL REVIEW E",
+      "diameter": 8.18535277187245,
+      "pubyear": 2009
+    },
+    {
+      "id": "WOS:000260981800020",
+      "title": "Universality of citation distributions: toward an objective measure of scientific impact",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "diameter": 10.908712114635714,
+      "pubyear": 2008
+    },
+    {
+      "id": "WOS:A19656660700006",
+      "title": "Networks of scientific papers",
+      "journal": "SCIENCE",
+      "diameter": 29.546573405388315,
+      "pubyear": 1965
+    },
+    {
+      "id": "WOS:000310434500019",
+      "title": "Handful of papers dominates citation",
+      "journal": "NATURE",
+      "diameter": 1.7320508075688772,
+      "pubyear": 2012
+    },
+    {
+      "id": "WOS:000265584500001",
+      "title": "The most influential journals: impact factor and eigenfactor",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "diameter": 6.48074069840786,
+      "pubyear": 2009
+    }
+  ],
+  "links": [
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 28,
+      "year": 2001
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 2,
+      "year": 2001
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 52,
+      "year": 2002
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 17,
+      "year": 2002
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 71,
+      "year": 2003
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 29,
+      "year": 2003
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000179678900061",
+      "weight": 8,
+      "year": 2003
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 91,
+      "year": 2004
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 45,
+      "year": 2004
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 110,
+      "year": 2005
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 62,
+      "year": 2005
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 125,
+      "year": 2006
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000229444500024",
+      "weight": 2,
+      "year": 2006
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 73,
+      "year": 2006
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 143,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 88,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000229444500024",
+      "weight": 5,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000240477000010",
+      "weight": 8,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000242971100029",
+      "weight": 6,
+      "year": 2007
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 159,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 106,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000229444500024",
+      "weight": 8,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000240477000010",
+      "weight": 30,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000242971100029",
+      "weight": 11,
+      "year": 2008
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 178,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000229444500024",
+      "weight": 11,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 119,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000240477000010",
+      "weight": 68,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000238254100006",
+      "weight": 2,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000242971100029",
+      "weight": 19,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000234381100025",
+      "target": "WOS:A1997WJ41900034",
+      "weight": 37,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000234381100025",
+      "target": "WOS:000238254100006",
+      "weight": 2,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000240477000010",
+      "target": "WOS:000260586500027",
+      "weight": 4,
+      "year": 2009
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 191,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000229444500024",
+      "weight": 15,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000272309700010",
+      "weight": 4,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 133,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000240477000010",
+      "weight": 97,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000242971100029",
+      "weight": 27,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000260586500027",
+      "weight": 6,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000260981800020",
+      "weight": 12,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000265584500001",
+      "weight": 6,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000234381100025",
+      "target": "WOS:A1997WJ41900034",
+      "weight": 46,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000234381100025",
+      "target": "WOS:000238254100006",
+      "weight": 3,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000234381100025",
+      "target": "WOS:000265584500001",
+      "weight": 6,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000240477000010",
+      "target": "WOS:000260586500027",
+      "weight": 6,
+      "year": 2010
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 210,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000229444500024",
+      "weight": 23,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000281799000011",
+      "weight": 2,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 150,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000229444500024",
+      "target": "WOS:000272309700010",
+      "weight": 9,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000229444500024",
+      "target": "WOS:000281799000011",
+      "weight": 2,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000240477000010",
+      "weight": 131,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000234381100025",
+      "weight": 61,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000242971100029",
+      "weight": 32,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000260586500027",
+      "weight": 8,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000260981800020",
+      "weight": 25,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000265584500001",
+      "weight": 12,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000234381100025",
+      "target": "WOS:000238254100006",
+      "weight": 3,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000260981800020",
+      "target": "WOS:000281799000011",
+      "weight": 2,
+      "year": 2011
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 225,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000229444500024",
+      "weight": 28,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000281799000011",
+      "weight": 5,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 159,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000297553100004",
+      "weight": 2,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000240477000010",
+      "weight": 168,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000234381100025",
+      "weight": 88,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000238254100006",
+      "weight": 3,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000242971100029",
+      "weight": 39,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000260981800020",
+      "weight": 31,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000265584500001",
+      "weight": 17,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000234381100025",
+      "target": "WOS:000238254100006",
+      "weight": 3,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000260586500027",
+      "target": "WOS:000260981800020",
+      "weight": 17,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000260981800020",
+      "target": "WOS:000281799000011",
+      "weight": 5,
+      "year": 2012
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 242,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000281799000011",
+      "weight": 6,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 177,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000179678900061",
+      "weight": 156,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000229444500024",
+      "weight": 32,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000295265100032",
+      "weight": 5,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000297553100004",
+      "weight": 5,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000229444500024",
+      "target": "WOS:000281799000011",
+      "weight": 6,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000240477000010",
+      "weight": 215,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000234381100025",
+      "weight": 102,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000238254100006",
+      "weight": 5,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000242971100029",
+      "weight": 47,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000260981800020",
+      "weight": 45,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000265584500001",
+      "weight": 20,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000308635900013",
+      "weight": 11,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000234381100025",
+      "target": "WOS:A1997WJ41900034",
+      "weight": 77,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000260586500027",
+      "target": "WOS:000260981800020",
+      "weight": 21,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000260981800020",
+      "target": "WOS:000281799000011",
+      "weight": 6,
+      "year": 2013
+    },
+    {
+      "source": "WOS:000075708000001",
+      "target": "WOS:000083121200054",
+      "weight": 254,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000168869500005",
+      "weight": 191,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000179678900061",
+      "weight": 168,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000229444500024",
+      "weight": 38,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000295265100032",
+      "weight": 11,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000083121200054",
+      "target": "WOS:000297553100004",
+      "weight": 5,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000240477000010",
+      "weight": 243,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000234381100025",
+      "weight": 111,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000238254100006",
+      "weight": 5,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000242971100029",
+      "weight": 50,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000260981800020",
+      "weight": 54,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000265584500001",
+      "weight": 20,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000308635900013",
+      "weight": 13,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000233462900010",
+      "target": "WOS:000310434500019",
+      "weight": 2,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000234381100025",
+      "target": "WOS:A1997WJ41900034",
+      "weight": 82,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000242971100029",
+      "target": "WOS:000310434500019",
+      "weight": 2,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000260586500027",
+      "target": "WOS:000260981800020",
+      "weight": 21,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000260981800020",
+      "target": "WOS:000281799000011",
+      "weight": 10,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000260981800020",
+      "target": "WOS:000310434500019",
+      "weight": 2,
+      "year": 2014
+    },
+    {
+      "source": "WOS:000261033400046",
+      "target": "WOS:000310434500019",
+      "weight": 2,
+      "year": 2014
+    }
+  ]
+}
