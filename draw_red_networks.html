@@ -228,8 +228,6 @@
                 // Text box
                 // slide bar
                 
-                var slider_background = svg
-
                 var slider = svg
                 .append("g")
                 .attr("class", "slider")
@@ -427,7 +425,7 @@
                 d3.interval(function()
                     { 
                         var cur_year = get_now_year()
-                        // console.log(prev_year, cur_year)
+                        console.log(prev_year, cur_year)
 
                         if(prev_year != cur_year) {
                             console.log(prev_year, cur_year)
