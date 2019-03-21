@@ -218,7 +218,7 @@
                     if(v.year <= min_year) min_year = v.year;
                     if(v.year >= max_year) max_year = v.year;
                 })
-                // console.log(min_year, max_year)
+                console.log(min_year, max_year)
 
                 var x = d3.scaleLinear()
                     .domain([min_year, max_year])
@@ -348,6 +348,16 @@
                 .attr("stroke", "black")
                 .attr("stroke-width", 2)
 
+                var node_label = node.append("text")
+                .text(function(d) { return (d.title + " (" + d.journal + ", " + d.pubyear + ")"); }); 
+
+                node
+                .on('click', function(d) {
+                    console.log("mouseover event occurs")
+                    node_label
+                    .attr("x", function(d) {return d.x + 8 })
+                    .attr("y", function(d) {return d.y + 8 })
+                })
                 
                 //add drag capabilities  
                 var drag_handler = d3.drag()
@@ -427,8 +437,7 @@
                 // Restart parts!
                 var cur_year = get_now_year();  
                 restart(cur_year)
-                
-                    
+                                    
                 function restart(cur_year)
                 {   
                     console.log("restarting" + cur_year)
