@@ -161,7 +161,8 @@
 
             var json_path = $(this).attr('id') + ".json";
             console.log(json_path);
-            d3.select(".plot_area").selectAll("svg > *").remove();
+            // d3.select(".plot_area").selectAll("svg > *").remove();
+            d3.selectAll("svg").remove();
 
             var svg = d3.select(".plot_area").append("svg")
             .attr("width", width)
