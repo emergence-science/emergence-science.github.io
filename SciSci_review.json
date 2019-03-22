@@ -576,5439 +576,879 @@
   ],
   "links": [
     {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 1997
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 1997
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 1997
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 1997
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 1997
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 1997
-    },
-    {
       "source": "MAG:1965631677",
-      "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 1997
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
+      "target": "MAG:2128438887",
       "weight": 2,
-      "year": 1997
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 1997
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 1997
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 1997
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 1997
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 1997
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 1997
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 1997
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
       "year": 1997
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 4,
       "year": 1997
     },
     {
       "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2033745439",
       "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
       "weight": 4,
       "year": 1997
     },
     {
-      "source": "MAG:2069656088",
+      "source": "MAG:1965631677",
       "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
       "weight": 2,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 1997
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 1997
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 1998
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 1998
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 1998
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
       "year": 1998
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 4,
       "year": 1998
     },
     {
       "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2033745439",
       "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
       "weight": 4,
       "year": 1998
     },
     {
-      "source": "MAG:2069656088",
+      "source": "MAG:1965631677",
       "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
       "weight": 2,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 1998
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 1998
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 1999
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 1999
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 1999
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
       "year": 1999
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 4,
       "year": 1999
     },
     {
       "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2033745439",
       "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
       "weight": 4,
       "year": 1999
     },
     {
-      "source": "MAG:2069656088",
+      "source": "MAG:1965631677",
       "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
       "weight": 2,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 1999
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 1999
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2000
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2000
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2000
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
       "year": 2000
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 4,
       "year": 2000
     },
     {
       "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2033745439",
       "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
       "weight": 4,
       "year": 2000
     },
     {
-      "source": "MAG:2069656088",
+      "source": "MAG:1965631677",
       "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
       "weight": 2,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2000
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2000
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2001
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2001
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2001
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
       "year": 2001
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
       "weight": 4,
       "year": 2001
     },
     {
-      "source": "MAG:2069656088",
+      "source": "MAG:1965631677",
       "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
       "weight": 2,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2001
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2001
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2002
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2002
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2002
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
       "year": 2002
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
       "weight": 4,
       "year": 2002
     },
     {
-      "source": "MAG:2069656088",
+      "source": "MAG:1965631677",
       "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
       "weight": 2,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2002
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2002
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2003
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2003
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2003
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
       "year": 2003
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
       "weight": 4,
       "year": 2003
     },
     {
-      "source": "MAG:2069656088",
+      "source": "MAG:1965631677",
       "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
       "weight": 2,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2003
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2003
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2004
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2004
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2004
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
       "year": 2004
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
       "weight": 4,
       "year": 2004
     },
     {
       "source": "MAG:2069656088",
-      "target": "MAG:2128438887",
-      "weight": 247,
+      "target": "MAG:2088209891",
+      "weight": 30,
       "year": 2004
     },
     {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
+      "source": "MAG:1965631677",
+      "target": "MAG:2128438887",
       "weight": 2,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2004
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2004
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2005
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2005
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2005
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
       "year": 2005
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 4,
       "year": 2005
     },
     {
       "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
-      "weight": 4,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2069656088",
-      "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2005
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2005
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2006
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2006
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2006
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2006
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2006
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2006
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2006
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2006
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2006
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2006
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2006
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2006
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 2006
-    },
-    {
-      "source": "MAG:1965631677",
       "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2006
+      "weight": 4,
+      "year": 2005
     },
     {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2006
-    },
-    {
-      "source": "MAG:1981328197",
+      "source": "MAG:1965631677",
       "target": "MAG:2128438887",
-      "weight": 25,
+      "weight": 2,
       "year": 2006
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 4,
       "year": 2006
     },
     {
       "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
-      "weight": 4,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2069656088",
-      "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2006
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2006
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2007
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2007
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2007
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2007
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2007
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2007
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2007
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2007
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2007
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2007
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2007
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2007
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 2007
-    },
-    {
-      "source": "MAG:1965631677",
       "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2007
+      "weight": 5,
+      "year": 2006
     },
     {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2007
-    },
-    {
-      "source": "MAG:1981328197",
+      "source": "MAG:1965631677",
       "target": "MAG:2128438887",
-      "weight": 25,
+      "weight": 3,
       "year": 2007
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
       "weight": 4,
       "year": 2007
     },
     {
-      "source": "MAG:2069656088",
-      "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2007
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2007
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
+      "source": "MAG:2008620264",
+      "target": "MAG:2092124750",
       "weight": 7,
-      "year": 2008
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2008
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2008
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2008
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2008
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2008
+      "year": 2007
     },
     {
       "source": "MAG:1965631677",
-      "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2008
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2008
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2008
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2008
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2008
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2008
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
+      "target": "MAG:2150443611",
       "weight": 8,
       "year": 2008
     },
     {
       "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2008
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2008
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
-      "year": 2008
-    },
-    {
-      "source": "MAG:1982218215",
-      "target": "MAG:2128438887",
-      "weight": 360,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2008620264",
-      "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
-      "weight": 4,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2069656088",
-      "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2008
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2008
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2009
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2009
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2009
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2009
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2009
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2009
-    },
-    {
-      "source": "MAG:1965631677",
       "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2009
+      "weight": 4,
+      "year": 2008
     },
     {
       "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
+      "target": "MAG:2085692706",
       "weight": 2,
-      "year": 2009
+      "year": 2008
     },
     {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2009
+      "source": "MAG:1982218215",
+      "target": "MAG:2128438887",
+      "weight": 23,
+      "year": 2008
     },
     {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2009
+      "source": "MAG:2008620264",
+      "target": "MAG:2085692706",
+      "weight": 2,
+      "year": 2008
     },
     {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2009
+      "source": "MAG:2008620264",
+      "target": "MAG:2092124750",
+      "weight": 24,
+      "year": 2008
     },
     {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2009
+      "source": "MAG:2085692706",
+      "target": "MAG:2128438887",
+      "weight": 2,
+      "year": 2008
     },
     {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 2009
+      "source": "MAG:2085692706",
+      "target": "MAG:2150443611",
+      "weight": 2,
+      "year": 2008
+    },
+    {
+      "source": "MAG:2085692706",
+      "target": "MAG:2092124750",
+      "weight": 2,
+      "year": 2008
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2009
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2009
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
+      "weight": 17,
       "year": 2009
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 63,
       "year": 2009
     },
     {
-      "source": "MAG:2008620264",
-      "target": "MAG:2080450835",
-      "weight": 378,
+      "source": "MAG:1982218215",
+      "target": "MAG:2151866568",
+      "weight": 5,
       "year": 2009
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2088209891",
-      "weight": 340,
+      "weight": 105,
       "year": 2009
     },
     {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
-      "weight": 4,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2069656088",
-      "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
+      "source": "MAG:2008620264",
+      "target": "MAG:2092124750",
+      "weight": 48,
       "year": 2009
     },
     {
       "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2009
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2009
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2010
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2010
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2010
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
+      "target": "MAG:2150443611",
       "weight": 6,
-      "year": 2010
+      "year": 2009
     },
     {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2010
+      "source": "MAG:2128438887",
+      "target": "MAG:2151866568",
+      "weight": 5,
+      "year": 2009
     },
     {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
+      "source": "MAG:1965631677",
+      "target": "MAG:2150443611",
+      "weight": 29,
       "year": 2010
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2010
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2010
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2010
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2010
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2010
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2010
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 2010
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2010
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2010
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
+      "weight": 13,
       "year": 2010
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 105,
       "year": 2010
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2080450835",
-      "weight": 378,
+      "weight": 127,
       "year": 2010
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2088209891",
-      "weight": 340,
+      "weight": 139,
       "year": 2010
     },
     {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
-      "weight": 4,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2069656088",
-      "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
+      "source": "MAG:2008620264",
+      "target": "MAG:2150443611",
+      "weight": 39,
       "year": 2010
     },
     {
       "source": "MAG:2085692706",
-      "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
+      "target": "MAG:2150443611",
+      "weight": 8,
       "year": 2010
     },
     {
       "source": "MAG:2128438887",
       "target": "MAG:2151866568",
-      "weight": 157,
+      "weight": 17,
       "year": 2010
     },
     {
       "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
+      "target": "MAG:2159299749",
+      "weight": 15,
       "year": 2010
     },
     {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2010
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2010
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2011
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2011
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2011
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2011
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2011
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
+      "source": "MAG:1965631677",
+      "target": "MAG:2150443611",
+      "weight": 44,
       "year": 2011
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2011
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2011
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2011
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2011
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2011
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2011
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 2011
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2011
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2011
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
+      "weight": 23,
       "year": 2011
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 145,
       "year": 2011
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2080450835",
-      "weight": 378,
+      "weight": 147,
       "year": 2011
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2088209891",
-      "weight": 340,
+      "weight": 164,
       "year": 2011
     },
     {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
-      "weight": 4,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2069656088",
-      "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
+      "source": "MAG:2008620264",
+      "target": "MAG:2150443611",
+      "weight": 52,
       "year": 2011
     },
     {
       "source": "MAG:2085692706",
+      "target": "MAG:2150443611",
+      "weight": 9,
+      "year": 2011
+    },
+    {
+      "source": "MAG:2085692706",
+      "target": "MAG:2128438887",
+      "weight": 9,
+      "year": 2011
+    },
+    {
+      "source": "MAG:2128438887",
       "target": "MAG:2151866568",
       "weight": 36,
       "year": 2011
     },
     {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2125810311",
-      "target": "MAG:2151866568",
-      "weight": 41,
-      "year": 2011
-    },
-    {
       "source": "MAG:2128438887",
-      "target": "MAG:2151866568",
-      "weight": 157,
+      "target": "MAG:2159299749",
+      "weight": 19,
       "year": 2011
     },
     {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2132322078",
-      "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2011
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2011
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2012
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2012
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2012
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2012
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2012
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
+      "source": "MAG:1965631677",
+      "target": "MAG:2150443611",
+      "weight": 60,
       "year": 2012
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2012
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2012
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2012
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2012
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2012
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2012
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
-      "year": 2012
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2150443611",
-      "weight": 133,
-      "year": 2012
-    },
-    {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2012
-    },
-    {
-      "source": "MAG:1981328197",
-      "target": "MAG:2128438887",
-      "weight": 25,
+      "weight": 32,
       "year": 2012
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 170,
       "year": 2012
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2080450835",
-      "weight": 378,
+      "weight": 172,
       "year": 2012
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2088209891",
-      "weight": 340,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
+      "weight": 200,
       "year": 2012
     },
     {
       "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
+      "target": "MAG:2088209891",
       "weight": 3,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
-      "weight": 4,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2069656088",
-      "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
       "year": 2012
     },
     {
       "source": "MAG:2085692706",
       "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
+      "weight": 16,
       "year": 2012
     },
     {
       "source": "MAG:2125810311",
       "target": "MAG:2151866568",
-      "weight": 41,
+      "weight": 9,
       "year": 2012
     },
     {
       "source": "MAG:2128438887",
       "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
+      "weight": 48,
       "year": 2012
     },
     {
       "source": "MAG:2132322078",
       "target": "MAG:2150385690",
-      "weight": 5,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
       "weight": 2,
       "year": 2012
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2012
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2012
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2013
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2013
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2013
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2013
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2013
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2013
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2013
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2013
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2013
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2013
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2013
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2013
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
+      "weight": 44,
       "year": 2013
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2150443611",
-      "weight": 133,
+      "weight": 69,
       "year": 2013
     },
     {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
-      "year": 2013
-    },
-    {
-      "source": "MAG:1981328197",
+      "source": "MAG:1972499088",
       "target": "MAG:2128438887",
-      "weight": 25,
+      "weight": 7,
+      "year": 2013
+    },
+    {
+      "source": "MAG:1972499088",
+      "target": "MAG:2152513188",
+      "weight": 3,
       "year": 2013
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 213,
+      "year": 2013
+    },
+    {
+      "source": "MAG:2008620264",
+      "target": "MAG:2054096179",
+      "weight": 7,
       "year": 2013
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2080450835",
-      "weight": 378,
+      "weight": 213,
       "year": 2013
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2088209891",
-      "weight": 340,
+      "weight": 224,
       "year": 2013
     },
     {
       "source": "MAG:2022267882",
       "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
       "weight": 3,
       "year": 2013
     },
     {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
-      "weight": 4,
+      "source": "MAG:2066520537",
+      "target": "MAG:2170508806",
+      "weight": 2,
       "year": 2013
     },
     {
       "source": "MAG:2069656088",
       "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
+      "weight": 130,
       "year": 2013
     },
     {
       "source": "MAG:2085692706",
       "target": "MAG:2151866568",
-      "weight": 36,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2113052506",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
+      "weight": 20,
       "year": 2013
     },
     {
       "source": "MAG:2125810311",
       "target": "MAG:2151866568",
-      "weight": 41,
+      "weight": 15,
       "year": 2013
     },
     {
       "source": "MAG:2128438887",
       "target": "MAG:2151866568",
-      "weight": 157,
+      "weight": 81,
       "year": 2013
     },
     {
       "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
+      "target": "MAG:2152513188",
+      "weight": 3,
       "year": 2013
     },
     {
       "source": "MAG:2132322078",
       "target": "MAG:2150385690",
-      "weight": 5,
+      "weight": 3,
       "year": 2013
     },
     {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
+      "source": "MAG:2151866568",
+      "target": "MAG:2152513188",
+      "weight": 3,
       "year": 2013
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2013
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2013
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2014
-    },
-    {
-      "source": "MAG:767067438",
-      "target": "MAG:2128438887",
-      "weight": 35,
-      "year": 2014
-    },
-    {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2014
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
-      "year": 2014
-    },
-    {
-      "source": "MAG:1577520517",
-      "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2014
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
-      "year": 2014
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2014
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
-      "year": 2014
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2066752129",
       "weight": 53,
       "year": 2014
     },
     {
       "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2014
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
-      "weight": 19,
-      "year": 2014
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2014
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
+      "target": "MAG:2066752129",
+      "weight": 6,
       "year": 2014
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2150443611",
-      "weight": 133,
+      "weight": 79,
       "year": 2014
     },
     {
-      "source": "MAG:1970372549",
-      "target": "MAG:2066752129",
-      "weight": 10,
+      "source": "MAG:1972499088",
+      "target": "MAG:2152513188",
+      "weight": 6,
       "year": 2014
     },
     {
       "source": "MAG:1981328197",
       "target": "MAG:2128438887",
-      "weight": 25,
+      "weight": 7,
       "year": 2014
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 249,
+      "year": 2014
+    },
+    {
+      "source": "MAG:2008620264",
+      "target": "MAG:2054096179",
+      "weight": 13,
       "year": 2014
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2080450835",
-      "weight": 378,
+      "weight": 250,
       "year": 2014
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2088209891",
-      "weight": 340,
+      "weight": 262,
+      "year": 2014
+    },
+    {
+      "source": "MAG:2008620264",
+      "target": "MAG:2113052506",
+      "weight": 2,
       "year": 2014
     },
     {
       "source": "MAG:2022267882",
       "target": "MAG:2054096179",
-      "weight": 9,
+      "weight": 4,
       "year": 2014
     },
     {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
+      "source": "MAG:2023754051",
+      "target": "MAG:2113052506",
       "weight": 2,
       "year": 2014
     },
     {
-      "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
-      "weight": 4,
+      "source": "MAG:2066520537",
+      "target": "MAG:2170508806",
+      "weight": 6,
       "year": 2014
     },
     {
       "source": "MAG:2069656088",
       "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
+      "weight": 148,
       "year": 2014
     },
     {
       "source": "MAG:2085692706",
       "target": "MAG:2151866568",
-      "weight": 36,
+      "weight": 21,
       "year": 2014
     },
     {
-      "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
+      "source": "MAG:2088209891",
+      "target": "MAG:2109746829",
+      "weight": 3,
+      "year": 2014
+    },
+    {
+      "source": "MAG:2109746829",
+      "target": "MAG:2150443611",
+      "weight": 3,
       "year": 2014
     },
     {
       "source": "MAG:2113052506",
       "target": "MAG:2128438887",
-      "weight": 9,
+      "weight": 2,
       "year": 2014
     },
     {
       "source": "MAG:2124689612",
       "target": "MAG:2128438887",
-      "weight": 57,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
+      "weight": 11,
       "year": 2014
     },
     {
       "source": "MAG:2125810311",
       "target": "MAG:2151866568",
-      "weight": 41,
+      "weight": 20,
       "year": 2014
     },
     {
       "source": "MAG:2128438887",
       "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
+      "weight": 95,
       "year": 2014
     },
     {
       "source": "MAG:2132322078",
       "target": "MAG:2150385690",
-      "weight": 5,
+      "weight": 3,
       "year": 2014
     },
     {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
+      "source": "MAG:767067438",
+      "target": "MAG:1965631677",
       "weight": 2,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2014
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2014
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
       "year": 2015
     },
     {
       "source": "MAG:767067438",
       "target": "MAG:2128438887",
-      "weight": 35,
+      "weight": 2,
       "year": 2015
     },
     {
-      "source": "MAG:890714660",
-      "target": "MAG:1965631677",
-      "weight": 4,
-      "year": 2015
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
+      "source": "MAG:767067438",
+      "target": "MAG:2130456849",
+      "weight": 2,
       "year": 2015
     },
     {
       "source": "MAG:1577520517",
       "target": "MAG:2170508806",
-      "weight": 22,
-      "year": 2015
-    },
-    {
-      "source": "MAG:1833467796",
-      "target": "MAG:2128438887",
-      "weight": 9,
+      "weight": 15,
       "year": 2015
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2022121550",
-      "weight": 99,
+      "weight": 69,
       "year": 2015
     },
     {
       "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
+      "target": "MAG:2037997493",
+      "weight": 4,
       "year": 2015
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2066752129",
-      "weight": 53,
-      "year": 2015
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2077274726",
-      "weight": 3,
-      "year": 2015
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2109746829",
       "weight": 19,
       "year": 2015
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2015
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
+      "weight": 3,
       "year": 2015
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2150443611",
-      "weight": 133,
+      "weight": 103,
+      "year": 2015
+    },
+    {
+      "source": "MAG:1965631677",
+      "target": "MAG:2152513188",
+      "weight": 8,
       "year": 2015
     },
     {
       "source": "MAG:1970372549",
       "target": "MAG:2066752129",
-      "weight": 10,
+      "weight": 2,
+      "year": 2015
+    },
+    {
+      "source": "MAG:1972499088",
+      "target": "MAG:2152513188",
+      "weight": 8,
       "year": 2015
     },
     {
       "source": "MAG:1981328197",
       "target": "MAG:2128438887",
-      "weight": 25,
+      "weight": 10,
+      "year": 2015
+    },
+    {
+      "source": "MAG:1981328197",
+      "target": "MAG:2151866568",
+      "weight": 10,
       "year": 2015
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 284,
       "year": 2015
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2080450835",
-      "weight": 378,
+      "weight": 297,
       "year": 2015
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2088209891",
-      "weight": 340,
+      "weight": 290,
       "year": 2015
     },
     {
       "source": "MAG:2022267882",
       "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2015
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2015
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
+      "weight": 8,
       "year": 2015
     },
     {
       "source": "MAG:2037997493",
-      "target": "MAG:2128438887",
-      "weight": 16,
+      "target": "MAG:2066752129",
+      "weight": 4,
       "year": 2015
     },
     {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2015
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
+      "source": "MAG:2037997493",
+      "target": "MAG:2151866568",
+      "weight": 4,
       "year": 2015
     },
     {
       "source": "MAG:2054096179",
-      "target": "MAG:2151866568",
-      "weight": 38,
+      "target": "MAG:2088209891",
+      "weight": 21,
       "year": 2015
     },
     {
-      "source": "MAG:2066752129",
-      "target": "MAG:2128525455",
-      "weight": 5,
-      "year": 2015
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2015
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
-      "year": 2015
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2275153611",
-      "weight": 4,
+      "source": "MAG:2063626260",
+      "target": "MAG:2171817276",
+      "weight": 2,
       "year": 2015
     },
     {
       "source": "MAG:2069656088",
       "target": "MAG:2128438887",
-      "weight": 247,
-      "year": 2015
-    },
-    {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
-      "weight": 2,
-      "year": 2015
-    },
-    {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
-      "weight": 2,
+      "weight": 177,
       "year": 2015
     },
     {
       "source": "MAG:2085692706",
       "target": "MAG:2151866568",
-      "weight": 36,
+      "weight": 27,
       "year": 2015
     },
     {
       "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
+      "target": "MAG:2125315567",
+      "weight": 4,
+      "year": 2015
+    },
+    {
+      "source": "MAG:2109746829",
+      "target": "MAG:2150443611",
+      "weight": 8,
       "year": 2015
     },
     {
       "source": "MAG:2113052506",
       "target": "MAG:2128438887",
-      "weight": 9,
+      "weight": 5,
       "year": 2015
     },
     {
       "source": "MAG:2124689612",
       "target": "MAG:2128438887",
-      "weight": 57,
+      "weight": 24,
       "year": 2015
     },
     {
       "source": "MAG:2124689612",
-      "target": "MAG:2152513188",
-      "weight": 21,
+      "target": "MAG:2171817276",
+      "weight": 2,
       "year": 2015
     },
     {
       "source": "MAG:2125810311",
       "target": "MAG:2151866568",
-      "weight": 41,
+      "weight": 29,
       "year": 2015
     },
     {
       "source": "MAG:2128438887",
       "target": "MAG:2151866568",
-      "weight": 157,
+      "weight": 110,
       "year": 2015
     },
     {
       "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
-      "year": 2015
-    },
-    {
-      "source": "MAG:2130145803",
-      "target": "MAG:2154053722",
-      "weight": 10,
+      "target": "MAG:2171817276",
+      "weight": 2,
       "year": 2015
     },
     {
@@ -6018,285 +1458,261 @@
       "year": 2015
     },
     {
-      "source": "MAG:2159299749",
+      "source": "MAG:2150443611",
+      "target": "MAG:2154053722",
+      "weight": 3,
+      "year": 2015
+    },
+    {
+      "source": "MAG:2151866568",
       "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2015
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
-      "weight": 4,
-      "year": 2015
-    },
-    {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
       "weight": 2,
       "year": 2015
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2015
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
-      "year": 2015
-    },
-    {
-      "source": "MAG:340874798",
-      "target": "MAG:2066752129",
-      "weight": 7,
-      "year": 2016
     },
     {
       "source": "MAG:767067438",
       "target": "MAG:2128438887",
-      "weight": 35,
+      "weight": 11,
       "year": 2016
     },
     {
       "source": "MAG:890714660",
       "target": "MAG:1965631677",
-      "weight": 4,
+      "weight": 2,
+      "year": 2016
+    },
+    {
+      "source": "MAG:890714660",
+      "target": "MAG:2023754051",
+      "weight": 2,
+      "year": 2016
+    },
+    {
+      "source": "MAG:890714660",
+      "target": "MAG:2150443611",
+      "weight": 2,
+      "year": 2016
+    },
+    {
+      "source": "MAG:890714660",
+      "target": "MAG:2066752129",
+      "weight": 2,
+      "year": 2016
+    },
+    {
+      "source": "MAG:1541089782",
+      "target": "MAG:2124689612",
+      "weight": 2,
+      "year": 2016
+    },
+    {
+      "source": "MAG:1541089782",
+      "target": "MAG:2151866568",
+      "weight": 2,
+      "year": 2016
+    },
+    {
+      "source": "MAG:1541089782",
+      "target": "MAG:2054096179",
+      "weight": 2,
       "year": 2016
     },
     {
       "source": "MAG:1541089782",
       "target": "MAG:2128438887",
-      "weight": 6,
+      "weight": 2,
       "year": 2016
     },
     {
       "source": "MAG:1577520517",
       "target": "MAG:2170508806",
-      "weight": 22,
+      "weight": 19,
       "year": 2016
     },
     {
       "source": "MAG:1833467796",
       "target": "MAG:2128438887",
-      "weight": 9,
+      "weight": 4,
       "year": 2016
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2022121550",
-      "weight": 99,
-      "year": 2016
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2032800154",
-      "weight": 2,
+      "weight": 81,
       "year": 2016
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2066752129",
-      "weight": 53,
+      "weight": 30,
       "year": 2016
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2077274726",
-      "weight": 3,
+      "weight": 2,
       "year": 2016
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2109746829",
-      "weight": 19,
+      "weight": 13,
       "year": 2016
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2130456849",
-      "weight": 14,
-      "year": 2016
-    },
-    {
-      "source": "MAG:1965631677",
-      "target": "MAG:2148434025",
-      "weight": 8,
+      "weight": 7,
       "year": 2016
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2150443611",
-      "weight": 133,
+      "weight": 118,
       "year": 2016
     },
     {
       "source": "MAG:1970372549",
       "target": "MAG:2066752129",
-      "weight": 10,
+      "weight": 5,
       "year": 2016
     },
     {
       "source": "MAG:1981328197",
       "target": "MAG:2128438887",
-      "weight": 25,
+      "weight": 19,
       "year": 2016
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 324,
       "year": 2016
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2080450835",
-      "weight": 378,
+      "weight": 334,
       "year": 2016
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2088209891",
-      "weight": 340,
+      "weight": 314,
       "year": 2016
     },
     {
       "source": "MAG:2022267882",
       "target": "MAG:2054096179",
-      "weight": 9,
-      "year": 2016
-    },
-    {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2016
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
+      "weight": 8,
       "year": 2016
     },
     {
       "source": "MAG:2037997493",
       "target": "MAG:2128438887",
-      "weight": 16,
-      "year": 2016
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
-      "year": 2016
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2606121251",
-      "weight": 2,
+      "weight": 11,
       "year": 2016
     },
     {
       "source": "MAG:2054096179",
       "target": "MAG:2151866568",
-      "weight": 38,
+      "weight": 31,
+      "year": 2016
+    },
+    {
+      "source": "MAG:2054096179",
+      "target": "MAG:2230582863",
+      "weight": 4,
       "year": 2016
     },
     {
       "source": "MAG:2066752129",
       "target": "MAG:2128525455",
-      "weight": 5,
+      "weight": 4,
+      "year": 2016
+    },
+    {
+      "source": "MAG:2066752129",
+      "target": "MAG:2130145803",
+      "weight": 2,
       "year": 2016
     },
     {
       "source": "MAG:2066752129",
       "target": "MAG:2154053722",
-      "weight": 14,
-      "year": 2016
-    },
-    {
-      "source": "MAG:2066752129",
-      "target": "MAG:2196635810",
-      "weight": 3,
+      "weight": 6,
       "year": 2016
     },
     {
       "source": "MAG:2066752129",
       "target": "MAG:2275153611",
-      "weight": 4,
+      "weight": 2,
       "year": 2016
     },
     {
       "source": "MAG:2069656088",
       "target": "MAG:2128438887",
-      "weight": 247,
+      "weight": 201,
       "year": 2016
     },
     {
-      "source": "MAG:2077497904",
-      "target": "MAG:2271753538",
-      "weight": 2,
+      "source": "MAG:2075054625",
+      "target": "MAG:2128438887",
+      "weight": 12,
       "year": 2016
     },
     {
-      "source": "MAG:2078824863",
-      "target": "MAG:2596990011",
+      "source": "MAG:2077274726",
+      "target": "MAG:2158550208",
       "weight": 2,
       "year": 2016
     },
     {
       "source": "MAG:2085692706",
       "target": "MAG:2151866568",
-      "weight": 36,
+      "weight": 32,
       "year": 2016
     },
     {
       "source": "MAG:2102017123",
-      "target": "MAG:2271753538",
-      "weight": 2,
+      "target": "MAG:2128438887",
+      "weight": 5,
       "year": 2016
     },
     {
       "source": "MAG:2113052506",
       "target": "MAG:2128438887",
-      "weight": 9,
+      "weight": 7,
       "year": 2016
     },
     {
       "source": "MAG:2124689612",
       "target": "MAG:2128438887",
-      "weight": 57,
+      "weight": 40,
       "year": 2016
     },
     {
       "source": "MAG:2124689612",
       "target": "MAG:2152513188",
-      "weight": 21,
+      "weight": 13,
       "year": 2016
     },
     {
       "source": "MAG:2125810311",
       "target": "MAG:2151866568",
-      "weight": 41,
+      "weight": 36,
       "year": 2016
     },
     {
       "source": "MAG:2128438887",
       "target": "MAG:2151866568",
-      "weight": 157,
-      "year": 2016
-    },
-    {
-      "source": "MAG:2128438887",
-      "target": "MAG:2547045893",
-      "weight": 10,
+      "weight": 132,
       "year": 2016
     },
     {
       "source": "MAG:2130145803",
       "target": "MAG:2154053722",
-      "weight": 10,
+      "weight": 2,
       "year": 2016
     },
     {
@@ -6306,33 +1722,15 @@
       "year": 2016
     },
     {
-      "source": "MAG:2159299749",
-      "target": "MAG:2171817276",
-      "weight": 34,
-      "year": 2016
-    },
-    {
-      "source": "MAG:2170508806",
-      "target": "MAG:2548781101",
+      "source": "MAG:2151866568",
+      "target": "MAG:2230582863",
       "weight": 4,
       "year": 2016
     },
     {
-      "source": "MAG:2171817276",
-      "target": "MAG:2596990011",
-      "weight": 2,
-      "year": 2016
-    },
-    {
-      "source": "MAG:2271753538",
-      "target": "MAG:2547045893",
-      "weight": 2,
-      "year": 2016
-    },
-    {
-      "source": "MAG:2547045893",
-      "target": "MAG:2585057539",
-      "weight": 5,
+      "source": "MAG:2159299749",
+      "target": "MAG:2171817276",
+      "weight": 13,
       "year": 2016
     },
     {
@@ -6344,19 +1742,13 @@
     {
       "source": "MAG:767067438",
       "target": "MAG:2128438887",
-      "weight": 35,
+      "weight": 33,
       "year": 2017
     },
     {
       "source": "MAG:890714660",
       "target": "MAG:1965631677",
       "weight": 4,
-      "year": 2017
-    },
-    {
-      "source": "MAG:1541089782",
-      "target": "MAG:2128438887",
-      "weight": 6,
       "year": 2017
     },
     {
@@ -6368,13 +1760,13 @@
     {
       "source": "MAG:1833467796",
       "target": "MAG:2128438887",
-      "weight": 9,
+      "weight": 8,
       "year": 2017
     },
     {
       "source": "MAG:1965631677",
       "target": "MAG:2022121550",
-      "weight": 99,
+      "weight": 97,
       "year": 2017
     },
     {
@@ -6386,7 +1778,7 @@
     {
       "source": "MAG:1965631677",
       "target": "MAG:2066752129",
-      "weight": 53,
+      "weight": 51,
       "year": 2017
     },
     {
@@ -6398,7 +1790,7 @@
     {
       "source": "MAG:1965631677",
       "target": "MAG:2109746829",
-      "weight": 19,
+      "weight": 18,
       "year": 2017
     },
     {
@@ -6416,7 +1808,7 @@
     {
       "source": "MAG:1965631677",
       "target": "MAG:2150443611",
-      "weight": 133,
+      "weight": 132,
       "year": 2017
     },
     {
@@ -6428,25 +1820,25 @@
     {
       "source": "MAG:1981328197",
       "target": "MAG:2128438887",
-      "weight": 25,
+      "weight": 24,
       "year": 2017
     },
     {
       "source": "MAG:1982218215",
       "target": "MAG:2128438887",
-      "weight": 360,
+      "weight": 356,
       "year": 2017
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2080450835",
-      "weight": 378,
+      "weight": 375,
       "year": 2017
     },
     {
       "source": "MAG:2008620264",
       "target": "MAG:2088209891",
-      "weight": 340,
+      "weight": 336,
       "year": 2017
     },
     {
@@ -6456,27 +1848,9 @@
       "year": 2017
     },
     {
-      "source": "MAG:2022267882",
-      "target": "MAG:2151866568",
-      "weight": 9,
-      "year": 2017
-    },
-    {
-      "source": "MAG:2033745439",
-      "target": "MAG:2125315567",
-      "weight": 12,
-      "year": 2017
-    },
-    {
       "source": "MAG:2037997493",
       "target": "MAG:2128438887",
       "weight": 16,
-      "year": 2017
-    },
-    {
-      "source": "MAG:2049213211",
-      "target": "MAG:2124689612",
-      "weight": 13,
       "year": 2017
     },
     {
@@ -6512,13 +1886,13 @@
     {
       "source": "MAG:2066752129",
       "target": "MAG:2275153611",
-      "weight": 4,
+      "weight": 3,
       "year": 2017
     },
     {
       "source": "MAG:2069656088",
       "target": "MAG:2128438887",
-      "weight": 247,
+      "weight": 243,
       "year": 2017
     },
     {
@@ -6554,7 +1928,7 @@
     {
       "source": "MAG:2124689612",
       "target": "MAG:2128438887",
-      "weight": 57,
+      "weight": 56,
       "year": 2017
     },
     {
@@ -6572,7 +1946,7 @@
     {
       "source": "MAG:2128438887",
       "target": "MAG:2151866568",
-      "weight": 157,
+      "weight": 156,
       "year": 2017
     },
     {
@@ -6596,7 +1970,7 @@
     {
       "source": "MAG:2159299749",
       "target": "MAG:2171817276",
-      "weight": 34,
+      "weight": 33,
       "year": 2017
     },
     {
