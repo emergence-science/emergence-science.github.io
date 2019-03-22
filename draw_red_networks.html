@@ -15,6 +15,11 @@
       stroke-width: 1.5px;
     }
     
+    .selected_node {
+        stroke:lightcoral;
+        stroke-width: 2px;
+    }
+
     text {
       font-family: sans-serif;
       font-size: 10px;
@@ -373,9 +378,29 @@
 
                 node
                 .on('click', function(d) {
-                    console.log("mouseover event occurs")
+                    console.log("click event occurs")
                     d3.selectAll('.paper_info_area')
                     .text( "ID: " + d.id +  " | Title: " + d.title + " (" + d.journal + ", "+d.pubyear + ")")
+                    
+                    // d3.select(this).classed(".selected_node", true)
+                    if (!d3.select(this).classed("selected_node")) {
+
+                        node
+                        .style("stroke","#888888")
+                        .style("stroke-width",1.5)
+                        .classed("selected_node", false)
+
+                        d3.select(this)
+                        .classed("selected_node", true)
+                        .style("stroke","lightcoral")
+                        .style("stroke-width",2.5)
+                    } 
+                    else {
+                        d3.select(this)
+                        .classed("selected_node", false)
+                        .style("stroke","#888888")
+                        .style("stroke-width",1.5)
+                    }
                 })
                 
                 //add drag capabilities  
