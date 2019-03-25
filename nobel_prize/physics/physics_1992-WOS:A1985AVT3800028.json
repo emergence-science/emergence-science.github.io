@@ -1,0 +1,725 @@
+{
+  "metadata": {
+    "title": "MULTIWIRE AREA X-RAY DIFFRACTOMETERS",
+    "pubyear": 1985,
+    "journal": "METHODS IN ENZYMOLOGY",
+    "authors": "HAMLIN, R",
+    "nobel_paper": "WOS:A1968B394200004"
+  },
+  "nodes": [
+    {
+      "id": "WOS:A1978FA09000062",
+      "title": "Crystallographic determination of heme orientation and location of cyanide binding-site in yeast cytochrome-c peroxidase",
+      "journal": "JOURNAL OF BIOLOGICAL CHEMISTRY",
+      "diameter": 7.14142842854285,
+      "pubyear": 1978
+    },
+    {
+      "id": "WOS:A1978FT06100057",
+      "title": "Dihydrofolate-reductase from lactobacillus-casei - x-ray structure of enzyme methotrexate nadph complex",
+      "journal": "JOURNAL OF BIOLOGICAL CHEMISTRY",
+      "diameter": 14.798648586948742,
+      "pubyear": 1978
+    },
+    {
+      "id": "WOS:A1981LF29500007",
+      "title": "Application of a multichannel position-sensitive x-ray-detector to protein crystallography",
+      "journal": "JOURNAL OF APPLIED CRYSTALLOGRAPHY",
+      "diameter": 3.1622776601683795,
+      "pubyear": 1981
+    },
+    {
+      "id": "WOS:A1978FC65200037",
+      "title": "Linear, circular and 2 dimensional position-sensitive detectors",
+      "journal": "NUCLEAR INSTRUMENTS & METHODS",
+      "diameter": 4.58257569495584,
+      "pubyear": 1978
+    },
+    {
+      "id": "WOS:A1975AN29800032",
+      "title": "Xenon-filled multiwire area detector for x-ray-diffraction",
+      "journal": "ACTA CRYSTALLOGRAPHICA SECTION A",
+      "diameter": 5.477225575051661,
+      "pubyear": 1975
+    },
+    {
+      "id": "WOS:A1980JX21300058",
+      "title": "A fast x-ray diffractometer based on a spherical drift multiwire proportional chamber",
+      "journal": "NUCLEAR INSTRUMENTS & METHODS",
+      "diameter": 4.242640687119285,
+      "pubyear": 1980
+    },
+    {
+      "id": "WOS:A1980JX21300072",
+      "title": "Progress report on the development of an area detector data acquisition-system for x-ray crystallography and other x-ray-diffraction experiments",
+      "journal": "NUCLEAR INSTRUMENTS & METHODS",
+      "diameter": 3.7416573867739413,
+      "pubyear": 1980
+    },
+    {
+      "id": "WOS:A1981LH89600003",
+      "title": "Characteristics of a flat multiwire area detector for protein crystallography",
+      "journal": "JOURNAL OF APPLIED CRYSTALLOGRAPHY",
+      "diameter": 7.615773105863909,
+      "pubyear": 1981
+    },
+    {
+      "id": "WOS:A1977DA87200011",
+      "title": "Properties of spherical drift chambers",
+      "journal": "NUCLEAR INSTRUMENTS & METHODS",
+      "diameter": 4.0,
+      "pubyear": 1977
+    },
+    {
+      "id": "WOS:A1978FC65200041",
+      "title": "2-coordinate x-ray detector",
+      "journal": "NUCLEAR INSTRUMENTS & METHODS",
+      "diameter": 3.605551275463989,
+      "pubyear": 1978
+    },
+    {
+      "id": "WOS:A1980JZ56900061",
+      "title": "Structure of cytochrome-c' - a dimeric, high-spin heme protein",
+      "journal": "NATURE",
+      "diameter": 8.717797887081348,
+      "pubyear": 1980
+    },
+    {
+      "id": "WOS:A1968B394200004",
+      "title": "Use of multiwire proportional counters to select and localize charged particles",
+      "journal": "NUCLEAR INSTRUMENTS & METHODS",
+      "diameter": 11.445523142259598,
+      "pubyear": 1968
+    },
+    {
+      "id": "WOS:A1981LC22500009",
+      "title": "A 2-coordinate proportional chamber with high-resolution for x-ray-diffraction studies of protein crystals",
+      "journal": "NUCLEAR INSTRUMENTS & METHODS",
+      "diameter": 3.3166247903554,
+      "pubyear": 1981
+    },
+    {
+      "id": "WOS:A1977DN59900013",
+      "title": "Dihydrofolate-reductase - x-ray structure of binary complex with methotrexate",
+      "journal": "SCIENCE",
+      "diameter": 14.66287829861518,
+      "pubyear": 1977
+    },
+    {
+      "id": "WOS:A1978EQ34100019",
+      "title": "Electronic stationary picture method for high-speed measurement of reflection intensities from crystals with large unit cells",
+      "journal": "ACTA CRYSTALLOGRAPHICA SECTION A",
+      "diameter": 10.0,
+      "pubyear": 1978
+    },
+    {
+      "id": "WOS:A1973O553700032",
+      "title": "Improved delay-lines for proportional wire chamber readout",
+      "journal": "NUCLEAR INSTRUMENTS & METHODS",
+      "diameter": 6.164414002968976,
+      "pubyear": 1973
+    }
+  ],
+  "links": [
+    {
+      "source": "WOS:A1977DA87200011",
+      "target": "WOS:A1968B394200004",
+      "weight": 2,
+      "year": 1978
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 8,
+      "year": 1979
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 19,
+      "year": 1980
+    },
+    {
+      "source": "WOS:A1975AN29800032",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 3,
+      "year": 1980
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 2,
+      "year": 1980
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 35,
+      "year": 1981
+    },
+    {
+      "source": "WOS:A1975AN29800032",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1981
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 3,
+      "year": 1981
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 47,
+      "year": 1982
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 3,
+      "year": 1982
+    },
+    {
+      "source": "WOS:A1975AN29800032",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 6,
+      "year": 1982
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 4,
+      "year": 1982
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1982
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 60,
+      "year": 1983
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 4,
+      "year": 1983
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1983
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 7,
+      "year": 1983
+    },
+    {
+      "source": "WOS:A1981LC22500009",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 3,
+      "year": 1983
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 71,
+      "year": 1984
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1984
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 6,
+      "year": 1984
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 8,
+      "year": 1984
+    },
+    {
+      "source": "WOS:A1981LC22500009",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 4,
+      "year": 1984
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 80,
+      "year": 1985
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 6,
+      "year": 1985
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 7,
+      "year": 1985
+    },
+    {
+      "source": "WOS:A1981LH89600003",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 4,
+      "year": 1985
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 9,
+      "year": 1985
+    },
+    {
+      "source": "WOS:A1981LC22500009",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1985
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 88,
+      "year": 1986
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 7,
+      "year": 1986
+    },
+    {
+      "source": "WOS:A1978FC65200037",
+      "target": "WOS:A1980JX21300058",
+      "weight": 4,
+      "year": 1986
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 8,
+      "year": 1986
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1980JX21300072",
+      "weight": 5,
+      "year": 1986
+    },
+    {
+      "source": "WOS:A1981LH89600003",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 8,
+      "year": 1986
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 10,
+      "year": 1986
+    },
+    {
+      "source": "WOS:A1981LC22500009",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1986
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 90,
+      "year": 1987
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 7,
+      "year": 1987
+    },
+    {
+      "source": "WOS:A1978FC65200037",
+      "target": "WOS:A1980JX21300058",
+      "weight": 4,
+      "year": 1987
+    },
+    {
+      "source": "WOS:A1975AN29800032",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 11,
+      "year": 1987
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 8,
+      "year": 1987
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1980JX21300072",
+      "weight": 5,
+      "year": 1987
+    },
+    {
+      "source": "WOS:A1981LH89600003",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 11,
+      "year": 1987
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 10,
+      "year": 1987
+    },
+    {
+      "source": "WOS:A1981LC22500009",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1987
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 94,
+      "year": 1988
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 7,
+      "year": 1988
+    },
+    {
+      "source": "WOS:A1978FC65200037",
+      "target": "WOS:A1980JX21300058",
+      "weight": 5,
+      "year": 1988
+    },
+    {
+      "source": "WOS:A1975AN29800032",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 12,
+      "year": 1988
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 8,
+      "year": 1988
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1980JX21300072",
+      "weight": 6,
+      "year": 1988
+    },
+    {
+      "source": "WOS:A1981LH89600003",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 11,
+      "year": 1988
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 11,
+      "year": 1988
+    },
+    {
+      "source": "WOS:A1981LC22500009",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1988
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 96,
+      "year": 1989
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 7,
+      "year": 1989
+    },
+    {
+      "source": "WOS:A1975AN29800032",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 12,
+      "year": 1989
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 8,
+      "year": 1989
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1980JX21300072",
+      "weight": 6,
+      "year": 1989
+    },
+    {
+      "source": "WOS:A1981LH89600003",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 11,
+      "year": 1989
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 11,
+      "year": 1989
+    },
+    {
+      "source": "WOS:A1981LC22500009",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1989
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 97,
+      "year": 1990
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 7,
+      "year": 1990
+    },
+    {
+      "source": "WOS:A1975AN29800032",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 12,
+      "year": 1990
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 8,
+      "year": 1990
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1980JX21300072",
+      "weight": 6,
+      "year": 1990
+    },
+    {
+      "source": "WOS:A1981LH89600003",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 12,
+      "year": 1990
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 11,
+      "year": 1990
+    },
+    {
+      "source": "WOS:A1981LC22500009",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1990
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 103,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 7,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1975AN29800032",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 12,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 8,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1980JX21300072",
+      "weight": 6,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1981LH89600003",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 12,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 11,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1981LC22500009",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 105,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 7,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1975AN29800032",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 12,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 8,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1980JX21300072",
+      "weight": 6,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1981LH89600003",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 13,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 11,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1981LC22500009",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 106,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 7,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1975AN29800032",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 12,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 8,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1980JX21300072",
+      "weight": 6,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 11,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1981LC22500009",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 5,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1978FT06100057",
+      "target": "WOS:A1977DN59900013",
+      "weight": 107,
+      "year": 1994
+    },
+    {
+      "source": "WOS:A1981LF29500007",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 7,
+      "year": 1994
+    },
+    {
+      "source": "WOS:A1975AN29800032",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 12,
+      "year": 1994
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 8,
+      "year": 1994
+    },
+    {
+      "source": "WOS:A1980JX21300058",
+      "target": "WOS:A1980JX21300072",
+      "weight": 6,
+      "year": 1994
+    },
+    {
+      "source": "WOS:A1978FC65200041",
+      "target": "WOS:A1978EQ34100019",
+      "weight": 11,
+      "year": 1994
+    }
+  ]
+}
