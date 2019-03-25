@@ -1,0 +1,716 @@
+<html>
+
+<head>
+    <!-- <link rel="stylesheet" type="text/css" href="main.css"> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <style>
+    
+    .links line {
+      stroke: #999;
+      stroke-opacity: 0.6;
+    }
+    
+    .nodes circle {
+      stroke: #888888;
+      stroke-width: 1.5px;
+    }
+    
+    .selected_node {
+        stroke:lightcoral;
+        stroke-width: 2px;
+    }
+
+    text {
+      font-family: sans-serif;
+      font-size: 10px;
+    }
+    
+    .ticks {
+        font: 10px sans-serif;
+    }
+
+    .track,
+    .track-inset,
+    .track-overlay {
+        stroke-linecap: round;
+    }
+
+    .track {
+        stroke: #000;
+        stroke-opacity: 0.3;
+        stroke-width: 10px;
+    }
+
+    .track-inset {
+        stroke: #ddd;
+        stroke-width: 8px;
+    }
+
+    .track-overlay {
+        pointer-events: stroke;
+        stroke-width: 50px;
+        stroke: transparent;
+        cursor: crosshair;
+    }
+
+    .handle {
+        fill: #fff;
+        stroke: #000;
+        stroke-opacity: 0.5;
+        stroke-width: 1.25px;
+    }
+    .year_title {
+        font-family: sans-serif;
+        font-size: 25px;
+
+    }
+    /* Color bar legend */
+    
+    .axis text {
+        font: 10px sans-serif;
+    }
+
+    .axis line, .axis path {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+    .everything{
+        margin-top: 200px;
+        z-index: -1;
+    }
+    .legend{
+        z-index: 100;
+    }
+
+    .plot_area{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+    .main_menu{
+        height: 100px;
+        width: 1200px;
+        stroke: #000;
+        stroke-width: 2px;
+    }
+    .plot_area{
+        position:relative;
+        width: 1010px;
+        height: 910px;
+        top: 0px;
+        left: 0px;
+    }
+
+    .inst {
+        margin-left: 50px;
+        line-height:1.3em
+    }
+
+    .paper_list {
+        position:absolute; 
+        overflow:scroll; 
+        overflow-x:hidden;
+        height:800px;
+        width: 200px;
+        line-height:1.7em;
+        top:300px; 
+        left:1140px;
+    }
+
+    .button_area{
+        position:absolute; 
+        top:920; 
+        left:1010px;
+    }
+
+    .paper_info_area{
+        position:absolute; 
+        top:1000px; 
+        left:100px;
+        width: 900px;
+        word-break: break-word;
+    }
+
+    .background_head_plot_area{
+        position:absolute; 
+        top:100px; 
+        left:0px; 
+        width: 1000px;
+        height: 150px;
+        background-color: #fff;
+    }
+</style>
+
+    </style>
+</head>
+<body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <div class="main_menu">menu</div>
+    <div class="background_head_plot_area"></div>
+
+    <div class="plot_area"></div>
+    <div class="button_area">
+        <button type="button" id="go_prev_year"><<</button>
+        <button type="button" id="go_next_year">>></button>
+    </div>
+
+    <div class="paper_info_area">
+        Metadata of a chonse paper will be shown. 
+    </div>
+    
+    <div class="paper_list">
+        <ul>
+            <p> Reviews</p>
+            <li><a href="#" class="papers" id="physics_2011-WOS:000076040700001">2011</a></li>
+            
+            
+        </ul>
+    </div>
+
+
+    <script>
+        
+        var width = 1100,
+            height = 900,
+            scale_width = 950
+
+   
+        jQuery('.papers').click(function(){
+
+            var json_path = "./nobel_prize/physics/" + $(this).attr('id') + ".json";
+            console.log(json_path);
+            // d3.select(".plot_area").selectAll("svg > *").remove();
+            d3.selectAll("svg").remove();
+
+            var svg = d3.select(".plot_area").append("svg")
+            .attr("width", width)
+            .attr("height", height)
+
+            var svg_network = svg.append("svg")
+            .attr("width", width-130)
+            .attr("height", height-120)
+            .style("margin-top", "200px")
+            // .style("margin-left", "50px")        
+            .attr("transform", "translate(" + 50 + "," + 200 + ")");
+
+            var simulation = d3.forceSimulation()
+            .force("link", d3.forceLink().id(function(d) { return d.id; }))
+            .force("charge", d3.forceManyBody().strength(-30).theta(0.9).distanceMin(2).distanceMax(100))
+            .force("collide",d3.forceCollide())
+            .force("center", d3.forceCenter(width / 2, height / 2))
+            
+
+            d3.json(json_path, function(error, graph) {
+                if (error) throw error;
+                
+                // show metadata
+                var elem_metadata = svg.append("g").attr("class", "metadata_area")
+                var paper_info_elem = svg.append("g").attr("class", "paper_info_area")
+                
+                elem_metadata.append("text")
+                .attr("x", 1000)
+                .attr("y", 100)
+                .text( graph.metadata.title + " (" + graph.metadata.journal + ", " + graph.metadata.pubyear + ")")
+                .style("font-family", "sans-serif")
+                .style("text-anchor", "end")
+                .style("font-size", 15)
+                .style("font-weight", 700)
+
+                elem_metadata.append("text")
+                .attr("x", 1000)
+                .attr("y", 130)
+                .text( graph.metadata.authors)
+                .style("font-family", "sans-serif")
+                .style("text-anchor", "end")
+                .style("font-size", 10)
+                .style("font-weight", 300)
+
+
+                var title_name_dic = {}
+                graph.nodes.forEach( function(v, i) {
+                    title_name_dic[v.id] = v.title;
+                })
+                
+                var min_year = 20000;
+                var max_year = -1;   
+                graph.links.forEach( function(v, i){
+                    if(v.year <= min_year) min_year = v.year;
+                    if(v.year >= max_year) max_year = v.year;
+                })
+                console.log(min_year, max_year)
+
+                var x = d3.scaleLinear()
+                    .domain([min_year, max_year])
+                    .range([100, scale_width])
+                    .clamp(true);
+                
+                // Text box
+                // slide bar
+                
+                var slider = svg
+                .append("g")
+                .attr("class", "slider")
+                .attr("transform", "translate(" + 10 + "," + 810 + ")")
+                // .style('fill', 'white')
+                .style('padding', 50)
+
+
+                slider.append("line")
+                    .attr("class", "track")
+                    .attr("x1", x.range()[0])
+                    .attr("x2", x.range()[1])
+                    .select(function() { return this.parentNode.appendChild(this.cloneNode(true)); })
+                    .attr("class", "track-inset")
+                    .select(function() { return this.parentNode.appendChild(this.cloneNode(true)); })
+                    .attr("class", "track-overlay")
+                    .call(d3.drag()
+                        .on("start.interrupt", function() { slider.interrupt(); })
+                        .on("start drag", function() { 
+                            change_year_textbox(x.invert(d3.event.x));
+                            var cur_year = get_now_year();
+                            restart(cur_year);
+                        })
+                    );
+
+                slider.insert("g", ".track-overlay")
+                    .attr("class", "ticks")
+                    .attr("transform", "translate(0," + 18 + ")")
+                    .selectAll("text")
+                    .data(x.ticks(max_year - min_year + 1))
+                    .enter().append("text")
+                    .attr("x", x)
+                    .attr("text-anchor", "middle")
+                    .text(function(d) { return d; })
+
+
+                var handle = slider.insert("circle", ".track-overlay")
+                    .attr("cx", scale_width)
+                    .attr("class", "handle")
+                    .attr("r", 9)
+
+                function change_year_textbox(h) {
+                    handle.attr("cx", x(h));
+                    textLabels.text(parseInt(h+0.5) );
+                    console.log("work: change_year_textbox " + h + " " + x(h))
+                }
+
+                //Add the SVG Text Element to the svgContainer
+                var text = svg.append("text").attr("class", "year_title")
+
+                //Add SVG Text Element Attributes
+                var textLabels = text
+                        .attr("x", 100)
+                        .attr("y", 70)
+                        .text(parseInt(x.invert( jQuery(".handle").attr("cx") ) ))
+                        .attr("font-family", "sans-serif")
+                        .attr("font-size", "120px")
+                        .attr("fill", "black");
+                
+                
+                // connect button to slide bar
+                var prevButton = d3.select("#go_prev_year");
+                var nextButton = d3.select("#go_next_year");
+
+                function get_now_year(){
+                    return parseInt(x.invert( jQuery(".handle").attr("cx") ) )
+                }
+                                
+                prevButton
+                .on("click", function() {
+                    cur_year = get_now_year();
+                    if(cur_year > min_year){
+                        change_year_textbox(cur_year-1);
+                        var cur_year = get_now_year();
+                        restart(cur_year);
+                    }
+                })
+
+                nextButton
+                .on("click", function() {
+                    cur_year = get_now_year();
+                    if(cur_year < max_year){
+                        change_year_textbox(cur_year+1);
+                        var cur_year = get_now_year();
+                        restart(cur_year);
+                    }
+                })
+
+                // make networks
+
+                links_filtered = graph.links.filter(function(d) { return d.year == max_year} )
+
+                var g = svg_network.append("g")
+                .attr("class", "everything")
+                .style("stroke", "black")
+                .style("stroke-width", 1)
+                .attr("width", 1000)
+                .attr("height", 800)
+
+                var link = g.append("g")
+                .attr("class", "links")
+                .selectAll("line")
+                .data(links_filtered, function(d) { return d.source + "-" + d.target; })
+                .enter().append("line")
+                .attr("stroke-width", 100)
+                .attr("stroke", "black")
+                .attr("alpha", 1)
+                .exit().remove()
+
+                var node = g.append("g")
+                .attr("class", "nodes")
+                .selectAll(".node")
+                .data(graph.nodes)
+                .enter().append("circle")
+                .attr("class", function(d) { return "node " + "py_" + d.pubyear;})
+                .attr("r", function(d) { return d.diameter/3. } )
+                .style("fill", "black")
+                .attr("stroke", "black")
+                .attr("stroke-width", 2)
+
+                nobel_node = node
+                .filter( function(d) { return d.id == graph.metadata.nobel_paper })
+
+                nobel_node
+                .style("stroke","pink")
+                .style("stroke-width",5)
+                
+
+                var node_label = node.append("text")
+                .text(function(d) { return (d.title + " (" + d.journal + ", " + d.pubyear + ")"); }); 
+
+                node
+                .on('click', function(d) {
+                    console.log("click event occurs")
+                    d3.selectAll('.paper_info_area')
+                    .text( "ID: " + d.id +  " | Title: " + d.title + " (" + d.journal + ", "+d.pubyear + ")")
+                    
+                    // d3.select(this).classed(".selected_node", true)
+                    if (!d3.select(this).classed("selected_node")) {
+
+                        node
+                        .style("stroke","#888888")
+                        .style("stroke-width",1.5)
+                        .classed("selected_node", false)
+                        
+                        nobel_node
+                        .style("stroke","pink")
+                        .style("stroke-width",5)
+
+
+                        d3.select(this)
+                        .classed("selected_node", true)
+                        .style("stroke","lightcoral")
+                        .style("stroke-width",2.5)
+                    } 
+                    else {
+                        d3.select(this)
+                        .classed("selected_node", false)
+                        .style("stroke","#888888")
+                        .style("stroke-width",1.5)
+
+                        node
+                        .filter( function(d) { return d.id == graph.metadata.nobel_paper })
+                        .attr("stroke", 'pink')
+
+                        nobel_node
+                        .style("stroke","pink")
+                        .style("stroke-width",5)
+
+
+                    }
+                })
+                
+                //add drag capabilities  
+                var drag_handler = d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended);	
+                
+                drag_handler(node);
+            
+
+                //add zoom capabilities 
+                var zoom_handler = d3.zoom()
+                .scaleExtent([1, 6])
+                .on("zoom", zoom_actions)
+                
+                    
+
+                zoom_handler(svg); 
+
+                // node.each(function(d) { d3.select(this).classed(d.pubyear, true)
+
+                // graph.nodes.forEach(function (v) { v.width = 10, v.height = 10 })
+
+                node.append("title")
+                .text(function(d) { return (d.title + " (" + d.journal + ", " + d.pubyear + ")"); });    
+
+                // link.append("title")
+                //     .text(function(d) { 
+                //         return ( title_name_dic[d.source] + " - " + title_name_dic[d.target] + " (" + d.weight + ")"); });   
+        
+
+                function ticked() {
+                    link
+                    .attr("x1", function(d) { return d.source.x; })
+                    .attr("y1", function(d) { return d.source.y; })
+                    .attr("x2", function(d) { return d.target.x; })
+                    .attr("y2", function(d) { return d.target.y; });
+
+                    node
+                    .attr("cx", function(d) { return d.x; })
+                    .attr("cy", function(d) { return d.y; });
+                }
+
+
+                
+                function dragstarted(d) {
+                if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+                d.fx = d.x;
+                d.fy = d.y;
+                }
+                
+                function dragged(d) {
+                d.fx = d3.event.x;
+                d.fy = d3.event.y;
+                }
+                
+                function dragended(d) {
+                if (!d3.event.active) simulation.alphaTarget(0);
+                d.fx = null;
+                d.fy = null;
+                }
+                
+
+                //Zoom functions 
+                function zoom_actions(){
+                    g.attr("transform", d3.event.transform)
+                }            
+
+                simulation
+                .nodes(graph.nodes)
+                .on("tick", ticked)
+                .force("collide").radius((d)=>{return d.diameter/2.})
+
+                simulation.force("link")
+                .links(links_filtered);
+                
+                // Restart parts!
+                var cur_year = get_now_year();  
+                restart(cur_year)
+                                    
+                function restart(cur_year)
+                {   
+                    console.log("restarting" + cur_year)
+                    d3.selectAll('.paper_info_area')
+                    .text("Metadata of a chonse paper will be shown.")
+
+                    $(".node").show()
+                    for (var y = (cur_year+1); y <= max_year; y++) {
+                        $(".py_"+y).hide()
+                    }
+
+                    var links_filtered = []
+                    graph.links.forEach(function(v, i) { 
+                        if(v.year == cur_year){
+                            links_filtered.push(v)
+                        }
+                    })
+                    
+                    // console.log(links_filtered)
+
+                    var link_weight_dic = {}
+                    links_filtered.forEach(function(v, i){
+                        link_weight_dic[v.source.id + "-" + v.target.id] = v.weight
+                    })
+                    
+                    // console.log(link_weight_dic)
+
+                    // Apply the general update pattern to the links.
+                    link = link.data(links_filtered, function(d) { return d.source + "-" + d.target; });
+                    link.exit().remove();
+
+                    link = link.enter()
+                    .append("line")
+                    // .attr("stroke-width", function(d) { return Math.log10(link_weight_dic[d.source.id + "-" + d.target.id]); })
+                    .attr("stroke-width", function(d) { return Math.log10(d.weight); })
+                    .attr("stroke", "black")
+                    .attr("alpha", 1)
+                    .merge(link)
+                    
+                    link.append("title")
+                    .text(function(d) { 
+                        // console.log(d.source)
+                        // return ( title_name_dic[d.source] + " - " + title_name_dic[d.target] + " (" + link_weight_dic[d.source.id + "-" + d.target.id] + ")"); });   
+                        return ( d.source.title + " - " + d.target.title + " (" + d.weight + ")"); });   
+
+
+                    simulation
+                    .nodes(graph.nodes)
+                    .on("tick", ticked);
+
+                    simulation.force("link")
+                    .links(links_filtered);
+                    
+                    simulation.restart()  
+
+                    var node_strength = {};
+
+                    links_filtered.forEach(function(l) {
+                        if(l.source.id in node_strength){
+                            node_strength[l.source.id] = node_strength[l.source.id] + l.weight;
+                        }
+                        else{
+                            node_strength[l.source.id] = l.weight;
+                        }
+                        
+                        if(l.target.id in node_strength){
+                            node_strength[l.target.id] = node_strength[l.target.id] + l.weight;
+                        }
+                        else{
+                            node_strength[l.target.id] = l.weight;
+                        }
+                    });
+                    // console.log(node_strength)
+
+                    max_strength_uid = Object.keys(node_strength).reduce((a, b) => node_strength[a] > node_strength[b] ? a : b);
+                    // console.log(max_strength_uid)
+
+                    var colorScale = d3.scaleSequential(d3.interpolateGnBu)
+                    .domain([0, node_strength[max_strength_uid]+1])
+                    
+
+                    var node = g.selectAll(".node")
+                    .style("fill", function(d) {
+                        if(d.id in node_strength){
+                            return colorScale(node_strength[d.id])
+                        }
+                        else{
+                            return colorScale(0)
+                        } 
+                    })
+                    .style("opacity", 1)
+
+
+                    // area for legends
+                    d3.select(".legend-area").selectAll("g").remove();
+                    d3.select(".legend-area").remove();
+
+                    var legend = svg.append("g").attr("class", "legend-area").selectAll(".legend")
+                    .data(colorScale.ticks(7).slice(1).reverse())
+                    .enter().append("g")
+                    .attr("class", "legend")
+                    .attr("transform", function(d, i) { return "translate(" + (width - 100) + "," + (220 + i * 20) + ")"; });
+
+                    legend.append("rect")
+                        .attr("width", 20)
+                        .attr("height", 20)
+                        .style("fill", colorScale);
+
+                    legend.append("text")
+                        .attr("x", 26)
+                        .attr("y", 10)
+                        .attr("dy", ".35em")
+                        .text(String);
+
+                } // end of restart
+
+                //text of legend
+                svg.append("text")
+                .attr("class", "label")
+                .attr("x", width - 100)
+                .attr("y", 200)
+                .attr("dy", ".35em")
+                .style("font-size", 20)
+                .text("Strength");
+
+
+                var link_legend_data = [
+                        {"x1": 1000, "y1": 500, "x2": 1040, "y2": 500, "w": 10},
+                        {"x1": 1000, "y1": 520, "x2": 1040, "y2": 520, "w": 100},
+                        {"x1": 1000, "y1": 540, "x2": 1040, "y2": 540, "w": 1000},
+                        {"x1": 1000, "y1": 560, "x2": 1040, "y2": 560, "w": 10000},
+                        
+                    ]
+
+                var legend2 = svg.append("g").attr("class", "legend-link").selectAll("line")
+                .data(link_legend_data)
+                .enter()
+                .append("line")
+                .attr("x1", function(d) {return d.x1})
+                .attr("y1", function(d) {return d.y1})
+                .attr("x2", function(d) {return d.x2})
+                .attr("y2", function(d) {return d.y2})
+                .attr("stroke-width", function(d) {return Math.log10(d.w)})
+                .style("stroke", "grey")
+                
+                
+                var legend2_text = svg.append("g").selectAll("text")
+                .data(link_legend_data)
+                .enter()
+                .append("text")
+
+                var aaaaaa = legend2_text
+                .attr("x", function(d) {return (d.x2 + 10)})
+                .attr("y", function(d) {return (d.y2 + 3)})
+                .text(function(d) {return d.w} )
+                .attr("font-family", "sans-serif")
+                .attr("font-size", "20px")
+                .attr("fill", "black")
+                
+
+                var node_legend_data = [
+                    {"cx": 1020, "cy": 620, "r": 10},
+                    {"cx": 1020, "cy": 630, "r": 100},
+                    {"cx": 1020, "cy": 660, "r": 1000},
+                    {"cx": 1020, "cy": 720, "r": 10000}
+                ]
+
+                var legend3 = svg.append("g").attr("class", "legend-node").selectAll("circle")
+                .data(node_legend_data)
+                .enter()
+                .append("circle")
+                .attr("cx", function(d) {return d.cx})
+                .attr("cy", function(d) {return d.cy})
+                .attr("stroke-width", 1)
+                .attr("stroke", "grey")
+                .attr("r", function(d) {return (Math.sqrt(d.r)/3.0) })
+                .attr("fill", "rgb(227, 244, 222)")
+                
+                
+                var legend3_text = svg.append("g").selectAll("text")
+                .data(node_legend_data)
+                .enter()
+                .append("text")
+
+                var aaaaaa = legend3_text
+                .attr("x", function(d) {return (d.cx + 50)})
+                .attr("y", function(d) {return (d.cy + 3)})
+                .text(function(d) {return d.r} )
+                .attr("font-family", "sans-serif")
+                .attr("font-size", "20px")
+                .attr("fill", "black")
+            }); // end of d3.json
+
+        }); // end of jquery
+    </script>
+
+    <div class="inst">   
+        <p>Instructions </p>
+        <ul>
+            <li>Zoom in/out: scroll wheel up/down.</li>
+            <li>Panning: click the background and drag it.</li>
+            <li>Cursor on a node: it pops up information of a paper.</li>
+            <li>Click a node: metadata of the chosen node shows below timeline. </li>
+            <li>Move a node: click any node and drag it.</li>
+            <li>Change year: move a handle on a slide bar below the graph</li>
+            <li>Colors: node strength in each year. It scales automatically.</li>
+            <li>Node size: citations in the last year.</li>
+            <li>Link thickness: co-citations between papers.</li>
+        </ul>
+    </div>
+</body>
+
+</html>
