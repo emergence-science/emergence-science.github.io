@@ -189,6 +189,9 @@
 
    
         jQuery('.papers').click(function(){
+            
+            $('.papers').css('font-weight', 'normal');
+            $(this).css('font-weight', 1000);
 
             var json_path = $(this).attr('id') + ".json";
             console.log(json_path);
