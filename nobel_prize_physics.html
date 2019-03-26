@@ -128,16 +128,20 @@
         position:absolute; 
         top:1000px; 
         left:100px;
-        width: 900px;
+        width: 800px;
         word-break: break-word;
     }
-
+    .metadata_area{
+        width: 800px;
+        word-break: break-word;
+    }
     .background_head_plot_area{
         position:absolute; 
         top:100px; 
         left:0px; 
         width: 1000px;
         height: 150px;
+        word-break: break-word;
         background-color: #fff;
     }
 </style>
@@ -162,22 +166,8 @@
     
     <div class="paper_list">
         <ul>
-            <p> Reviews</p>
-            <li><a href="#" class="papers" id="physics_2013-WOS:A1986AYA0800001">2013-1</a></li>
-            <li><a href="#" class="papers" id="physics_2011-WOS:000076040700001">2011-1</a></li>
-            <li><a href="#" class="papers" id="physics_2011-WOS:000184951100010">2011-2</a></li>
-            <li><a href="#" class="papers" id="physics_2011-WOS:000081011700004">2011-3</a></li>
-            <li><a href="#" class="papers" id="physics_2008-WOS:A1982PH41600001">2008-1</a></li>
-            <li><a href="#" class="papers" id="physics_2008-WOS:A1984TL53400001">2008-2</a></li>
-            <li><a href="#" class="papers" id="physics_2008-WOS:A1986AYA0800001">2008-3</a></li>
-            <li><a href="#" class="papers" id="physics_2005-WOS:000174348100050">2005-1</a></li>
-            <li><a href="#" class="papers" id="physics_2005-WOS:A1984SY39200001">2005-2</a></li>            
-            <li><a href="#" class="papers" id="physics_2005-WOS:A19656494100001">2005-3</a></li>            
-            <li><a href="#" class="papers" id="physics_2003-WOS:A1972N321800001">2003-1</a></li>
-            <li><a href="#" class="papers" id="physics_2003-WOS:A1975AA16300004">2003-2</a></li>
-            <li><a href="#" class="papers" id="physics_1995-WOS:A1957WH65200001">1995-1</a></li>
-            <li><a href="#" class="papers" id="physics_1994-WOS:A1955WT23000001">1994-1</a></li>
-            <li><a href="#" class="papers" id="physics_1994-WOS:A1963WP13400001">1994-2</a></li>
+            <p> Novel prize</p>
+            <li><a href="#" class="papers" id="physics_1990-WOS:A1971L102200003">1990</a></li>
             
         </ul>
     </div>
@@ -225,6 +215,7 @@
                 elem_metadata.append("text")
                 .attr("x", 1000)
                 .attr("y", 100)
+                .attr("width", 800)
                 .text( graph.metadata.title + " (" + graph.metadata.journal + ", " + graph.metadata.pubyear + ")")
                 .style("font-family", "sans-serif")
                 .style("text-anchor", "end")
@@ -383,7 +374,7 @@
                 .attr("stroke-width", 2)
 
                 nobel_node = node
-                .filter( function(d) { return d.id == graph.metadata.nobel_paper })
+                .filter( function(d) { return d.nobel_paper == "Y" })
 
                 nobel_node
                 .style("stroke","pink")
@@ -397,7 +388,7 @@
                 .on('click', function(d) {
                     console.log("click event occurs")
                     d3.selectAll('.paper_info_area')
-                    .text( "ID: " + d.id +  " | Title: " + d.title + " (" + d.journal + ", "+d.pubyear + ")")
+                    .text( "ID: " + d.id +  " | Title: " + d.title + " (" + d.journal + ", "+d.pubyear + ") - " + d.authors)
                     
                     // d3.select(this).classed(".selected_node", true)
                     if (!d3.select(this).classed("selected_node")) {
@@ -423,10 +414,6 @@
                         .style("stroke","#888888")
                         .style("stroke-width",1.5)
 
-                        node
-                        .filter( function(d) { return d.id == graph.metadata.nobel_paper })
-                        .attr("stroke", 'pink')
-
                         nobel_node
                         .style("stroke","pink")
                         .style("stroke-width",5)
@@ -446,7 +433,7 @@
 
                 //add zoom capabilities 
                 var zoom_handler = d3.zoom()
-                .scaleExtent([1, 6])
+                .scaleExtent([0.5, 6])
                 .on("zoom", zoom_actions)
                 
                     

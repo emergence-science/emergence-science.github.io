@@ -3,8 +3,7 @@
     "title": "THEORY OF NUCLEAR MATTER",
     "pubyear": 1971,
     "journal": "ANNUAL REVIEW OF NUCLEAR SCIENCE",
-    "authors": "BETHE, HA",
-    "nobel_paper": "WOS:A1969C983500021"
+    "authors": "BETHE, HA"
   },
   "nodes": [
     {
@@ -12,1291 +11,1815 @@
       "title": "Measurements of elastic electron-deuteron scattering at high momentum transfers",
       "journal": "PHYSICAL REVIEW",
       "diameter": 11.61895003862225,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "Y",
+      "authors": "ELIAS, JE, FRIEDMAN, JI, HARTMANN, GC, KENDALL, HW, KIRK, PN, SOGARD, MR, VANSPEYB.LP, DEPAGTER, JK"
     },
     {
       "id": "WOS:A1969E541800005",
       "title": "On renormalization of effective 2-nucleon interaction by core-polarization processes",
       "journal": "PHYSICS LETTERS B",
       "diameter": 5.477225575051661,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "OSNES, E, WARKE, CS"
     },
     {
       "id": "WOS:A1969D413700001",
       "title": "A hartree-fock calculation of 208pb in coordinate space",
       "journal": "PHYSICS LETTERS B",
       "diameter": 5.916079783099616,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "VAUTHERI.D, VENERONI, M"
     },
     {
       "id": "WOS:A1959WN04400013",
       "title": "On the theory of the fermi liquid",
       "journal": "SOVIET PHYSICS JETP-USSR",
       "diameter": 15.7797338380595,
-      "pubyear": 1959
+      "pubyear": 1959,
+      "nobel_paper": "N",
+      "authors": "LANDAU, LD"
     },
     {
       "id": "WOS:A19668260400004",
       "title": "A study of hartree-fock approximation as applied to finite nuclei",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 12.206555615733702,
-      "pubyear": 1966
+      "pubyear": 1966,
+      "nobel_paper": "N",
+      "authors": "DAVIES, KTR, KRIEGER, SJ, BARANGER, M"
     },
     {
       "id": "WOS:A1960WB78600030",
       "title": "Single particle energies in the theory of nuclear matter",
       "journal": "PHYSICAL REVIEW",
       "diameter": 11.224972160321824,
-      "pubyear": 1960
+      "pubyear": 1960,
+      "nobel_paper": "N",
+      "authors": "BRUECKNER, KA, GOLDMAN, DT"
     },
     {
       "id": "WOS:A1963WJ43300003",
       "title": "Perturbation theory for degenerate problems of many-fermion systems",
       "journal": "PROGRESS OF THEORETICAL PHYSICS",
       "diameter": 8.831760866327848,
-      "pubyear": 1963
+      "pubyear": 1963,
+      "nobel_paper": "N",
+      "authors": "MORITA, T"
     },
     {
       "id": "WOS:A1970H942500006",
       "title": "Superfluid state in neutron star matter .1. generalized bogoliubov transformation and existence of 3p2 gap at high density",
       "journal": "PROGRESS OF THEORETICAL PHYSICS",
       "diameter": 6.928203230275509,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "TAMAGAKI, R"
     },
     {
       "id": "WOS:A1971J051400006",
       "title": "Sc-41-ca-41 coulomb energy difference",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 10.0,
-      "pubyear": 1971
+      "pubyear": 1971,
+      "nobel_paper": "N",
+      "authors": "NEGELE, JW"
     },
     {
       "id": "WOS:A1958WB74500020",
       "title": "Theory of finite nuclei",
       "journal": "PHYSICAL REVIEW",
       "diameter": 13.74772708486752,
-      "pubyear": 1958
+      "pubyear": 1958,
+      "nobel_paper": "N",
+      "authors": "BRUECKNER, KA, GAMMEL, JL, WEITZNER, H"
     },
     {
       "id": "WOS:A19621484C00013",
       "title": "Nuclear matter calculations and phenomenological potentials",
       "journal": "PHYSICAL REVIEW",
       "diameter": 10.583005244258363,
-      "pubyear": 1962
+      "pubyear": 1962,
+      "nobel_paper": "N",
+      "authors": "BRUECKNER, KA, MASTERSON, KS"
     },
     {
       "id": "WOS:A19629118B00017",
       "title": "A potential model representation of 2-nucleon data below 315 mev",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 33.1058907144937,
-      "pubyear": 1962
+      "pubyear": 1962,
+      "nobel_paper": "N",
+      "authors": "HAMADA, T, JOHNSTON, ID"
     },
     {
       "id": "WOS:A1968A871800001",
       "title": "Thomas-fermi theory of nuclei",
       "journal": "PHYSICAL REVIEW",
       "diameter": 13.527749258468683,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "BETHE, HA"
     },
     {
       "id": "WOS:A1957WB71400055",
       "title": "Calculation of phenomenological nucleon-nucleon potentials",
       "journal": "PHYSICAL REVIEW",
       "diameter": 9.9498743710662,
-      "pubyear": 1957
+      "pubyear": 1957,
+      "nobel_paper": "N",
+      "authors": "GAMMEL, JL, CHRISTIAN, RS, THALER, RM"
     },
     {
       "id": "WOS:A1970H108500022",
       "title": "Capture of k mesons in nuclear periphery",
       "journal": "NUCLEAR PHYSICS B",
       "diameter": 5.291502622129181,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "BETHE, HA, SIEMENS, PJ"
     },
     {
       "id": "WOS:A1969D281900011",
       "title": "Corrections to hartree-fock approximation for homogeneous nuclear matter",
       "journal": "PHYSICAL REVIEW",
       "diameter": 3.7416573867739413,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "MACKENZI.JJ"
     },
     {
       "id": "WOS:A1967A192600001",
       "title": "Elements of brueckner-goldstone theory of nuclear matter",
       "journal": "REVIEWS OF MODERN PHYSICS",
       "diameter": 17.175564037317667,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "DAY, BD"
     },
     {
       "id": "WOS:A1970G385200005",
       "title": "Brueckner-hartree-fock calculations of spherical nuclei in a harmonic-oscillator basis .2.",
       "journal": "PHYSICAL REVIEW C",
       "diameter": 5.916079783099616,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "DAVIES, KTR, BARANGER, M"
     },
     {
       "id": "WOS:A19611438C00008",
       "title": "Properties of finite nuclei",
       "journal": "PHYSICAL REVIEW",
       "diameter": 12.96148139681572,
-      "pubyear": 1961
+      "pubyear": 1961,
+      "nobel_paper": "N",
+      "authors": "BRUECKNER, K, LOCKETT, AM, ROTENBERG, M"
     },
     {
       "id": "WOS:A1971I299200003",
       "title": "Clustering of nucleons in low density neutron star matter",
       "journal": "ASTROPHYSICAL LETTERS & COMMUNICATIONS",
       "diameter": 3.872983346207417,
-      "pubyear": 1971
+      "pubyear": 1971,
+      "nobel_paper": "N",
+      "authors": "BUCHLER, JR, BARKAT, Z"
     },
     {
       "id": "WOS:A1971I455000051",
       "title": "Off-shell effects in nuclear matter",
       "journal": "PHYSICAL REVIEW C",
       "diameter": 9.643650760992955,
-      "pubyear": 1971
+      "pubyear": 1971,
+      "nobel_paper": "N",
+      "authors": "HAFTEL, MI, TABAKIN, F"
     },
     {
       "id": "WOS:A1956WK95700040",
       "title": "Nuclear surface effects",
       "journal": "PHYSICAL REVIEW",
       "diameter": 8.0,
-      "pubyear": 1956
+      "pubyear": 1956,
+      "nobel_paper": "N",
+      "authors": "BERG, RA, WILETS, L"
     },
     {
       "id": "WOS:A1960WG79300003",
       "title": "Nuclear forces and the properties of nuclear matter",
       "journal": "ANNALS OF PHYSICS",
       "diameter": 17.08800749063506,
-      "pubyear": 1960
+      "pubyear": 1960,
+      "nobel_paper": "N",
+      "authors": "MOSZKOWSKI, SA, SCOTT, BL"
     },
     {
       "id": "WOS:A1958WP53800013",
       "title": "Sur la determination des premiers etats dun systeme de fermions dans le cas degenere",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 15.329709716755891,
-      "pubyear": 1958
+      "pubyear": 1958,
+      "nobel_paper": "N",
+      "authors": "BLOCH, C, HOROWITZ, J"
     },
     {
       "id": "WOS:A1961WN98900041",
       "title": "Scattering theory for a 3-particle system",
       "journal": "SOVIET PHYSICS JETP-USSR",
       "diameter": 27.53179979587241,
-      "pubyear": 1961
+      "pubyear": 1961,
+      "nobel_paper": "N",
+      "authors": "FADDEEV, LD"
     },
     {
       "id": "WOS:A1969D189000039",
       "title": "Realistic nuclear single-particle hamiltonians and proton shell 114",
       "journal": "PHYSICAL REVIEW",
       "diameter": 7.937253933193772,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "MELDNER, H"
     },
     {
       "id": "WOS:A1967A192600002",
       "title": "3-body problem in nuclear matter",
       "journal": "REVIEWS OF MODERN PHYSICS",
       "diameter": 12.083045973594572,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "RAJARAMA.R, BETHE, HA"
     },
     {
       "id": "WOS:A1969E123800013",
       "title": "First-order binding energies and spectra with a potential matrix deduced from phase shifts",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 5.830951894845301,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "DEY, J, ELLIOTT, JP, JACKSON, AD, MAVROMAT.HA, SANDERSO.EA, SINGH, B"
     },
     {
       "id": "WOS:A19622560C00004",
       "title": "Aspects of nucleon-nucleon scattering theory",
       "journal": "REVIEWS OF MODERN PHYSICS",
       "diameter": 6.557438524302,
-      "pubyear": 1962
+      "pubyear": 1962,
+      "nobel_paper": "N",
+      "authors": "BREIT, G"
     },
     {
       "id": "WOS:A1969E299500018",
       "title": "3-fluid hydrodynamical model and proton distribution in 208pb",
       "journal": "PHYSICAL REVIEW LETTERS",
       "diameter": 1.7320508075688772,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "MOHAN, R, DANOS, M, BIEDENHA.LC"
     },
     {
       "id": "WOS:A1970F190200009",
       "title": "Calculations on nuclear surface",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 2.23606797749979,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "LIN, YC"
     },
     {
       "id": "WOS:A1968C182300012",
       "title": "Self-consistent structure of light nuclei (2)",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 3.605551275463989,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "IRVINE, JM"
     },
     {
       "id": "WOS:A1968C041200018",
       "title": "Single separable potential with attraction and repulsion",
       "journal": "PHYSICAL REVIEW",
       "diameter": 9.797958971132712,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "TABAKIN, F"
     },
     {
       "id": "WOS:A1970H035300013",
       "title": "Nuclei in neutron matter",
       "journal": "ASTRONOMY & ASTROPHYSICS",
       "diameter": 6.48074069840786,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "BETHE, HA, BORNER, G, SATO, K"
     },
     {
       "id": "WOS:A19667942200001",
       "title": "Nuclear masses and deformations",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 25.69046515733026,
-      "pubyear": 1966
+      "pubyear": 1966,
+      "nobel_paper": "N",
+      "authors": "MYERS, WD, SWIATECK.WJ"
     },
     {
       "id": "WOS:A1958WH65400025",
       "title": "Theories of the nuclear surface",
       "journal": "REVIEWS OF MODERN PHYSICS",
       "diameter": 9.219544457292887,
-      "pubyear": 1958
+      "pubyear": 1958,
+      "nobel_paper": "N",
+      "authors": "WILETS, L"
     },
     {
       "id": "WOS:A1969C693100006",
       "title": "Soft-core nucleon-nucleon potential",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 10.099504938362077,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "BRESSEL, CN, KERMAN, AK, ROUBEN, B"
     },
     {
       "id": "WOS:A1969E332700009",
       "title": "Critical-point singularities of perturbation series for ground state of a many-fermion system",
       "journal": "JOURNAL OF MATHEMATICAL PHYSICS",
       "diameter": 4.242640687119285,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "BAKER, GA, KAHANE, J"
     },
     {
       "id": "WOS:A19679964900012",
       "title": "Unitary-model-operator approach to nuclear-structure physics .2. applications",
       "journal": "PHYSICAL REVIEW",
       "diameter": 9.899494936611665,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "SHAKIN, CM, WAGHMARE, YR, TOMASELL.M, HULL, MH"
     },
     {
       "id": "WOS:A1969E204600003",
       "title": "Number-conserving sets and third-order renormalization contributions to effective nuclear interaction",
       "journal": "PHYSICS LETTERS B",
       "diameter": 4.58257569495584,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "BARRETT, BR, KIRSON, MW"
     },
     {
       "id": "WOS:A19679047600004",
       "title": "Single-particle potentials and wave functions in 1p and 2s-1d shells",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 16.401219466856727,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "ELTON, LRB, SWIFT, A"
     },
     {
       "id": "WOS:A1957WU26400010",
       "title": "Derivation of the brueckner many-body theory",
       "journal": "PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL AND PHYSICAL SCIENCES",
       "diameter": 29.30870177950569,
-      "pubyear": 1957
+      "pubyear": 1957,
+      "nobel_paper": "N",
+      "authors": "GOLDSTONE, J"
     },
     {
       "id": "WOS:A1968B192700015",
       "title": "Reaction matrix elements for closed-shell nuclei using realistic forces",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 4.898979485566356,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "GRILLOT, D, MCMANUS, H"
     },
     {
       "id": "WOS:A1958WB74100002",
       "title": "Properties of nuclear matter",
       "journal": "PHYSICAL REVIEW",
       "diameter": 22.561028345356956,
-      "pubyear": 1958
+      "pubyear": 1958,
+      "nobel_paper": "N",
+      "authors": "BRUECKNER, KA, GAMMEL, JL"
     },
     {
       "id": "WOS:A1970F803800003",
       "title": "Hyperonic equation of state",
       "journal": "ASTROPHYSICS AND SPACE SCIENCE",
       "diameter": 5.656854249492381,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "LANGER, WD, ROSEN, LC"
     },
     {
       "id": "WOS:A1970H720400018",
       "title": "Comparison of hartree-fock, slater and thomas-fermi approximations",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 4.123105625617661,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "NEMETH, J"
     },
     {
       "id": "WOS:A1970F803800004",
       "title": "Neutron star models based on an improved equation of state",
       "journal": "ASTROPHYSICS AND SPACE SCIENCE",
       "diameter": 6.557438524302,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "COHEN, JM, LANGER, WD, ROSEN, LC, CAMERON, AGW"
     },
     {
       "id": "WOS:A19668334200002",
       "title": "Binding energy of nuclear matter",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 5.0990195135927845,
-      "pubyear": 1966
+      "pubyear": 1966,
+      "nobel_paper": "N",
+      "authors": "AZZIZ, N"
     },
     {
       "id": "WOS:A1970H430300002",
       "title": "2-pion exchange contribution to nucleon-nucleon force and an effective sigma-meson",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 4.47213595499958,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "RISKA, DO, BROWN, GE"
     },
     {
       "id": "WOS:A1956WK96200032",
       "title": "Neutron and proton densities in nuclei",
       "journal": "PHYSICAL REVIEW",
       "diameter": 7.280109889280518,
-      "pubyear": 1956
+      "pubyear": 1956,
+      "nobel_paper": "N",
+      "authors": "WILETS, L"
     },
     {
       "id": "WOS:A1968B412200004",
       "title": "Reaction matrix theory of single-particle potentials in nuclei",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 5.385164807134504,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "KIRSON, MW"
     },
     {
       "id": "WOS:A1968B461600001",
       "title": "Isotope effect and density-dependent nucleon-nucleon interaction",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 6.855654600401044,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "LANDE, A, MOLINARI, A, BROWN, GE"
     },
     {
       "id": "WOS:A1967A086600015",
       "title": "2nd-order contribution to binding energy of closed-shell nuclei with tabakin potential",
       "journal": "PHYSICAL REVIEW",
       "diameter": 6.855654600401044,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "KERMAN, AK, PAL, MK"
     },
     {
       "id": "WOS:A1970H271600018",
       "title": "A smooth realistic local nucleon-nucleon force suitable for nuclear hartree-fock calculations",
       "journal": "PHYSICS LETTERS B",
       "diameter": 11.224972160321824,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "GOGNY, D, PIRES, P, DETOURRE.R"
     },
     {
       "id": "WOS:A1957WF50100005",
       "title": "A revised semiempirical atomic mass formula",
       "journal": "CANADIAN JOURNAL OF PHYSICS",
       "diameter": 14.491376746189438,
-      "pubyear": 1957
+      "pubyear": 1957,
+      "nobel_paper": "N",
+      "authors": "CAMERON, AGW"
     },
     {
       "id": "WOS:A1959WU33200004",
       "title": "The binding energies of atomic nuclei .2. self-consistency and the definition of the t-matrix",
       "journal": "PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL AND PHYSICAL SCIENCES",
       "diameter": 6.708203932499369,
-      "pubyear": 1959
+      "pubyear": 1959,
+      "nobel_paper": "N",
+      "authors": "EDEN, RJ, EMERY, VJ, SAMPANTHAR, S"
     },
     {
       "id": "WOS:A1969E806600011",
       "title": "Elastic electron scattering by pb208 and new information about nuclear charge distribution",
       "journal": "PHYSICAL REVIEW LETTERS",
       "diameter": 11.224972160321824,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "HEISENBE.J, HOFSTADT.R, MCCARTHY, JS, SICK, I, CLARK, BC, HERMAN, R, RAVENHAL.DG"
     },
     {
       "id": "WOS:A1958WU28700011",
       "title": "Collective motion in the nuclear shell model .1. classification schemes for states of mixed configurations",
       "journal": "PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL AND PHYSICAL SCIENCES",
       "diameter": 26.324893162176366,
-      "pubyear": 1958
+      "pubyear": 1958,
+      "nobel_paper": "N",
+      "authors": "ELLIOTT, JP"
     },
     {
       "id": "WOS:A1969C626200011",
       "title": "Accurate calculation of reaction matrix in light nuclei and in nuclear matter",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 9.899494936611665,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "KALLIO, A, DAY, BD"
     },
     {
       "id": "WOS:A1969C959400004",
       "title": "Nucleon-nucleon scattering from one-boson-exchange potentials .3. s waves included",
       "journal": "PHYSICAL REVIEW",
       "diameter": 13.038404810405298,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "BRYAN, R, SCOTT, BL"
     },
     {
       "id": "WOS:A19679842400004",
       "title": "Unrestricted hartree-fock treatment of finite nuclei",
       "journal": "PHYSICAL REVIEW",
       "diameter": 10.770329614269007,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "BASSICHI.WH, KERMAN, AK, SVENNE, JP"
     },
     {
       "id": "WOS:A1968B564000001",
       "title": "A simple thomas-fermi calculation for semi-infinite nuclei",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 5.477225575051661,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "NEMETH, J, BETHE, HA"
     },
     {
       "id": "WOS:A19629111B00010",
       "title": "3-body problem with separable potentials .1. bound states",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 13.92838827718412,
-      "pubyear": 1962
+      "pubyear": 1962,
+      "nobel_paper": "N",
+      "authors": "MITRA, AN"
     },
     {
       "id": "WOS:A19631486C00057",
       "title": "3-nucleon clusters in nuclear matter",
       "journal": "PHYSICAL REVIEW",
       "diameter": 6.6332495807108,
-      "pubyear": 1963
+      "pubyear": 1963,
+      "nobel_paper": "N",
+      "authors": "RAJARAMAN, R"
     },
     {
       "id": "WOS:A19679787100018",
       "title": "Scattering of 750-mev electrons by calcium isotopes",
       "journal": "PHYSICAL REVIEW LETTERS",
       "diameter": 11.357816691600547,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "BELLICAR.JB, BOUNIN, P, FROSCH, RF, HOFSTADT.R, MCCARTHY, JS, UHRHANE, FJ, YEARIAN, MR, CLARK, BC, HERMAN, R, RAVENHAL.DG"
     },
     {
       "id": "WOS:A19631486C00003",
       "title": "Reference spectrum method for nuclear matter",
       "journal": "PHYSICAL REVIEW",
       "diameter": 18.867962264113206,
-      "pubyear": 1963
+      "pubyear": 1963,
+      "nobel_paper": "N",
+      "authors": "BETHE, HA, PETSCHEK, AG, BRANDOW, BH"
     },
     {
       "id": "WOS:A19631498C00053",
       "title": "Classical self-consistent nuclear model .2.",
       "journal": "PHYSICAL REVIEW",
       "diameter": 7.416198487095663,
-      "pubyear": 1963
+      "pubyear": 1963,
+      "nobel_paper": "N",
+      "authors": "SEYLER, RG, BLANCHARD, CH"
     },
     {
       "id": "WOS:A19667365400007",
       "title": "States with v = 0 and v = 1 seniority in ni isotopes",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 7.14142842854285,
-      "pubyear": 1966
+      "pubyear": 1966,
+      "nobel_paper": "N",
+      "authors": "AUERBACH, N"
     },
     {
       "id": "WOS:A1968B461600016",
       "title": "Pcac and three-body forces in nuclei",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 6.164414002968976,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "BROWN, GE, GREEN, AM, GERACE, WJ"
     },
     {
       "id": "WOS:A1971I571800013",
       "title": "Nuclear masses, shell-model and superheavy nuclei .1.",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 4.898979485566356,
-      "pubyear": 1971
+      "pubyear": 1971,
+      "nobel_paper": "N",
+      "authors": "KOHLER, HS"
     },
     {
       "id": "WOS:A1960WB79800038",
       "title": "Energy gap in nuclear matter",
       "journal": "PHYSICAL REVIEW",
       "diameter": 7.810249675906654,
-      "pubyear": 1960
+      "pubyear": 1960,
+      "nobel_paper": "N",
+      "authors": "EMERY, VJ, SESSLER, AM"
     },
     {
       "id": "WOS:A1970G806300001",
       "title": "Hartree-fock calculations with skyrmes interaction",
       "journal": "PHYSICS LETTERS B",
       "diameter": 9.899494936611665,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "VAUTHERI.D, BRINK, DM"
     },
     {
       "id": "WOS:A1968A874500053",
       "title": "Relativistic model for electroproduction of nucleon resonances",
       "journal": "PHYSICAL REVIEW",
       "diameter": 6.0,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "WALECKA, JD, ZUCKER, PA"
     },
     {
       "id": "WOS:A1971J369800005",
       "title": "Nonstatic second order contribution to elastic electron nucleus scattering",
       "journal": "ANNALS OF PHYSICS",
       "diameter": 3.4641016151377544,
-      "pubyear": 1971
+      "pubyear": 1971,
+      "nobel_paper": "N",
+      "authors": "BETHE, HA, MOLINARI, A"
     },
     {
       "id": "WOS:A1968B810100026",
       "title": "Correction",
       "journal": "PHYSICAL REVIEW LETTERS",
       "diameter": 2.0,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "MCKELLAR, BH"
     },
     {
       "id": "WOS:A1969D426000003",
       "title": "Reaction matrix calculations in finite nuclei",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 5.385164807134504,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "MCCARTHY, RJ"
     },
     {
       "id": "WOS:A1969E370100003",
       "title": "A comparison between velocity- and density-dependent interactions in finite nuclei calculations",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 3.4641016151377544,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "KOHLER, HS, LIN, YC"
     },
     {
       "id": "WOS:A1968B574300008",
       "title": "Statistical theory nuclei",
       "journal": "PHYSICAL REVIEW",
       "diameter": 11.704699910719626,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "BRUECKNE.KA, BUCHLER, JR, JORNA, S, LOMBARD, RJ"
     },
     {
       "id": "WOS:A1968C041200038",
       "title": "Electron scattering studies of calcium and titanium isotopes",
       "journal": "PHYSICAL REVIEW",
       "diameter": 15.394804318340652,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "FROSCH, RF, HOFSTADT.R, MCCARTHY, JS, NOLDEKE, GK, VANOOSTR.KJ, YEARIAN, MR, CLARK, BC, HERMAN, R, RAVENHAL.DG"
     },
     {
       "id": "WOS:A19667240100006",
       "title": "Determination of nucleon-nucleon elastic-scattering matrix .4. comparison of energy-dependent and energy-independent phase-shift analyses",
       "journal": "PHYSICAL REVIEW",
       "diameter": 11.958260743101398,
-      "pubyear": 1966
+      "pubyear": 1966,
+      "nobel_paper": "N",
+      "authors": "ARNDT, RA, MACGREGO.MH"
     },
     {
       "id": "WOS:A1961WG80300005",
       "title": "The tensor interaction and nuclear matter",
       "journal": "ANNALS OF PHYSICS",
       "diameter": 7.745966692414834,
-      "pubyear": 1961
+      "pubyear": 1961,
+      "nobel_paper": "N",
+      "authors": "SCOTT, BL, MOSZKOWSKI, SA"
     },
     {
       "id": "WOS:A1969D831000023",
       "title": "Statistical theory of nuclei .2. medium and heavy nuclei",
       "journal": "PHYSICAL REVIEW",
       "diameter": 9.0,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "BRUECKNE.KA, BUCHLER, JR, CLARK, RC, LOMBARD, RJ"
     },
     {
       "id": "WOS:A1969F297100010",
       "title": "4-hole-line diagrams in nuclear matter",
       "journal": "PHYSICAL REVIEW",
       "diameter": 8.0,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "DAY, BD"
     },
     {
       "id": "WOS:A19631494C00041",
       "title": "Calculation of binding energy of nuclear matter by method of reference spectrum",
       "journal": "PHYSICAL REVIEW",
       "diameter": 8.0,
-      "pubyear": 1963
+      "pubyear": 1963,
+      "nobel_paper": "N",
+      "authors": "RAZAVY, M"
     },
     {
       "id": "WOS:A1970G000500003",
       "title": "Higher partial waves contribution to nuclear matter binding energy",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 4.58257569495584,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "SPRUNG, DWL, BANERJEE, PK, JOPKO, AM, SRIVASTA.MK"
     },
     {
       "id": "WOS:A1957XM01300002",
       "title": "Perturbation theory of large quantum systems",
       "journal": "PHYSICA",
       "diameter": 17.72004514666935,
-      "pubyear": 1957
+      "pubyear": 1957,
+      "nobel_paper": "N",
+      "authors": "HUGENHOLTZ, NM"
     },
     {
       "id": "WOS:A19679526400007",
       "title": "Calculation of 16o binding energy",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 4.69041575982343,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "MCCARTHY, RJ, KOHLER, HS"
     },
     {
       "id": "WOS:A1955WB09800044",
       "title": "Classical field theory of nuclear forces",
       "journal": "PHYSICAL REVIEW",
       "diameter": 10.583005244258363,
-      "pubyear": 1955
+      "pubyear": 1955,
+      "nobel_paper": "N",
+      "authors": "JOHNSON, MH, TELLER, E"
     },
     {
       "id": "WOS:A1969E806600012",
       "title": "Effective interactions and collective vibrations",
       "journal": "PHYSICAL REVIEW LETTERS",
       "diameter": 4.898979485566356,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "ZAMICK, L"
     },
     {
       "id": "WOS:A1967A103100005",
       "title": "State dependence of shell-model reaction matrix elements",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 19.82422760159901,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "KUO, TTS"
     },
     {
       "id": "WOS:A1969E604400006",
       "title": "Separable structure of a self-consistent potential in reaction-matrix theory of nuclei",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 4.358898943540674,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "STINGL, MM, KIRSON, MW"
     },
     {
       "id": "WOS:A1956WK97300034",
       "title": "Nuclear many-body problem",
       "journal": "PHYSICAL REVIEW",
       "diameter": 18.05547008526779,
-      "pubyear": 1956
+      "pubyear": 1956,
+      "nobel_paper": "N",
+      "authors": "BETHE, HA"
     },
     {
       "id": "WOS:A1969C959400005",
       "title": "Inverse scattering problem for separable potentials",
       "journal": "PHYSICAL REVIEW",
       "diameter": 6.164414002968976,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "TABAKIN, F"
     },
     {
       "id": "WOS:A19668393100003",
       "title": "Smooth velocity-dependent potential and nuclear matter",
       "journal": "PHYSICAL REVIEW",
       "diameter": 5.385164807134504,
-      "pubyear": 1966
+      "pubyear": 1966,
+      "nobel_paper": "N",
+      "authors": "TABAKIN, F, DAVIES, KTR"
     },
     {
       "id": "WOS:A1970H258400007",
       "title": "R-matrix expansion for ground-state energy of a many-fermion system",
       "journal": "PHYSICAL REVIEW C",
       "diameter": 4.358898943540674,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "BAKER, GA, HIND, MF, KAHANE, J"
     },
     {
       "id": "WOS:A1968A692200006",
       "title": "Potential models of nuclear forces at small distances",
       "journal": "PROGRESS OF THEORETICAL PHYSICS",
       "diameter": 10.099504938362077,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "TAMAGAKI, R"
     },
     {
       "id": "WOS:A1967A252900013",
       "title": "Application of reaction-matrix theory .2. simple brueckner-hartree-fock descriptions of ground states of light nuclei",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 6.4031242374328485,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "WONG, CW"
     },
     {
       "id": "WOS:A19679567300001",
       "title": "Cluster rearrangement of ground-state energy expansion for nuclear matter",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 5.744562646538029,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "KIRSON, MW"
     },
     {
       "id": "WOS:A1968B601900004",
       "title": "A nucleon-nucleon potential consistent with experiment and boson exchange theory of nuclear forces",
       "journal": "ANNALS OF PHYSICS",
       "diameter": 12.409673645990857,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "LOMON, EL, FESHBACH, H"
     },
     {
       "id": "WOS:A1968C041200026",
       "title": "Realistic n-n one-boson-exchange potentials",
       "journal": "PHYSICAL REVIEW",
       "diameter": 12.609520212918492,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "UEDA, T, GREEN, AES"
     },
     {
       "id": "WOS:A1970G000500002",
       "title": "An approximation to off-diagonal reaction matrix elements",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 2.6457513110645907,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "SRIVASTA.MK"
     },
     {
       "id": "WOS:A1959WU33200005",
       "title": "The binding energies of atomic nuclei .3. nuclear forces and the ground state of oxygen 16",
       "journal": "PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL AND PHYSICAL SCIENCES",
       "diameter": 6.708203932499369,
-      "pubyear": 1959
+      "pubyear": 1959,
+      "nobel_paper": "N",
+      "authors": "EDEN, RJ, EMERY, VJ, SAMPANTHAR, S"
     },
     {
       "id": "WOS:A1968C259600003",
       "title": "Density distribution of finite nuclei",
       "journal": "PHYSICS LETTERS B",
       "diameter": 2.6457513110645907,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "DONNELLY, IJ"
     },
     {
       "id": "WOS:A19649202B00004",
       "title": "Investigation of some long-range force corrections to ground-state energy of nuclear matter",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 5.5677643628300215,
-      "pubyear": 1964
+      "pubyear": 1964,
+      "nobel_paper": "N",
+      "authors": "DAHLBLOM, T, QVIST, B, TORN, A, FOGEL, KG"
     },
     {
       "id": "WOS:A1955WB70000046",
       "title": "Many-body problem with strong forces",
       "journal": "PHYSICAL REVIEW",
       "diameter": 20.663978319771825,
-      "pubyear": 1955
+      "pubyear": 1955,
+      "nobel_paper": "N",
+      "authors": "JASTROW, R"
     },
     {
       "id": "WOS:A1968C041200023",
       "title": "Nuclear forces",
       "journal": "PHYSICAL REVIEW",
       "diameter": 5.916079783099616,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "INGBER, L"
     },
     {
       "id": "WOS:A19667873100030",
       "title": "Binding saturation of nuclear matter",
       "journal": "PHYSICS LETTERS",
       "diameter": 5.385164807134504,
-      "pubyear": 1966
+      "pubyear": 1966,
+      "nobel_paper": "N",
+      "authors": "SPRUNG, DWL, BHARGAVA, PC, DAHLBLOM, TK"
     },
     {
       "id": "WOS:A1970F424100018",
       "title": "Renormalization of finite nuclear brueckner theory with occupation probabilities",
       "journal": "PHYSICAL REVIEW LETTERS",
       "diameter": 6.244997998398398,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "BECKER, RL"
     },
     {
       "id": "WOS:A1969E878800001",
       "title": "An equation of state at subnuclear densities",
       "journal": "ASTROPHYSICS AND SPACE SCIENCE",
       "diameter": 6.782329983125268,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "LANGER, WD, ROSEN, LC, COHEN, JM, CAMERON, AGW"
     },
     {
       "id": "WOS:A1957WB73000030",
       "title": "Spin-orbit coupling in the neutron-proton interaction",
       "journal": "PHYSICAL REVIEW",
       "diameter": 15.7797338380595,
-      "pubyear": 1957
+      "pubyear": 1957,
+      "nobel_paper": "N",
+      "authors": "GAMMEL, JL, THALER, RM"
     },
     {
       "id": "WOS:A1968B876400002",
       "title": "Higher-order core polarization contributions to effective interactions",
       "journal": "PHYSICS LETTERS B",
       "diameter": 3.4641016151377544,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "BARRETT, BR, KIRSON, MW"
     },
     {
       "id": "WOS:A19649189B00007",
       "title": "Application of separation method in shell-model calculation",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 14.832396974191326,
-      "pubyear": 1964
+      "pubyear": 1964,
+      "nobel_paper": "N",
+      "authors": "KALLIO, A, KOLLTVEI.K"
     },
     {
       "id": "WOS:A19619641A00015",
       "title": "Structure of resolvent of schredingers operator for a system of 3 particles interacting in pairs",
       "journal": "DOKLADY AKADEMII NAUK SSSR",
       "diameter": 8.888194417315589,
-      "pubyear": 1961
+      "pubyear": 1961,
+      "nobel_paper": "N",
+      "authors": "FADDEEV, LD"
     },
     {
       "id": "WOS:A19679664100013",
       "title": "Elastic electron scattering from lead-208 at 175 and 250 mev",
       "journal": "PHYSICAL REVIEW LETTERS",
       "diameter": 5.830951894845301,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "BELLICAR.JB, VANOOSTR.KJ"
     },
     {
       "id": "WOS:A1968C397500003",
       "title": "Local phenomenological nucleon-nucleon potentials",
       "journal": "ANNALS OF PHYSICS",
       "diameter": 37.92097045171708,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "REID, RV"
     },
     {
       "id": "WOS:A1971I610700001",
       "title": "Landau, brueckner-bethe, and migdal theories of fermi systems",
       "journal": "REVIEWS OF MODERN PHYSICS",
       "diameter": 8.94427190999916,
-      "pubyear": 1971
+      "pubyear": 1971,
+      "nobel_paper": "N",
+      "authors": "BROWN, GE"
     },
     {
       "id": "WOS:A1970G088100003",
       "title": "Variation in nuclear-matter binding energies with phase-shift-equivalent 2-body potentials",
       "journal": "PHYSICAL REVIEW C",
       "diameter": 10.583005244258363,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "COESTER, F, COHEN, S, DAY, B, VINCENT, CM"
     },
     {
       "id": "WOS:A1968B732100071",
       "title": "Zero-parameter model of n-n potential",
       "journal": "PHYSICAL REVIEW",
       "diameter": 13.152946437965905,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "SUGAWARA, H, VONHIPPE.F"
     },
     {
       "id": "WOS:A19668017100005",
       "title": "Hartree-fock calculation for finite nuclei with a nonlocal 2-body potential",
       "journal": "PHYSICAL REVIEW",
       "diameter": 11.916375287812984,
-      "pubyear": 1966
+      "pubyear": 1966,
+      "nobel_paper": "N",
+      "authors": "KERMAN, AK, SVENNE, JP, VILLARS, FMH"
     },
     {
       "id": "WOS:A1970H983200001",
       "title": "Nuclear saturation and smoothness of nucleon-nucleon potentials",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 14.2828568570857,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "HAFTEL, MI, TABAKIN, F"
     },
     {
       "id": "WOS:A1964WM38100018",
       "title": "The effective interaction and identical-nucleon seniority for nuclei near zr-90",
       "journal": "PHYSICS LETTERS",
       "diameter": 10.0,
-      "pubyear": 1964
+      "pubyear": 1964,
+      "nobel_paper": "N",
+      "authors": "COHEN, S, LAWSON, RD, MACFARLANE, MH, SOGA, M"
     },
     {
       "id": "WOS:A1969E586000005",
       "title": "Effects of hyperons on vibrations of neutron stars",
       "journal": "ASTROPHYSICS AND SPACE SCIENCE",
       "diameter": 4.69041575982343,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "LANGER, WD, CAMERON, AGW"
     },
     {
       "id": "WOS:A19631487C00037",
       "title": "Properties of finite nuclei",
       "journal": "PHYSICAL REVIEW",
       "diameter": 7.280109889280518,
-      "pubyear": 1963
+      "pubyear": 1963,
+      "nobel_paper": "N",
+      "authors": "MASTERSON, KS, LOCKETT, AM"
     },
     {
       "id": "WOS:A19656892600011",
       "title": "Effect of short-range repulsion in nuclear matter (2)",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 5.656854249492381,
-      "pubyear": 1965
+      "pubyear": 1965,
+      "nobel_paper": "N",
+      "authors": "WONG, CW"
     },
     {
       "id": "WOS:A1970F358000001",
       "title": "Nuclear-matter reaction matrix",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 12.489995996796797,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "SIEMENS, PJ"
     },
     {
       "id": "WOS:A1968C614700009",
       "title": "Relative proton number in neutron star matter",
       "journal": "PHYSICAL REVIEW",
       "diameter": 7.0,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "NEMETH, J, SPRUNG, DWL"
     },
     {
       "id": "WOS:A1970F772400011",
       "title": "New statistical theory of nuclear surface .1.",
       "journal": "PHYSICAL REVIEW C",
       "diameter": 5.656854249492381,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "SIEMENS, PJ"
     },
     {
       "id": "WOS:A1955WU25800011",
       "title": "Centre-of-mass effects in the nuclear shell-model",
       "journal": "PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL AND PHYSICAL SCIENCES",
       "diameter": 16.278820596099706,
-      "pubyear": 1955
+      "pubyear": 1955,
+      "nobel_paper": "N",
+      "authors": "ELLIOTT, JP, SKYRME, THR"
     },
     {
       "id": "WOS:A1969E151000050",
       "title": "Determination of nucleon-nucleon scattering matrix .x. (p,p) and (n,p) analysis from 1 to 450 mev",
       "journal": "PHYSICAL REVIEW",
       "diameter": 19.72308292331602,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "MACGREGO.MH, ARNDT, RA, WRIGHT, RM"
     },
     {
       "id": "WOS:A19668732500001",
       "title": "Compact-cluster expansion for nuclear many-body problem",
       "journal": "PHYSICAL REVIEW",
       "diameter": 12.884098726725126,
-      "pubyear": 1966
+      "pubyear": 1966,
+      "nobel_paper": "N",
+      "authors": "BRANDOW, BH"
     },
     {
       "id": "WOS:A1970G312200011",
       "title": "Structure of finite nuclei in local-density approximation",
       "journal": "PHYSICAL REVIEW C",
       "diameter": 25.019992006393608,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "NEGELE, JW"
     },
     {
       "id": "WOS:A19649202B00003",
       "title": "Binding energy of nuclear matter",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 8.366600265340756,
-      "pubyear": 1964
+      "pubyear": 1964,
+      "nobel_paper": "N",
+      "authors": "BROWN, GE, WONG, CW, SCHAPPERT, GT"
     },
     {
       "id": "WOS:A19668249400024",
       "title": "(e e(p) reaction in calcium induced by 580-750 mev electrons",
       "journal": "PHYSICS LETTERS",
       "diameter": 7.3484692283495345,
-      "pubyear": 1966
+      "pubyear": 1966,
+      "nobel_paper": "N",
+      "authors": "AMALDI, U, VENUTI, GC, CORTELLE.G, DESANCTI.E, FRULLANI, S, LOMBARD, R, SALVADOR.P"
     },
     {
       "id": "WOS:A1971I383500006",
       "title": "Folded diagrams",
       "journal": "ANNALS OF PHYSICS",
       "diameter": 10.392304845413264,
-      "pubyear": 1971
+      "pubyear": 1971,
+      "nobel_paper": "N",
+      "authors": "JOHNSON, MB, BARANGER, M"
     },
     {
       "id": "WOS:A1969E720300014",
       "title": "A 385-mev measurement of (p,2p) cross sections in medium-weight and heavy nuclei",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 8.831760866327848,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "JAMES, AN, ANDREWS, PT, KIRKBY, P, LOWE, BG"
     },
     {
       "id": "WOS:A1959WQ57300008",
       "title": "The effective nuclear potential",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 17.435595774162696,
-      "pubyear": 1959
+      "pubyear": 1959,
+      "nobel_paper": "N",
+      "authors": "SKYRME, THR"
     },
     {
       "id": "WOS:A1970F772400028",
       "title": "Statistical theory of deformed nuclei",
       "journal": "PHYSICAL REVIEW C",
       "diameter": 3.7416573867739413,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "BRUECKNE.KA, CLARK, RC, LIN, WF, LOMBARD, RJ"
     },
     {
       "id": "WOS:A19679673800008",
       "title": "3-body correlations in nuclear matter .2.",
       "journal": "PHYSICAL REVIEW",
       "diameter": 5.5677643628300215,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "BETHE, HA"
     },
     {
       "id": "WOS:A1969E277000013",
       "title": "A method for solving independent-particle schrodinger equation with a deformed average field",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 10.04987562112089,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "DAMGAARD, J, PAULI, HC, PASHKEVI.VV, STRUTINS.VM"
     },
     {
       "id": "WOS:A1959WB76300045",
       "title": "High-energy electron scattering and the charge distribution of carbon-12 and oxygen-16",
       "journal": "PHYSICAL REVIEW",
       "diameter": 11.916375287812984,
-      "pubyear": 1959
+      "pubyear": 1959,
+      "nobel_paper": "N",
+      "authors": "EHRENBERG, HF, HOFSTADTER, R, MEYERBERKHOUT, U, RAVENHALL, DG, SOBOTTKA, SE"
     },
     {
       "id": "WOS:A1957WN03800018",
       "title": "Oscillations in a fermi liquid",
       "journal": "SOVIET PHYSICS JETP-USSR",
       "diameter": 19.131126469708992,
-      "pubyear": 1957
+      "pubyear": 1957,
+      "nobel_paper": "N",
+      "authors": "LANDAU, LD"
     },
     {
       "id": "WOS:A1969F031300010",
       "title": "Soft-core potential model for nucleon-nucleon scattering .2.",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 6.164414002968976,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "SPRUNG, DWL, SRIVASTA.MK"
     },
     {
       "id": "WOS:A1968C334500001",
       "title": "Shells in deformed nuclei",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 24.145392935299274,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "STRUTINS.VM"
     },
     {
       "id": "WOS:A1969C693100001",
       "title": "Solution of bethe-goldstone equation",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 6.855654600401044,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "DAHLL, G, OSTGAARD, E, BRANDOW, B"
     },
     {
       "id": "WOS:A1970G385200006",
       "title": "Self-consistent occupation probabilities in brueckner-hartree-fock calculations",
       "journal": "PHYSICAL REVIEW C",
       "diameter": 6.4031242374328485,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "MCCARTHY, RJ, DAVIES, KTR"
     },
     {
       "id": "WOS:A19668540200010",
       "title": "Improved solution to bethe-faddeev equations",
       "journal": "PHYSICAL REVIEW",
       "diameter": 7.681145747868608,
-      "pubyear": 1966
+      "pubyear": 1966,
+      "nobel_paper": "N",
+      "authors": "DAY, B"
     },
     {
       "id": "WOS:A19678832700011",
       "title": "Application of reaction matrix theory .i. calculation of nuclear reaction matrix elements",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 9.16515138991168,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "WONG, CW"
     },
     {
       "id": "WOS:A1969E059000001",
       "title": "Nucleon-nucleon potential and minimal relativity",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 10.392304845413264,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "BROWN, GE, JACKSON, AD, KUO, TTS"
     },
     {
       "id": "WOS:A19629110B00007",
       "title": "A non-local potential model for scattering of neutrons by nuclei",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 27.568097504180443,
-      "pubyear": 1962
+      "pubyear": 1962,
+      "nobel_paper": "N",
+      "authors": "PEREY, F, BUCK, B"
     },
     {
       "id": "WOS:A1969E538500001",
       "title": "3-body forces in nuclear matter",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 8.54400374531753,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "BROWN, GE, GREEN, AM"
     },
     {
       "id": "WOS:A1971J164600018",
       "title": "Effect of correlations on contribution of 3-body forces to binding energy of nuclear matter",
       "journal": "PHYSICAL REVIEW C",
       "diameter": 5.0990195135927845,
-      "pubyear": 1971
+      "pubyear": 1971,
+      "nobel_paper": "N",
+      "authors": "MCKELLAR, BH, RAJARAMA.R"
     },
     {
       "id": "WOS:A19679155700008",
       "title": "Neutron distribution in surface heavy nuclei",
       "journal": "NUCLEAR PHYSICS B",
       "diameter": 8.0,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "BURHOP, EHS"
     },
     {
       "id": "WOS:A1970G615500007",
       "title": "Higher-order terms and apparent non-convergence of perturbation expansion for effective interaction in finite nuclei",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 10.862780491200215,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "BARRETT, BR, KIRSON, MW"
     },
     {
       "id": "WOS:A19679964900011",
       "title": "Unitary-model-operator approach to nuclear-structure physics .i.",
       "journal": "PHYSICAL REVIEW",
       "diameter": 10.44030650891055,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "SHAKIN, CM, WAGHMARE, YR, HULL, MH"
     },
     {
       "id": "WOS:A1958WH65400031",
       "title": "Nuclear sizes and the weiszacker mass formula",
       "journal": "REVIEWS OF MODERN PHYSICS",
       "diameter": 8.602325267042627,
-      "pubyear": 1958
+      "pubyear": 1958,
+      "nobel_paper": "N",
+      "authors": "GREEN, AES"
     },
     {
       "id": "WOS:A1952UV00700001",
       "title": "Nuclear spectroscopy with harmonic oscillator wave-functions",
       "journal": "HELVETICA PHYSICA ACTA",
       "diameter": 18.841443681416774,
-      "pubyear": 1952
+      "pubyear": 1952,
+      "nobel_paper": "N",
+      "authors": "TALMI, I"
     },
     {
       "id": "WOS:A1959WQ58000009",
       "title": "Transformation brackets for harmonic oscillator functions",
       "journal": "NUCLEAR PHYSICS",
       "diameter": 17.52141546793523,
-      "pubyear": 1959
+      "pubyear": 1959,
+      "nobel_paper": "N",
+      "authors": "MOSHINSKY, M"
     },
     {
       "id": "WOS:A1957WB72600051",
       "title": "Spin-orbit coupling in the proton-proton interaction",
       "journal": "PHYSICAL REVIEW",
       "diameter": 17.88854381999832,
-      "pubyear": 1957
+      "pubyear": 1957,
+      "nobel_paper": "N",
+      "authors": "GAMMEL, JL, THALER, RM"
     },
     {
       "id": "WOS:A1968B371000001",
       "title": "Reaction matrix elements for of-1p shell nuclei",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 22.135943621178654,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "KUO, TTS, BROWN, GE"
     },
     {
       "id": "WOS:A1958WU30000009",
       "title": "The binding energies of atomic nuclei .1. introduction and general method",
       "journal": "PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL AND PHYSICAL SCIENCES",
       "diameter": 7.615773105863909,
-      "pubyear": 1958
+      "pubyear": 1958,
+      "nobel_paper": "N",
+      "authors": "EDEN, RJ, EMERY, VJ"
     },
     {
       "id": "WOS:A1968C041200024",
       "title": "Brueckner theory in an oscillator basis .i. method of reference bethe-goldstone equations and comparison of yale reid (hard-core) and hamada-johnston interactions",
       "journal": "PHYSICAL REVIEW",
       "diameter": 8.602325267042627,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "BECKER, RL, MACKELLA.AD, MORRIS, BM"
     },
     {
       "id": "WOS:A1969E408800006",
       "title": "Equilibrium theory of nuclear symmetry energy of infinite nuclear matter",
       "journal": "CANADIAN JOURNAL OF PHYSICS",
       "diameter": 4.242640687119285,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "WEISS, RA, CAMERON, AGW"
     },
     {
       "id": "WOS:A1955WB09400028",
       "title": "2-body forces and nuclear saturation .3. details of the structure of the nucleus",
       "journal": "PHYSICAL REVIEW",
       "diameter": 19.924858845171276,
-      "pubyear": 1955
+      "pubyear": 1955,
+      "nobel_paper": "N",
+      "authors": "BRUECKNER, KA"
     },
     {
       "id": "WOS:A1970H271600009",
       "title": "Study of finite nuclei in local density approximation",
       "journal": "PHYSICS LETTERS B",
       "diameter": 6.6332495807108,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "NEMETH, J, VAUTHERI.D"
     },
     {
       "id": "WOS:A1968B556700012",
       "title": "3-body forces in nuclear matter",
       "journal": "PHYSICAL REVIEW LETTERS",
       "diameter": 4.0,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "MCKELLAR, BH, RAJARAMA.R"
     },
     {
       "id": "WOS:A1953UB46900038",
       "title": "Nuclear forces in pseudoscalar meson theory",
       "journal": "PHYSICAL REVIEW",
       "diameter": 11.532562594670797,
-      "pubyear": 1953
+      "pubyear": 1953,
+      "nobel_paper": "N",
+      "authors": "BRUECKNER, KA, WATSON, KM"
     },
     {
       "id": "WOS:A1958WH65400019",
       "title": "Electromagnetic structure of the proton and neutron",
       "journal": "REVIEWS OF MODERN PHYSICS",
       "diameter": 11.874342087037917,
-      "pubyear": 1958
+      "pubyear": 1958,
+      "nobel_paper": "N",
+      "authors": "HOFSTADTER, R, BUMILLER, F, YEARIAN, MR"
     },
     {
       "id": "WOS:A19667240100003",
       "title": "Method of correlated basis functions",
       "journal": "PHYSICAL REVIEW",
       "diameter": 11.090536506409418,
-      "pubyear": 1966
+      "pubyear": 1966,
+      "nobel_paper": "N",
+      "authors": "CLARK, JW, WESTHAUS, P"
     },
     {
       "id": "WOS:A1954UB48900049",
       "title": "2-nucleon problem when the potential is nonlocal but separable .1.",
       "journal": "PHYSICAL REVIEW",
       "diameter": 25.80697580112788,
-      "pubyear": 1954
+      "pubyear": 1954,
+      "nobel_paper": "N",
+      "authors": "YAMAGUCHI, Y"
     },
     {
       "id": "WOS:A1960WB79200042",
       "title": "Low-energy pion phenomena",
       "journal": "PHYSICAL REVIEW",
       "diameter": 8.48528137423857,
-      "pubyear": 1960
+      "pubyear": 1960,
+      "nobel_paper": "N",
+      "authors": "HAMILTON, J, WOOLCOCK, WS"
     },
     {
       "id": "WOS:A1954UB48400045",
       "title": "2-body forces and nuclear saturation .1. central forces",
       "journal": "PHYSICAL REVIEW",
       "diameter": 12.041594578792296,
-      "pubyear": 1954
+      "pubyear": 1954,
+      "nobel_paper": "N",
+      "authors": "BRUECKNER, KA, LEVINSON, CA, MAHMOUD, HM"
     },
     {
       "id": "WOS:A1955WB09400027",
       "title": "Approximate reduction of the many-body problem for strongly interacting particles to a problem of self-consistent fields",
       "journal": "PHYSICAL REVIEW",
       "diameter": 15.264337522473747,
-      "pubyear": 1955
+      "pubyear": 1955,
+      "nobel_paper": "N",
+      "authors": "BRUECKNER, KA, LEVINSON, CA"
     },
     {
       "id": "WOS:A19678921500001",
       "title": "Structure of finite nuclei and free nucleon-nucleon interaction - general discussion of effective force",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 7.54983443527075,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "BROWN, GE, KUO, TTS"
     },
     {
       "id": "WOS:A1969C959400012",
       "title": "Brueckner-hartree-fock calculations of spherical nuclei in an harmonic-oscillator basis",
       "journal": "PHYSICAL REVIEW",
       "diameter": 9.327379053088816,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "DAVIES, KTR, BARANGER, M, TARBUTTO.RM, KUO, TTS"
     },
     {
       "id": "WOS:A1970G695400011",
       "title": "Off-energy-shell behaviour of a class of phase equivalent separable and local potentials",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 6.324555320336759,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "SRIVASTA.MK, SPRUNG, DWL"
     },
     {
       "id": "WOS:A1958WJ83800001",
       "title": "Properties of nuclear matter",
       "journal": "ANNALS OF PHYSICS",
       "diameter": 15.427248620541512,
-      "pubyear": 1958
+      "pubyear": 1958,
+      "nobel_paper": "N",
+      "authors": "GOMES, LC, WALECKA, JD, WEISSKOPF, VF"
     },
     {
       "id": "WOS:A1958WU29000008",
       "title": "Collective motion in the nuclear shell model .2. the introduction of intrinsic wave-functions",
       "journal": "PROCEEDINGS OF THE ROYAL SOCIETY OF LONDON SERIES A-MATHEMATICAL AND PHYSICAL SCIENCES",
       "diameter": 23.130067012440755,
-      "pubyear": 1958
+      "pubyear": 1958,
+      "nobel_paper": "N",
+      "authors": "ELLIOTT, JP"
     },
     {
       "id": "WOS:A1969D831000017",
       "title": "Isotope shift of nuclear charge distributions",
       "journal": "PHYSICAL REVIEW",
       "diameter": 3.872983346207417,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "BRUECKNE.KA, LIN, WF, LOMBARD, RJ"
     },
     {
       "id": "WOS:A1968B039800015",
       "title": "Effective mass in nuclei",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 9.38083151964686,
-      "pubyear": 1968
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "BERTSCH, GF, KUO, TTS"
     },
     {
       "id": "WOS:A1969E408800007",
       "title": "Equilibrium theory of symmetry energy of finite nuclei",
       "journal": "CANADIAN JOURNAL OF PHYSICS",
       "diameter": 2.23606797749979,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "WEISS, RA, CAMERON, AGW"
     },
     {
       "id": "WOS:A1970G995100003",
       "title": "On calculation of reaction matrix in finite nuclei",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 7.54983443527075,
-      "pubyear": 1970
+      "pubyear": 1970,
+      "nobel_paper": "N",
+      "authors": "SAUER, PU"
     },
     {
       "id": "WOS:A1967A192600003",
       "title": "Linked-cluster expansions for nuclear many-body problem",
       "journal": "REVIEWS OF MODERN PHYSICS",
       "diameter": 27.09243436828813,
-      "pubyear": 1967
+      "pubyear": 1967,
+      "nobel_paper": "N",
+      "authors": "BRANDOW, BH"
     },
     {
       "id": "WOS:A1969E370100001",
       "title": "Intermediate states in fission",
       "journal": "NUCLEAR PHYSICS A",
       "diameter": 10.295630140987,
-      "pubyear": 1969
+      "pubyear": 1969,
+      "nobel_paper": "N",
+      "authors": "BJORNHOL.S, STRUTINS.VM"
     },
     {
       "id": "WOS:A1955WL13100007",
       "title": "Spin-orbit coupling and the density distribution in heavy nuclei",
       "journal": "PHILOSOPHICAL MAGAZINE",
       "diameter": 8.246211251235321,
-      "pubyear": 1955
+      "pubyear": 1955,
+      "nobel_paper": "N",
+      "authors": "BLINSTOYLE, RJ"
     }
   ],
   "links": [
+    {
+      "source": "WOS:A1957XM01300002",
+      "target": "WOS:A1957WU26400010",
+      "weight": 47,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1960WB78600030",
+      "target": "WOS:A1958WB74100002",
+      "weight": 7,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1955WB09800044",
+      "target": "WOS:A1955WB09400028",
+      "weight": 19,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1956WK96200032",
+      "target": "WOS:A1956WK95700040",
+      "weight": 13,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1958WB74500020",
+      "target": "WOS:A1958WB74100002",
+      "weight": 26,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1958WB74500020",
+      "target": "WOS:A19611438C00008",
+      "weight": 10,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A19621484C00013",
+      "target": "WOS:A1958WB74100002",
+      "weight": 3,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1956WK97300034",
+      "target": "WOS:A1955WB09400027",
+      "weight": 58,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1956WK97300034",
+      "target": "WOS:A1958WB74100002",
+      "weight": 48,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1957WB71400055",
+      "target": "WOS:A1957WB72600051",
+      "weight": 31,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1957WF50100005",
+      "target": "WOS:A1958WH65400031",
+      "weight": 16,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1959WU33200004",
+      "target": "WOS:A1958WU30000009",
+      "weight": 10,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1959WU33200004",
+      "target": "WOS:A1959WU33200005",
+      "weight": 13,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1958WU28700011",
+      "target": "WOS:A1958WU29000008",
+      "weight": 73,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1959WU33200005",
+      "target": "WOS:A1958WU30000009",
+      "weight": 10,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1960WG79300003",
+      "target": "WOS:A1958WB74100002",
+      "weight": 14,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1960WG79300003",
+      "target": "WOS:A1961WG80300005",
+      "weight": 5,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A19629111B00010",
+      "target": "WOS:A1954UB48900049",
+      "weight": 3,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1958WP53800013",
+      "target": "WOS:A1957WU26400010",
+      "weight": 4,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A19631486C00003",
+      "target": "WOS:A1957WU26400010",
+      "weight": 4,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1952UV00700001",
+      "target": "WOS:A1959WQ58000009",
+      "weight": 12,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1957WB72600051",
+      "target": "WOS:A1957WB73000030",
+      "weight": 135,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1958WU30000009",
+      "target": "WOS:A1958WB74100002",
+      "weight": 10,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1955WB09400028",
+      "target": "WOS:A1955WB09400027",
+      "weight": 59,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1958WH65400025",
+      "target": "WOS:A1958WB74100002",
+      "weight": 11,
+      "year": 1963
+    },
+    {
+      "source": "WOS:A1958WJ83800001",
+      "target": "WOS:A1958WB74100002",
+      "weight": 35,
+      "year": 1963
+    },
     {
       "source": "WOS:A1957XM01300002",
       "target": "WOS:A1957WU26400010",
@@ -1373,12 +1896,6 @@
       "source": "WOS:A1957WB71400055",
       "target": "WOS:A1957WB72600051",
       "weight": 33,
-      "year": 1964
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A19622560C00004",
-      "weight": 3,
       "year": 1964
     },
     {
@@ -1730,12 +2247,6 @@
       "year": 1966
     },
     {
-      "source": "WOS:A1963WJ43300003",
-      "target": "WOS:A1958WP53800013",
-      "weight": 2,
-      "year": 1966
-    },
-    {
       "source": "WOS:A1955WB09800044",
       "target": "WOS:A1955WB09400028",
       "weight": 19,
@@ -1964,12 +2475,6 @@
       "year": 1967
     },
     {
-      "source": "WOS:A1960WB78600030",
-      "target": "WOS:A1967A192600002",
-      "weight": 2,
-      "year": 1967
-    },
-    {
       "source": "WOS:A1963WJ43300003",
       "target": "WOS:A1958WP53800013",
       "weight": 4,
@@ -2054,36 +2559,6 @@
       "year": 1967
     },
     {
-      "source": "WOS:A1967A192600002",
-      "target": "WOS:A1957XM01300002",
-      "weight": 2,
-      "year": 1967
-    },
-    {
-      "source": "WOS:A1967A192600002",
-      "target": "WOS:A19631486C00003",
-      "weight": 2,
-      "year": 1967
-    },
-    {
-      "source": "WOS:A1967A192600002",
-      "target": "WOS:A19668732500001",
-      "weight": 2,
-      "year": 1967
-    },
-    {
-      "source": "WOS:A1967A192600002",
-      "target": "WOS:A19667240100003",
-      "weight": 2,
-      "year": 1967
-    },
-    {
-      "source": "WOS:A1967A192600002",
-      "target": "WOS:A19631486C00057",
-      "weight": 2,
-      "year": 1967
-    },
-    {
       "source": "WOS:A1958WH65400025",
       "target": "WOS:A1958WB74100002",
       "weight": 15,
@@ -2117,12 +2592,6 @@
       "source": "WOS:A1958WB74100002",
       "target": "WOS:A1961WG80300005",
       "weight": 16,
-      "year": 1967
-    },
-    {
-      "source": "WOS:A1958WB74100002",
-      "target": "WOS:A19631498C00053",
-      "weight": 3,
       "year": 1967
     },
     {
@@ -2177,12 +2646,6 @@
       "source": "WOS:A19631486C00003",
       "target": "WOS:A19631494C00041",
       "weight": 27,
-      "year": 1967
-    },
-    {
-      "source": "WOS:A19631486C00003",
-      "target": "WOS:A19631498C00053",
-      "weight": 3,
       "year": 1967
     },
     {
@@ -2276,12 +2739,6 @@
       "year": 1968
     },
     {
-      "source": "WOS:A1960WB78600030",
-      "target": "WOS:A19679526400007",
-      "weight": 2,
-      "year": 1968
-    },
-    {
       "source": "WOS:A1963WJ43300003",
       "target": "WOS:A1958WP53800013",
       "weight": 4,
@@ -2330,12 +2787,6 @@
       "year": 1968
     },
     {
-      "source": "WOS:A19621484C00013",
-      "target": "WOS:A1967A192600001",
-      "weight": 3,
-      "year": 1968
-    },
-    {
       "source": "WOS:A19629118B00017",
       "target": "WOS:A19622560C00004",
       "weight": 7,
@@ -2354,12 +2805,6 @@
       "year": 1968
     },
     {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1968A692200006",
-      "weight": 3,
-      "year": 1968
-    },
-    {
       "source": "WOS:A1968A871800001",
       "target": "WOS:A1958WH65400025",
       "weight": 3,
@@ -2369,18 +2814,6 @@
       "source": "WOS:A1957WB71400055",
       "target": "WOS:A1957WB72600051",
       "weight": 37,
-      "year": 1968
-    },
-    {
-      "source": "WOS:A1967A192600001",
-      "target": "WOS:A19631486C00003",
-      "weight": 3,
-      "year": 1968
-    },
-    {
-      "source": "WOS:A1967A192600001",
-      "target": "WOS:A1967A192600002",
-      "weight": 3,
       "year": 1968
     },
     {
@@ -2405,12 +2838,6 @@
       "source": "WOS:A1960WG79300003",
       "target": "WOS:A19649202B00004",
       "weight": 5,
-      "year": 1968
-    },
-    {
-      "source": "WOS:A1967A192600002",
-      "target": "WOS:A19679567300001",
-      "weight": 2,
       "year": 1968
     },
     {
@@ -2535,12 +2962,6 @@
     },
     {
       "source": "WOS:A19631486C00003",
-      "target": "WOS:A19679567300001",
-      "weight": 2,
-      "year": 1968
-    },
-    {
-      "source": "WOS:A19631486C00003",
       "target": "WOS:A1967A252900013",
       "weight": 4,
       "year": 1968
@@ -2561,12 +2982,6 @@
       "source": "WOS:A1967A252900013",
       "target": "WOS:A19678832700011",
       "weight": 4,
-      "year": 1968
-    },
-    {
-      "source": "WOS:A19679567300001",
-      "target": "WOS:A19668540200010",
-      "weight": 2,
       "year": 1968
     },
     {
@@ -2684,12 +3099,6 @@
       "year": 1969
     },
     {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969C959400004",
-      "weight": 2,
-      "year": 1969
-    },
-    {
       "source": "WOS:A1968A871800001",
       "target": "WOS:A1968B574300008",
       "weight": 8,
@@ -2753,12 +3162,6 @@
       "source": "WOS:A1960WG79300003",
       "target": "WOS:A1969C693100001",
       "weight": 4,
-      "year": 1969
-    },
-    {
-      "source": "WOS:A1969D189000039",
-      "target": "WOS:A19667942200001",
-      "weight": 2,
       "year": 1969
     },
     {
@@ -2879,12 +3282,6 @@
       "source": "WOS:A1958WU28700011",
       "target": "WOS:A1958WU29000008",
       "weight": 103,
-      "year": 1969
-    },
-    {
-      "source": "WOS:A1969C959400004",
-      "target": "WOS:A1968C397500003",
-      "weight": 2,
       "year": 1969
     },
     {
@@ -3014,21 +3411,9 @@
       "year": 1970
     },
     {
-      "source": "WOS:A1969E541800005",
-      "target": "WOS:A1970G615500007",
-      "weight": 2,
-      "year": 1970
-    },
-    {
       "source": "WOS:A19668260400004",
       "target": "WOS:A19668017100005",
       "weight": 36,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A19668260400004",
-      "target": "WOS:A1970G312200011",
-      "weight": 2,
       "year": 1970
     },
     {
@@ -3135,25 +3520,7 @@
     },
     {
       "source": "WOS:A1968A871800001",
-      "target": "WOS:A1969E408800006",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1968A871800001",
-      "target": "WOS:A1969E720300014",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1968A871800001",
       "target": "WOS:A1970F772400011",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1968A871800001",
-      "target": "WOS:A1970G312200011",
       "weight": 2,
       "year": 1970
     },
@@ -3167,12 +3534,6 @@
       "source": "WOS:A1967A192600001",
       "target": "WOS:A1967A192600002",
       "weight": 20,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1967A192600001",
-      "target": "WOS:A1969E332700009",
-      "weight": 3,
       "year": 1970
     },
     {
@@ -3206,18 +3567,6 @@
       "year": 1970
     },
     {
-      "source": "WOS:A1969D189000039",
-      "target": "WOS:A1969E720300014",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1969D189000039",
-      "target": "WOS:A1970F772400028",
-      "weight": 2,
-      "year": 1970
-    },
-    {
       "source": "WOS:A1967A192600002",
       "target": "WOS:A19631486C00003",
       "weight": 23,
@@ -3230,42 +3579,6 @@
       "year": 1970
     },
     {
-      "source": "WOS:A1967A192600002",
-      "target": "WOS:A1969E332700009",
-      "weight": 3,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1968C182300012",
-      "target": "WOS:A1967A192600003",
-      "weight": 3,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1968C182300012",
-      "target": "WOS:A19678832700011",
-      "weight": 3,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1968C182300012",
-      "target": "WOS:A1968C041200024",
-      "weight": 3,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1968C182300012",
-      "target": "WOS:A1967A252900013",
-      "weight": 3,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A19667942200001",
-      "target": "WOS:A1970F772400028",
-      "weight": 2,
-      "year": 1970
-    },
-    {
       "source": "WOS:A1958WH65400025",
       "target": "WOS:A1956WK96200032",
       "weight": 16,
@@ -3275,12 +3588,6 @@
       "source": "WOS:A1969C693100006",
       "target": "WOS:A1968C397500003",
       "weight": 15,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1969E332700009",
-      "target": "WOS:A19668732500001",
-      "weight": 3,
       "year": 1970
     },
     {
@@ -3305,12 +3612,6 @@
       "source": "WOS:A1958WB74100002",
       "target": "WOS:A1958WJ83800001",
       "weight": 65,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1970F803800003",
-      "target": "WOS:A1968C614700009",
-      "weight": 2,
       "year": 1970
     },
     {
@@ -3356,12 +3657,6 @@
       "year": 1970
     },
     {
-      "source": "WOS:A1969C626200011",
-      "target": "WOS:A1969E604400006",
-      "weight": 2,
-      "year": 1970
-    },
-    {
       "source": "WOS:A1969C959400004",
       "target": "WOS:A1968C041200023",
       "weight": 6,
@@ -3395,18 +3690,6 @@
       "source": "WOS:A19679787100018",
       "target": "WOS:A1968C041200038",
       "weight": 7,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A19679787100018",
-      "target": "WOS:A1969E720300014",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A19679787100018",
-      "target": "WOS:A1970G312200011",
-      "weight": 2,
       "year": 1970
     },
     {
@@ -3447,12 +3730,6 @@
     },
     {
       "source": "WOS:A19631486C00003",
-      "target": "WOS:A1969E604400006",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A19631486C00003",
       "target": "WOS:A1969F297100010",
       "weight": 2,
       "year": 1970
@@ -3461,24 +3738,6 @@
       "source": "WOS:A1968B461600016",
       "target": "WOS:A1968B556700012",
       "weight": 6,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1968B461600016",
-      "target": "WOS:A1968B810100026",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1968B810100026",
-      "target": "WOS:A1968B556700012",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1968B810100026",
-      "target": "WOS:A19649202B00004",
-      "weight": 2,
       "year": 1970
     },
     {
@@ -3506,12 +3765,6 @@
       "year": 1970
     },
     {
-      "source": "WOS:A1969D831000023",
-      "target": "WOS:A1970F772400028",
-      "weight": 2,
-      "year": 1970
-    },
-    {
       "source": "WOS:A19679526400007",
       "target": "WOS:A19678832700011",
       "weight": 10,
@@ -3524,36 +3777,6 @@
       "year": 1970
     },
     {
-      "source": "WOS:A1969E806600012",
-      "target": "WOS:A1970G615500007",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1967A103100005",
-      "target": "WOS:A1970G615500007",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A19678832700011",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A1968C041200024",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A19679567300001",
-      "weight": 2,
-      "year": 1970
-    },
-    {
       "source": "WOS:A1956WK97300034",
       "target": "WOS:A1955WB09400027",
       "weight": 76,
@@ -3563,12 +3786,6 @@
       "source": "WOS:A1967A252900013",
       "target": "WOS:A19678832700011",
       "weight": 11,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1967A252900013",
-      "target": "WOS:A1970G312200011",
-      "weight": 2,
       "year": 1970
     },
     {
@@ -3587,12 +3804,6 @@
       "source": "WOS:A1970F424100018",
       "target": "WOS:A1967A192600003",
       "weight": 3,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1969E878800001",
-      "target": "WOS:A1969E408800006",
-      "weight": 2,
       "year": 1970
     },
     {
@@ -3621,61 +3832,13 @@
     },
     {
       "source": "WOS:A1968C397500003",
-      "target": "WOS:A1969E720300014",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1968C397500003",
       "target": "WOS:A1970F358000001",
       "weight": 3,
       "year": 1970
     },
     {
-      "source": "WOS:A1968C397500003",
-      "target": "WOS:A1970G312200011",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1968C614700009",
-      "target": "WOS:A1969E408800006",
-      "weight": 2,
-      "year": 1970
-    },
-    {
       "source": "WOS:A1970F772400011",
       "target": "WOS:A1970G312200011",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1969E720300014",
-      "target": "WOS:A1967A192600003",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1969E720300014",
-      "target": "WOS:A1969C959400012",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1970F772400028",
-      "target": "WOS:A1968C334500001",
-      "weight": 2,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1969E277000013",
-      "target": "WOS:A1968C334500001",
-      "weight": 3,
-      "year": 1970
-    },
-    {
-      "source": "WOS:A1970G615500007",
-      "target": "WOS:A1967A192600003",
       "weight": 2,
       "year": 1970
     },
@@ -3710,12 +3873,6 @@
       "year": 1971
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1971
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 43,
@@ -3725,12 +3882,6 @@
       "source": "WOS:A19668260400004",
       "target": "WOS:A19668017100005",
       "weight": 43,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A19668260400004",
-      "target": "WOS:A1971I610700001",
-      "weight": 2,
       "year": 1971
     },
     {
@@ -3748,24 +3899,6 @@
     {
       "source": "WOS:A1963WJ43300003",
       "target": "WOS:A1971I383500006",
-      "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H942500006",
-      "target": "WOS:A1958WB74100002",
-      "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H942500006",
-      "target": "WOS:A1968A692200006",
-      "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H942500006",
-      "target": "WOS:A1968C614700009",
       "weight": 3,
       "year": 1971
     },
@@ -3791,12 +3924,6 @@
       "source": "WOS:A19621484C00013",
       "target": "WOS:A19667873100030",
       "weight": 16,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A19621484C00013",
-      "target": "WOS:A1970H258400007",
-      "weight": 2,
       "year": 1971
     },
     {
@@ -3848,12 +3975,6 @@
       "year": 1971
     },
     {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1971I610700001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
       "source": "WOS:A1968A871800001",
       "target": "WOS:A19631498C00053",
       "weight": 9,
@@ -3890,12 +4011,6 @@
       "year": 1971
     },
     {
-      "source": "WOS:A1968A871800001",
-      "target": "WOS:A1970H720400018",
-      "weight": 2,
-      "year": 1971
-    },
-    {
       "source": "WOS:A1957WB71400055",
       "target": "WOS:A1957WB72600051",
       "weight": 40,
@@ -3920,24 +4035,6 @@
       "year": 1971
     },
     {
-      "source": "WOS:A1967A192600001",
-      "target": "WOS:A1970G995100003",
-      "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1967A192600001",
-      "target": "WOS:A1970H258400007",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1967A192600001",
-      "target": "WOS:A1971I610700001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
       "source": "WOS:A1970G385200005",
       "target": "WOS:A1967A192600003",
       "weight": 6,
@@ -3947,18 +4044,6 @@
       "source": "WOS:A19611438C00008",
       "target": "WOS:A19631487C00037",
       "weight": 28,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A19611438C00008",
-      "target": "WOS:A1971I610700001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I299200003",
-      "target": "WOS:A1970H720400018",
-      "weight": 2,
       "year": 1971
     },
     {
@@ -4001,12 +4086,6 @@
       "source": "WOS:A1960WG79300003",
       "target": "WOS:A19649202B00004",
       "weight": 8,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1960WG79300003",
-      "target": "WOS:A1971I610700001",
-      "weight": 2,
       "year": 1971
     },
     {
@@ -4064,42 +4143,6 @@
       "year": 1971
     },
     {
-      "source": "WOS:A1967A192600002",
-      "target": "WOS:A1970H258400007",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1967A192600002",
-      "target": "WOS:A1971I610700001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1969E123800013",
-      "target": "WOS:A1971I610700001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1971
-    },
-    {
       "source": "WOS:A1970F190200009",
       "target": "WOS:A1957WB72600051",
       "weight": 3,
@@ -4130,12 +4173,6 @@
       "year": 1971
     },
     {
-      "source": "WOS:A1970H035300013",
-      "target": "WOS:A1970H720400018",
-      "weight": 2,
-      "year": 1971
-    },
-    {
       "source": "WOS:A19667942200001",
       "target": "WOS:A1969D831000017",
       "weight": 5,
@@ -4145,12 +4182,6 @@
       "source": "WOS:A19667942200001",
       "target": "WOS:A1970F772400028",
       "weight": 5,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A19667942200001",
-      "target": "WOS:A1970H720400018",
-      "weight": 2,
       "year": 1971
     },
     {
@@ -4172,12 +4203,6 @@
       "year": 1971
     },
     {
-      "source": "WOS:A1969E332700009",
-      "target": "WOS:A1970H258400007",
-      "weight": 2,
-      "year": 1971
-    },
-    {
       "source": "WOS:A19679964900012",
       "target": "WOS:A19679964900011",
       "weight": 40,
@@ -4196,27 +4221,9 @@
       "year": 1971
     },
     {
-      "source": "WOS:A19679047600004",
-      "target": "WOS:A1970H720400018",
-      "weight": 2,
-      "year": 1971
-    },
-    {
       "source": "WOS:A1957WU26400010",
       "target": "WOS:A1957XM01300002",
       "weight": 61,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1957WU26400010",
-      "target": "WOS:A1970H258400007",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1957WU26400010",
-      "target": "WOS:A1971I610700001",
-      "weight": 2,
       "year": 1971
     },
     {
@@ -4232,123 +4239,9 @@
       "year": 1971
     },
     {
-      "source": "WOS:A1958WB74100002",
-      "target": "WOS:A1970H258400007",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970F803800003",
-      "target": "WOS:A1969E586000005",
-      "weight": 3,
-      "year": 1971
-    },
-    {
       "source": "WOS:A1970F803800003",
       "target": "WOS:A1969E878800001",
       "weight": 6,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970F803800003",
-      "target": "WOS:A1970H720400018",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1969E720300014",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A19631498C00053",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1970F772400011",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1968C397500003",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1970F358000001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1970G088100003",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1970G312200011",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1969D831000023",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1969E878800001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1969E538500001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1968C614700009",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1969F297100010",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1969E408800006",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H720400018",
-      "target": "WOS:A1969E408800007",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970F803800004",
-      "target": "WOS:A1969E586000005",
-      "weight": 3,
       "year": 1971
     },
     {
@@ -4419,26 +4312,8 @@
     },
     {
       "source": "WOS:A1969C626200011",
-      "target": "WOS:A1969E604400006",
-      "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1969C626200011",
       "target": "WOS:A1970G000500002",
       "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1969C626200011",
-      "target": "WOS:A1970G995100003",
-      "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1969C626200011",
-      "target": "WOS:A1970H258400007",
-      "weight": 2,
       "year": 1971
     },
     {
@@ -4527,12 +4402,6 @@
     },
     {
       "source": "WOS:A19631486C00003",
-      "target": "WOS:A1969E604400006",
-      "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A19631486C00003",
       "target": "WOS:A1969F297100010",
       "weight": 12,
       "year": 1971
@@ -4545,20 +4414,8 @@
     },
     {
       "source": "WOS:A19631486C00003",
-      "target": "WOS:A1970H258400007",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A19631486C00003",
       "target": "WOS:A1971I383500006",
       "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A19631486C00003",
-      "target": "WOS:A1971I610700001",
-      "weight": 2,
       "year": 1971
     },
     {
@@ -4610,12 +4467,6 @@
       "year": 1971
     },
     {
-      "source": "WOS:A1969D426000003",
-      "target": "WOS:A1970G995100003",
-      "weight": 3,
-      "year": 1971
-    },
-    {
       "source": "WOS:A1969E370100003",
       "target": "WOS:A1970G312200011",
       "weight": 4,
@@ -4646,18 +4497,6 @@
       "year": 1971
     },
     {
-      "source": "WOS:A1969F297100010",
-      "target": "WOS:A1970G995100003",
-      "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1969F297100010",
-      "target": "WOS:A1970H258400007",
-      "weight": 2,
-      "year": 1971
-    },
-    {
       "source": "WOS:A1970G000500003",
       "target": "WOS:A1968C397500003",
       "weight": 7,
@@ -4676,30 +4515,6 @@
       "year": 1971
     },
     {
-      "source": "WOS:A1967A103100005",
-      "target": "WOS:A1971I610700001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A19678832700011",
-      "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A1968C041200024",
-      "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A19679567300001",
-      "weight": 3,
-      "year": 1971
-    },
-    {
       "source": "WOS:A1956WK97300034",
       "target": "WOS:A1955WB09400027",
       "weight": 79,
@@ -4709,42 +4524,6 @@
       "source": "WOS:A1969C959400005",
       "target": "WOS:A1954UB48900049",
       "weight": 5,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H258400007",
-      "target": "WOS:A1970H983200001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H258400007",
-      "target": "WOS:A1967A192600003",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H258400007",
-      "target": "WOS:A19668732500001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H258400007",
-      "target": "WOS:A1957WB72600051",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H258400007",
-      "target": "WOS:A1958WJ83800001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1970H258400007",
-      "target": "WOS:A1957WB73000030",
-      "weight": 2,
       "year": 1971
     },
     {
@@ -4772,12 +4551,6 @@
       "year": 1971
     },
     {
-      "source": "WOS:A1955WB70000046",
-      "target": "WOS:A1971I610700001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
       "source": "WOS:A1968C041200023",
       "target": "WOS:A1968C397500003",
       "weight": 8,
@@ -4799,12 +4572,6 @@
       "source": "WOS:A1969E878800001",
       "target": "WOS:A1969E408800007",
       "weight": 4,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1969E878800001",
-      "target": "WOS:A1969E586000005",
-      "weight": 3,
       "year": 1971
     },
     {
@@ -4871,90 +4638,6 @@
       "source": "WOS:A1968C397500003",
       "target": "WOS:A1970G695400011",
       "weight": 3,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1968C397500003",
-      "target": "WOS:A1971I610700001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A1958WU29000008",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A1970F358000001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A1955WU25800011",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A1970G312200011",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A1954UB48400045",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A1968B371000001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A19668732500001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A1969E059000001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A1957WB72600051",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A19678921500001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A19679964900011",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A1969E538500001",
-      "weight": 2,
-      "year": 1971
-    },
-    {
-      "source": "WOS:A1971I610700001",
-      "target": "WOS:A1959WB76300045",
-      "weight": 2,
       "year": 1971
     },
     {
@@ -5030,12 +4713,6 @@
       "year": 1971
     },
     {
-      "source": "WOS:A19678832700011",
-      "target": "WOS:A1970G995100003",
-      "weight": 3,
-      "year": 1971
-    },
-    {
       "source": "WOS:A1969E538500001",
       "target": "WOS:A1971J164600018",
       "weight": 3,
@@ -5087,12 +4764,6 @@
       "source": "WOS:A1969E541800005",
       "target": "WOS:A1969E806600012",
       "weight": 12,
-      "year": 1972
-    },
-    {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1972
     },
     {
@@ -5189,12 +4860,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 3,
-      "year": 1972
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1972
     },
     {
@@ -5378,30 +5043,6 @@
       "year": 1972
     },
     {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1972
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1972
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1972
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
-      "year": 1972
-    },
-    {
       "source": "WOS:A1970F190200009",
       "target": "WOS:A1957WB72600051",
       "weight": 3,
@@ -5505,12 +5146,6 @@
     },
     {
       "source": "WOS:A1970F803800003",
-      "target": "WOS:A1969E586000005",
-      "weight": 3,
-      "year": 1972
-    },
-    {
-      "source": "WOS:A1970F803800003",
       "target": "WOS:A1969E878800001",
       "weight": 7,
       "year": 1972
@@ -5519,12 +5154,6 @@
       "source": "WOS:A1970H720400018",
       "target": "WOS:A1970G312200011",
       "weight": 5,
-      "year": 1972
-    },
-    {
-      "source": "WOS:A1970F803800004",
-      "target": "WOS:A1969E586000005",
-      "weight": 3,
       "year": 1972
     },
     {
@@ -5579,12 +5208,6 @@
       "source": "WOS:A1969C626200011",
       "target": "WOS:A1969D426000003",
       "weight": 13,
-      "year": 1972
-    },
-    {
-      "source": "WOS:A1969C626200011",
-      "target": "WOS:A1969E604400006",
-      "weight": 3,
       "year": 1972
     },
     {
@@ -5672,12 +5295,6 @@
       "year": 1972
     },
     {
-      "source": "WOS:A19631486C00003",
-      "target": "WOS:A1969E604400006",
-      "weight": 3,
-      "year": 1972
-    },
-    {
       "source": "WOS:A1968B461600016",
       "target": "WOS:A1968B556700012",
       "weight": 8,
@@ -5762,30 +5379,6 @@
       "year": 1972
     },
     {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A19629110B00007",
-      "weight": 3,
-      "year": 1972
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A19678832700011",
-      "weight": 3,
-      "year": 1972
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A1968C041200024",
-      "weight": 3,
-      "year": 1972
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A19679567300001",
-      "weight": 3,
-      "year": 1972
-    },
-    {
       "source": "WOS:A1956WK97300034",
       "target": "WOS:A1955WB09400027",
       "weight": 81,
@@ -5855,12 +5448,6 @@
       "source": "WOS:A1969E878800001",
       "target": "WOS:A1969E408800007",
       "weight": 4,
-      "year": 1972
-    },
-    {
-      "source": "WOS:A1969E878800001",
-      "target": "WOS:A1969E586000005",
-      "weight": 3,
       "year": 1972
     },
     {
@@ -6056,12 +5643,6 @@
       "year": 1973
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1973
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 50,
@@ -6155,12 +5736,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 3,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1973
     },
     {
@@ -6350,30 +5925,6 @@
       "year": 1973
     },
     {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
-      "year": 1973
-    },
-    {
       "source": "WOS:A1968C182300012",
       "target": "WOS:A1967A252900013",
       "weight": 6,
@@ -6465,12 +6016,6 @@
     },
     {
       "source": "WOS:A1970F803800003",
-      "target": "WOS:A1969E586000005",
-      "weight": 3,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1970F803800003",
       "target": "WOS:A1969E878800001",
       "weight": 8,
       "year": 1973
@@ -6479,12 +6024,6 @@
       "source": "WOS:A1970H720400018",
       "target": "WOS:A1970G312200011",
       "weight": 6,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1970F803800004",
-      "target": "WOS:A1969E586000005",
-      "weight": 3,
       "year": 1973
     },
     {
@@ -6503,12 +6042,6 @@
       "source": "WOS:A1968B412200004",
       "target": "WOS:A1967A192600003",
       "weight": 13,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1968B412200004",
-      "target": "WOS:A1969E604400006",
-      "weight": 3,
       "year": 1973
     },
     {
@@ -6551,12 +6084,6 @@
       "source": "WOS:A1969C626200011",
       "target": "WOS:A1969D426000003",
       "weight": 13,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1969C626200011",
-      "target": "WOS:A1969E604400006",
-      "weight": 3,
       "year": 1973
     },
     {
@@ -6629,12 +6156,6 @@
       "source": "WOS:A19631486C00003",
       "target": "WOS:A1969C693100001",
       "weight": 22,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A19631486C00003",
-      "target": "WOS:A1969E604400006",
-      "weight": 3,
       "year": 1973
     },
     {
@@ -6716,42 +6237,6 @@
       "year": 1973
     },
     {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A1967A192600003",
-      "weight": 3,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A19668732500001",
-      "weight": 3,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A19629110B00007",
-      "weight": 3,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A19678832700011",
-      "weight": 3,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A1968C041200024",
-      "weight": 3,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1969E604400006",
-      "target": "WOS:A19679567300001",
-      "weight": 3,
-      "year": 1973
-    },
-    {
       "source": "WOS:A1969C959400005",
       "target": "WOS:A1954UB48900049",
       "weight": 8,
@@ -6815,12 +6300,6 @@
       "source": "WOS:A1969E878800001",
       "target": "WOS:A1969E408800007",
       "weight": 4,
-      "year": 1973
-    },
-    {
-      "source": "WOS:A1969E878800001",
-      "target": "WOS:A1969E586000005",
-      "weight": 3,
       "year": 1973
     },
     {
@@ -7004,12 +6483,6 @@
       "year": 1974
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1974
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 55,
@@ -7097,12 +6570,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 3,
-      "year": 1974
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1974
     },
     {
@@ -7283,30 +6750,6 @@
       "source": "WOS:A1967A192600002",
       "target": "WOS:A1970H258400007",
       "weight": 4,
-      "year": 1974
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1974
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1974
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1974
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1974
     },
     {
@@ -7916,12 +7359,6 @@
       "year": 1975
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1975
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 60,
@@ -8001,18 +7438,6 @@
     },
     {
       "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969D281900011",
-      "weight": 3,
-      "year": 1975
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1975
-    },
-    {
-      "source": "WOS:A19629118B00017",
       "target": "WOS:A1970H271600018",
       "weight": 15,
       "year": 1975
@@ -8051,24 +7476,6 @@
       "source": "WOS:A1957WB71400055",
       "target": "WOS:A1957WB72600051",
       "weight": 41,
-      "year": 1975
-    },
-    {
-      "source": "WOS:A1969D281900011",
-      "target": "WOS:A1957WU26400010",
-      "weight": 3,
-      "year": 1975
-    },
-    {
-      "source": "WOS:A1969D281900011",
-      "target": "WOS:A1967A192600001",
-      "weight": 3,
-      "year": 1975
-    },
-    {
-      "source": "WOS:A1969D281900011",
-      "target": "WOS:A19667240100003",
-      "weight": 3,
       "year": 1975
     },
     {
@@ -8165,30 +7572,6 @@
       "source": "WOS:A1967A192600002",
       "target": "WOS:A1970H258400007",
       "weight": 4,
-      "year": 1975
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1975
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1975
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1975
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1975
     },
     {
@@ -8786,12 +8169,6 @@
       "year": 1976
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1976
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 70,
@@ -8873,12 +8250,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1968B601900004",
       "weight": 41,
-      "year": 1976
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1976
     },
     {
@@ -9023,30 +8394,6 @@
       "source": "WOS:A1967A192600002",
       "target": "WOS:A1970H258400007",
       "weight": 4,
-      "year": 1976
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1976
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1976
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1976
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1976
     },
     {
@@ -9650,12 +8997,6 @@
       "year": 1977
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1977
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 76,
@@ -9737,12 +9078,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1968B601900004",
       "weight": 43,
-      "year": 1977
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1977
     },
     {
@@ -9875,30 +9210,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 82,
-      "year": 1977
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1977
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1977
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1977
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1977
     },
     {
@@ -10478,12 +9789,6 @@
       "year": 1978
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1978
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 85,
@@ -10577,12 +9882,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 4,
-      "year": 1978
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1978
     },
     {
@@ -10715,30 +10014,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 86,
-      "year": 1978
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1978
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1978
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1978
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1978
     },
     {
@@ -11306,12 +10581,6 @@
       "year": 1979
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1979
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 93,
@@ -11399,12 +10668,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 6,
-      "year": 1979
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1979
     },
     {
@@ -11537,30 +10800,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 94,
-      "year": 1979
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1979
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1979
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1979
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1979
     },
     {
@@ -12092,12 +11331,6 @@
       "year": 1980
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1980
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 100,
@@ -12191,12 +11424,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1980
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1980
     },
     {
@@ -12329,30 +11556,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 99,
-      "year": 1980
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1980
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1980
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1980
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1980
     },
     {
@@ -12866,12 +12069,6 @@
       "year": 1981
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1981
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 108,
@@ -12965,12 +12162,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1981
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1981
     },
     {
@@ -13103,30 +12294,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 105,
-      "year": 1981
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1981
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1981
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1981
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1981
     },
     {
@@ -13628,12 +12795,6 @@
       "year": 1982
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1982
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 112,
@@ -13727,12 +12888,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1982
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1982
     },
     {
@@ -13865,30 +13020,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 112,
-      "year": 1982
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1982
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1982
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1982
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1982
     },
     {
@@ -14390,12 +13521,6 @@
       "year": 1983
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1983
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 115,
@@ -14489,12 +13614,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1983
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1983
     },
     {
@@ -14621,30 +13740,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 114,
-      "year": 1983
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1983
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1983
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1983
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1983
     },
     {
@@ -15182,12 +14277,6 @@
       "year": 1984
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1984
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 118,
@@ -15281,12 +14370,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1984
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1984
     },
     {
@@ -15413,30 +14496,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 120,
-      "year": 1984
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1984
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1984
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1984
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1984
     },
     {
@@ -15998,12 +15057,6 @@
       "year": 1985
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1985
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 120,
@@ -16097,12 +15150,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1985
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1985
     },
     {
@@ -16235,30 +15282,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 122,
-      "year": 1985
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1985
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1985
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1985
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1985
     },
     {
@@ -16814,12 +15837,6 @@
       "year": 1986
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1986
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 123,
@@ -16913,12 +15930,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1986
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1986
     },
     {
@@ -17057,30 +16068,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 123,
-      "year": 1986
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1986
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1986
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1986
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1986
     },
     {
@@ -17636,12 +16623,6 @@
       "year": 1987
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1987
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 126,
@@ -17735,12 +16716,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1987
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1987
     },
     {
@@ -17873,30 +16848,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 126,
-      "year": 1987
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1987
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1987
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1987
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1987
     },
     {
@@ -18452,12 +17403,6 @@
       "year": 1988
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1988
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 128,
@@ -18551,12 +17496,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1988
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1988
     },
     {
@@ -18683,30 +17622,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 128,
-      "year": 1988
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1988
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1988
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1988
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1988
     },
     {
@@ -19268,12 +18183,6 @@
       "year": 1989
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1989
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 130,
@@ -19373,12 +18282,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1989
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1989
     },
     {
@@ -19505,30 +18408,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 133,
-      "year": 1989
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1989
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1989
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1989
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1989
     },
     {
@@ -20090,12 +18969,6 @@
       "year": 1990
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1990
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 130,
@@ -20195,12 +19068,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1990
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1990
     },
     {
@@ -20327,30 +19194,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 138,
-      "year": 1990
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1990
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1990
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1990
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1990
     },
     {
@@ -20912,12 +19755,6 @@
       "year": 1991
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1991
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 130,
@@ -21017,12 +19854,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1991
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1991
     },
     {
@@ -21149,30 +19980,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 141,
-      "year": 1991
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1991
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1991
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1991
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1991
     },
     {
@@ -21716,12 +20523,6 @@
       "year": 1992
     },
     {
-      "source": "WOS:A1969D413700001",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
-      "year": 1992
-    },
-    {
       "source": "WOS:A1959WN04400013",
       "target": "WOS:A1957WN03800018",
       "weight": 131,
@@ -21821,12 +20622,6 @@
       "source": "WOS:A19629118B00017",
       "target": "WOS:A1969D281900011",
       "weight": 8,
-      "year": 1992
-    },
-    {
-      "source": "WOS:A19629118B00017",
-      "target": "WOS:A1969E299500018",
-      "weight": 2,
       "year": 1992
     },
     {
@@ -21971,30 +20766,6 @@
       "source": "WOS:A1958WP53800013",
       "target": "WOS:A1967A192600003",
       "weight": 144,
-      "year": 1992
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A1968C041200038",
-      "weight": 2,
-      "year": 1992
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679787100018",
-      "weight": 2,
-      "year": 1992
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19679664100013",
-      "weight": 2,
-      "year": 1992
-    },
-    {
-      "source": "WOS:A1969E299500018",
-      "target": "WOS:A19649189B00007",
-      "weight": 2,
       "year": 1992
     },
     {
