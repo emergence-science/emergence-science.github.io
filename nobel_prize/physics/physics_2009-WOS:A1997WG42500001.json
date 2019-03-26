@@ -1,0 +1,2799 @@
+{
+  "metadata": {
+    "title": "X-ray detectors for digital radiography",
+    "pubyear": 1997,
+    "journal": "PHYSICS IN MEDICINE AND BIOLOGY",
+    "authors": "Yaffe, MJ, Rowlands, JA"
+  },
+  "nodes": [
+    {
+      "id": "WOS:A1979JB45000002",
+      "title": "Electronic recording of x-ray images",
+      "journal": "JOURNAL OF APPLIED PHOTOGRAPHIC ENGINEERING",
+      "diameter": 4.898979485566356,
+      "pubyear": 1979,
+      "nobel_paper": "N",
+      "authors": "JEROMIN, LS, KLYNN, LM"
+    },
+    {
+      "id": "WOS:A1988N459500006",
+      "title": "Digital radiography of the chest - promises and problems",
+      "journal": "AMERICAN JOURNAL OF ROENTGENOLOGY",
+      "diameter": 6.782329983125268,
+      "pubyear": 1988,
+      "nobel_paper": "N",
+      "authors": "GOODMAN, LR, WILSON, CR, FOLEY, WD"
+    },
+    {
+      "id": "WOS:A1982NV15600012",
+      "title": "Absolute measures of physical image quality - measurement and application to radiographic magnification",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 7.681145747868608,
+      "pubyear": 1982,
+      "nobel_paper": "N",
+      "authors": "SANDRIK, JM, WAGNER, RF"
+    },
+    {
+      "id": "WOS:A1993KK94300037",
+      "title": "High-sensitivity readout of 2d a-si image sensors",
+      "journal": "JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS SHORT NOTES & REVIEW PAPERS",
+      "diameter": 4.123105625617661,
+      "pubyear": 1993,
+      "nobel_paper": "N",
+      "authors": "FUJIEDA, I, STREET, RA, WEISFIELD, RL, NELSON, S, NYLEN, P, PEREZMENDEZ, V, CHO, GS"
+    },
+    {
+      "id": "WOS:A1992JJ63200016",
+      "title": "Charge-coupled device detector - performance considerations and potential for small-field mammographic imaging applications",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 7.810249675906654,
+      "pubyear": 1992,
+      "nobel_paper": "N",
+      "authors": "KARELLAS, A, HARRIS, LJ, LIU, H, DAVIS, MA, DORSI, CJ"
+    },
+    {
+      "id": "WOS:A1987J574900004",
+      "title": "Image feature analysis and computer-aided diagnosis in digital radiography .1. automated detection of microcalcifications in mammography",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 11.74734012447073,
+      "pubyear": 1987,
+      "nobel_paper": "N",
+      "authors": "CHAN, HP, DOI, K, GALHOTRA, S, VYBORNY, CJ, MACMAHON, H, JOKICH, PM"
+    },
+    {
+      "id": "WOS:A1983QV03900054",
+      "title": "Digital radiography of the chest - design-features and considerations for a prototype unit",
+      "journal": "RADIOLOGY",
+      "diameter": 9.273618495495704,
+      "pubyear": 1983,
+      "nobel_paper": "N",
+      "authors": "TESIC, MM, MATTSON, RA, BARNES, GT, SONES, RA, STICKNEY, JB"
+    },
+    {
+      "id": "WOS:A1973R540700001",
+      "title": "Computerized transverse axial scanning (tomography) .1. description of system",
+      "journal": "BRITISH JOURNAL OF RADIOLOGY",
+      "diameter": 39.26830783214372,
+      "pubyear": 1973,
+      "nobel_paper": "N",
+      "authors": "HOUNDFIELD, GN"
+    },
+    {
+      "id": "WOS:A1982NA72600012",
+      "title": "Radiographic information-theory and application to mammography",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 5.196152422706632,
+      "pubyear": 1982,
+      "nobel_paper": "N",
+      "authors": "BRODIE, I, GUTCHECK, RA"
+    },
+    {
+      "id": "WOS:A1994NY97200024",
+      "title": "Discernible gray levels and digitization requirements in digital mammography",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 1.7320508075688772,
+      "pubyear": 1994,
+      "nobel_paper": "N",
+      "authors": "NEITZEL, U"
+    },
+    {
+      "id": "WOS:A1989T340000017",
+      "title": "A new photoconductor imaging-system for digital radiography",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 3.3166247903554,
+      "pubyear": 1989,
+      "nobel_paper": "N",
+      "authors": "DEMONTS, H, BEAUMONT, F"
+    },
+    {
+      "id": "WOS:A1986A825200003",
+      "title": "Optical factors affecting the detective quantum efficiency of radiographic screens",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 5.291502622129181,
+      "pubyear": 1986,
+      "nobel_paper": "N",
+      "authors": "DRANGOVA, M, ROWLANDS, JA"
+    },
+    {
+      "id": "WOS:A1995QG79600006",
+      "title": "Effects of undersampling on the proper interpretation of modulation transfer-function, noise power spectra, and noise equivalent quanta of digital imaging-systems",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 9.16515138991168,
+      "pubyear": 1995,
+      "nobel_paper": "N",
+      "authors": "DOBBINS, JT"
+    },
+    {
+      "id": "WOS:A1988P389600071",
+      "title": "Physical model of photostimulated luminescence of x-ray-irradiated bafbr-eu-2+",
+      "journal": "JOURNAL OF APPLIED PHYSICS",
+      "diameter": 12.165525060596439,
+      "pubyear": 1988,
+      "nobel_paper": "N",
+      "authors": "VONSEGGERN, H, VOIGT, T, KNUPFER, W, LANGE, G"
+    },
+    {
+      "id": "WOS:A1978GC98000006",
+      "title": "Method of electronic readout of electrophotographic and electroradiographic images",
+      "journal": "JOURNAL OF APPLIED PHOTOGRAPHIC ENGINEERING",
+      "diameter": 4.242640687119285,
+      "pubyear": 1978,
+      "nobel_paper": "N",
+      "authors": "KORN, DM, JOHNSON, SP, NELSON, OL, ZIEGLER, RJ"
+    },
+    {
+      "id": "WOS:A1996TZ46900010",
+      "title": "Analysis of signal propagation in optically coupled detectors for digital mammography .2. lens and fibre optics",
+      "journal": "PHYSICS IN MEDICINE AND BIOLOGY",
+      "diameter": 3.3166247903554,
+      "pubyear": 1996,
+      "nobel_paper": "N",
+      "authors": "Maidment, ADA, Yaffe, MJ"
+    },
+    {
+      "id": "WOS:A1989AX56800005",
+      "title": "Clinical comparison of analog and digital 100 mm photofluorography",
+      "journal": "JOURNAL OF THE CANADIAN ASSOCIATION OF RADIOLOGISTS-JOURNAL DE L ASSOCIATION CANADIENNE DES RADIOLOGISTES",
+      "diameter": 1.0,
+      "pubyear": 1989,
+      "nobel_paper": "N",
+      "authors": "HYNES, DM, ROWLANDS, JA, EDMONDS, EW"
+    },
+    {
+      "id": "WOS:A1994NA81600009",
+      "title": "A spatial-frequency dependent quantum accounting diagram and detective quantum efficiency model of signal and noise-propagation in cascaded imaging-systems",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 9.746794344808963,
+      "pubyear": 1994,
+      "nobel_paper": "N",
+      "authors": "CUNNINGHAM, IA, WESTMORE, MS, FENSTER, A"
+    },
+    {
+      "id": "WOS:A1995TL17000002",
+      "title": "X-ray imaging using amorphous selenium: photoinduced discharge (pid) readout for digital general radiography",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 3.7416573867739413,
+      "pubyear": 1995,
+      "nobel_paper": "N",
+      "authors": "Rowlands, JA, Hunter, DM"
+    },
+    {
+      "id": "WOS:A1995TH66100015",
+      "title": "Digital mammography, computer-aided diagnosis, and telemammography",
+      "journal": "RADIOLOGIC CLINICS OF NORTH AMERICA",
+      "diameter": 6.928203230275509,
+      "pubyear": 1995,
+      "nobel_paper": "N",
+      "authors": "FEIG, SA, YAFFE, MJ"
+    },
+    {
+      "id": "WOS:A1984SD84500036",
+      "title": "Noise-analysis of a digital radiography system",
+      "journal": "AMERICAN JOURNAL OF ROENTGENOLOGY",
+      "diameter": 5.830951894845301,
+      "pubyear": 1984,
+      "nobel_paper": "N",
+      "authors": "ARNOLD, BA, SCHEIBE, PO"
+    },
+    {
+      "id": "WOS:A1993MM02600003",
+      "title": "Direct digital mammography using a scanned-slot ccd imaging-system",
+      "journal": "MEDICAL PROGRESS THROUGH TECHNOLOGY",
+      "diameter": 5.196152422706632,
+      "pubyear": 1993,
+      "nobel_paper": "N",
+      "authors": "YAFFE, MJ"
+    },
+    {
+      "id": "WOS:A1989CH52800002",
+      "title": "The physics of amorphous-silicon thin-film transistors",
+      "journal": "IEEE TRANSACTIONS ON ELECTRON DEVICES",
+      "diameter": 12.68857754044952,
+      "pubyear": 1989,
+      "nobel_paper": "N",
+      "authors": "POWELL, MJ"
+    },
+    {
+      "id": "WOS:A1991FK17300038",
+      "title": "X-ray and charged-particle detection with csi(tl) layer coupled to a-si-h photodiode layers",
+      "journal": "IEEE TRANSACTIONS ON NUCLEAR SCIENCE",
+      "diameter": 4.795831523312719,
+      "pubyear": 1991,
+      "nobel_paper": "N",
+      "authors": "FUJIEDA, I, CHO, G, DREWERY, J, GEE, T, JING, T, KAPLAN, SN, PEREZMENDEZ, V, WILDERMUTH, D, STREET, RA"
+    },
+    {
+      "id": "WOS:A1973Q594400064",
+      "title": "Absorption and noise in x-ray phosphors",
+      "journal": "JOURNAL OF APPLIED PHYSICS",
+      "diameter": 13.45362404707371,
+      "pubyear": 1973,
+      "nobel_paper": "N",
+      "authors": "SWANK, RK"
+    },
+    {
+      "id": "WOS:A1989AK49300005",
+      "title": "System for digital acquisition of gastrointestinal images",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 2.6457513110645907,
+      "pubyear": 1989,
+      "nobel_paper": "N",
+      "authors": "ROWLANDS, JA, HYNES, DM, EDMONDS, EW"
+    },
+    {
+      "id": "WOS:A1987H158400015",
+      "title": "Analysis of the detective quantum efficiency of a radiographic screen film combination",
+      "journal": "JOURNAL OF THE OPTICAL SOCIETY OF AMERICA A-OPTICS IMAGE SCIENCE AND VISION",
+      "diameter": 7.874007874011811,
+      "pubyear": 1987,
+      "nobel_paper": "N",
+      "authors": "BUNCH, PC, HUFF, KE, VANMETTER, R"
+    },
+    {
+      "id": "WOS:A1948UG46200004",
+      "title": "The sensitivity performance of the human eye on an absolute scale",
+      "journal": "JOURNAL OF THE OPTICAL SOCIETY OF AMERICA",
+      "diameter": 21.77154105707724,
+      "pubyear": 1948,
+      "nobel_paper": "N",
+      "authors": "ROSE, A"
+    },
+    {
+      "id": "WOS:A1991FR13000012",
+      "title": "Comparison of imaging properties of a computed radiography system and screen film systems",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 4.795831523312719,
+      "pubyear": 1991,
+      "nobel_paper": "N",
+      "authors": "SANADA, S, DOI, K, XU, XW, YIN, FF, GIGER, ML, MACMAHON, H"
+    },
+    {
+      "id": "WOS:A1990ED37100014",
+      "title": "Computerized detection of pulmonary nodules in digital chest images - use of morphological filters in reducing false-positive detections",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 6.782329983125268,
+      "pubyear": 1990,
+      "nobel_paper": "N",
+      "authors": "GIGER, ML, AHN, N, DOI, K, MACMAHON, H, METZ, CE"
+    },
+    {
+      "id": "WOS:A1994NH47000002",
+      "title": "Image quality of a digital chest radiography system based on a selenium detector",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 10.198039027185569,
+      "pubyear": 1994,
+      "nobel_paper": "N",
+      "authors": "NEITZEL, U, MAACK, I, GUNTHERKOHFAHL, S"
+    },
+    {
+      "id": "WOS:A1985AJY6200011",
+      "title": "Kinestatic charge detection",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 5.291502622129181,
+      "pubyear": 1985,
+      "nobel_paper": "N",
+      "authors": "DIBIANCA, FA, BARKER, MD"
+    },
+    {
+      "id": "WOS:A1968A966500021",
+      "title": "Bandgap dependence and related features of radiation ionization energies in semiconductors",
+      "journal": "JOURNAL OF APPLIED PHYSICS",
+      "diameter": 17.029386365926403,
+      "pubyear": 1968,
+      "nobel_paper": "N",
+      "authors": "KLEIN, CA"
+    },
+    {
+      "id": "WOS:A1987H158400014",
+      "title": "Detective quantum efficiency of imaging-systems with amplifying and scattering mechanisms",
+      "journal": "JOURNAL OF THE OPTICAL SOCIETY OF AMERICA A-OPTICS IMAGE SCIENCE AND VISION",
+      "diameter": 9.746794344808963,
+      "pubyear": 1987,
+      "nobel_paper": "N",
+      "authors": "RABBANI, M, SHAW, R, VANMETTER, R"
+    },
+    {
+      "id": "WOS:A1992JY76100015",
+      "title": "Demonstration of megavoltage and diagnostic-x-ray imaging with hydrogenated amorphous-silicon arrays",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 10.908712114635714,
+      "pubyear": 1992,
+      "nobel_paper": "N",
+      "authors": "ANTONUK, LE, BOUDRY, J, HUANG, WD, MCSHAN, DL, MORTON, EJ, YORKSTON, J, LONGO, MJ, STREET, RA"
+    },
+    {
+      "id": "WOS:A1995QG79600004",
+      "title": "X-ray-imaging with amorphous selenium - detective quantum efficiency of photoconductive receptors for digital mammography",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 6.244997998398398,
+      "pubyear": 1995,
+      "nobel_paper": "N",
+      "authors": "FAHRIG, R, ROWLANDS, JA, YAFFE, MJ"
+    },
+    {
+      "id": "WOS:A1970G075800006",
+      "title": "Charge coupled semiconductor devices",
+      "journal": "BELL SYSTEM TECHNICAL JOURNAL",
+      "diameter": 20.952326839756964,
+      "pubyear": 1970,
+      "nobel_paper": "Y",
+      "authors": "BOYLE, WS, SMITH, GE"
+    },
+    {
+      "id": "WOS:A1990CZ51100022",
+      "title": "A digital fluoroscopic imaging device for radiotherapy localization",
+      "journal": "INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS",
+      "diameter": 8.888194417315589,
+      "pubyear": 1990,
+      "nobel_paper": "N",
+      "authors": "MUNRO, P, RAWLINSON, JA, FENSTER, A"
+    },
+    {
+      "id": "WOS:A1993MJ00700004",
+      "title": "Dynamic-range requirements in digital mammography",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 5.477225575051661,
+      "pubyear": 1993,
+      "nobel_paper": "N",
+      "authors": "MAIDMENT, ADA, FAHRIG, R, YAFFE, MJ"
+    },
+    {
+      "id": "WOS:A1991FR13000013",
+      "title": "X-ray-imaging using amorphous selenium - a photoinduced discharge readout method for digital mammography",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 7.54983443527075,
+      "pubyear": 1991,
+      "nobel_paper": "N",
+      "authors": "ROWLANDS, JA, HUNTER, DM, ARAJ, N"
+    },
+    {
+      "id": "WOS:A1995QU31900002",
+      "title": "X-ray-imaging using amorphous selenium - inherent spatial-resolution",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 8.306623862918075,
+      "pubyear": 1995,
+      "nobel_paper": "N",
+      "authors": "QUE, W, ROWLANDS, JA"
+    },
+    {
+      "id": "WOS:A1994NR50700001",
+      "title": "Analysis of the spatial-frequency-dependent dqe of optically coupled digital mammography detectors",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 6.6332495807108,
+      "pubyear": 1994,
+      "nobel_paper": "N",
+      "authors": "MAIDMENT, ADA, YAFFE, MJ"
+    },
+    {
+      "id": "WOS:A1995TA81700004",
+      "title": "X-ray-imaging using amorphous selenium - feasibility of a flat-panel self-scanned detector for digital radiology",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 10.954451150103322,
+      "pubyear": 1995,
+      "nobel_paper": "N",
+      "authors": "ZHAO, W, ROWLANDS, JA"
+    },
+    {
+      "id": "WOS:A1989U221300001",
+      "title": "Digital imaging of the chest",
+      "journal": "RADIOLOGY",
+      "diameter": 8.366600265340756,
+      "pubyear": 1989,
+      "nobel_paper": "N",
+      "authors": "FRASER, RG, SANDERS, C, BARNES, GT, MACMAHON, H, GIGER, ML, DOI, K, TEMPLETON, AW, COX, GG, DWYER, SJ, MERRITT, CRB, JONES, JP"
+    },
+    {
+      "id": "WOS:A1987K387700001",
+      "title": "Scanned-projection digital mammography",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 8.717797887081348,
+      "pubyear": 1987,
+      "nobel_paper": "N",
+      "authors": "NISHIKAWA, RM, MAWDSLEY, GE, FENSTER, A, YAFFE, MJ"
+    },
+    {
+      "id": "WOS:A1989T377500040",
+      "title": "Thallium bromide radiation detectors",
+      "journal": "IEEE TRANSACTIONS ON NUCLEAR SCIENCE",
+      "diameter": 7.3484692283495345,
+      "pubyear": 1989,
+      "nobel_paper": "N",
+      "authors": "SHAH, KS, LUND, JC, OLSCHNER, F, MOY, L, SQUILLANTE, MR"
+    },
+    {
+      "id": "WOS:A1985AJY6200016",
+      "title": "Minimum entrance exposure estimates for information recording in diagnostic-radiology",
+      "journal": "MEDICAL PHYSICS",
+      "diameter": 3.605551275463989,
+      "pubyear": 1985,
+      "nobel_paper": "N",
+      "authors": "BRODIE, I, GUTCHECK, RA"
+    }
+  ],
+  "links": [
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 2,
+      "year": 1981
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987H158400014",
+      "weight": 2,
+      "year": 1989
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987K387700001",
+      "weight": 2,
+      "year": 1989
+    },
+    {
+      "source": "WOS:A1983QV03900054",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 3,
+      "year": 1990
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987H158400014",
+      "weight": 5,
+      "year": 1990
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987K387700001",
+      "weight": 4,
+      "year": 1990
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 4,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 6,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1983QV03900054",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 4,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987H158400014",
+      "weight": 5,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987K387700001",
+      "weight": 4,
+      "year": 1991
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 5,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 6,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1983QV03900054",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 4,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1983QV03900054",
+      "target": "WOS:A1987K387700001",
+      "weight": 4,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987H158400014",
+      "weight": 5,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987K387700001",
+      "weight": 4,
+      "year": 1992
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 5,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 8,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1982NV15600012",
+      "target": "WOS:A1973Q594400064",
+      "weight": 7,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1983QV03900054",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 4,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1986A825200003",
+      "target": "WOS:A1987H158400015",
+      "weight": 4,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987H158400014",
+      "weight": 5,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1992JY76100015",
+      "target": "WOS:A1990CZ51100022",
+      "weight": 2,
+      "year": 1993
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 5,
+      "year": 1994
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 10,
+      "year": 1994
+    },
+    {
+      "source": "WOS:A1982NV15600012",
+      "target": "WOS:A1973Q594400064",
+      "weight": 8,
+      "year": 1994
+    },
+    {
+      "source": "WOS:A1983QV03900054",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 4,
+      "year": 1994
+    },
+    {
+      "source": "WOS:A1986A825200003",
+      "target": "WOS:A1987H158400015",
+      "weight": 4,
+      "year": 1994
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987H158400014",
+      "weight": 6,
+      "year": 1994
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1987K387700001",
+      "weight": 3,
+      "year": 1994
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 7,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 4,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 4,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 14,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 3,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NR50700001",
+      "weight": 2,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1983QV03900054",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 4,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 4,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1978GC98000006",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 4,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1993MJ00700004",
+      "weight": 2,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987H158400014",
+      "weight": 6,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1987K387700001",
+      "weight": 4,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1994NR50700001",
+      "weight": 2,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 4,
+      "year": 1995
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 7,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1982NA72600012",
+      "weight": 5,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 16,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NR50700001",
+      "weight": 5,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1983QV03900054",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 4,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 5,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 5,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1978GC98000006",
+      "weight": 4,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 4,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 2,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1993MJ00700004",
+      "weight": 2,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987H158400014",
+      "weight": 7,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1995QU31900002",
+      "weight": 3,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1987K387700001",
+      "weight": 5,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 6,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1995TA81700004",
+      "weight": 2,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1995TA81700004",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 2,
+      "year": 1996
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 8,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1982NA72600012",
+      "weight": 6,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 17,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1982NV15600012",
+      "target": "WOS:A1973Q594400064",
+      "weight": 10,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 5,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1993MM02600003",
+      "weight": 4,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NR50700001",
+      "weight": 9,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1983QV03900054",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 5,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 6,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 6,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 7,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 4,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987H158400014",
+      "weight": 10,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1995QU31900002",
+      "weight": 7,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 8,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1992JY76100015",
+      "target": "WOS:A1990CZ51100022",
+      "weight": 14,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995TA81700004",
+      "weight": 6,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995QU31900002",
+      "weight": 6,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1987K387700001",
+      "weight": 6,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 7,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1987K387700001",
+      "weight": 9,
+      "year": 1997
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 8,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 17,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1982NV15600012",
+      "target": "WOS:A1973Q594400064",
+      "weight": 10,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 6,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NR50700001",
+      "weight": 9,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 7,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 9,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 5,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 5,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1973Q594400064",
+      "target": "WOS:A1987H158400015",
+      "weight": 11,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1987H158400015",
+      "target": "WOS:A1987H158400014",
+      "weight": 11,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 11,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1995QU31900002",
+      "weight": 8,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1985AJY6200011",
+      "target": "WOS:A1987K387700001",
+      "weight": 6,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1992JY76100015",
+      "target": "WOS:A1990CZ51100022",
+      "weight": 16,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995QU31900002",
+      "weight": 7,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1987K387700001",
+      "weight": 6,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1987K387700001",
+      "weight": 9,
+      "year": 1998
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 8,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 7,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NR50700001",
+      "weight": 9,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 7,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 12,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 5,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 5,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 11,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1995QG79600004",
+      "weight": 8,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1995QU31900002",
+      "weight": 9,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1985AJY6200011",
+      "target": "WOS:A1987K387700001",
+      "weight": 7,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1992JY76100015",
+      "target": "WOS:A1990CZ51100022",
+      "weight": 17,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995TA81700004",
+      "weight": 8,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995QU31900002",
+      "weight": 8,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1987K387700001",
+      "weight": 6,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 1999
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 8,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 8,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NR50700001",
+      "weight": 9,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NY97200024",
+      "weight": 2,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 7,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 7,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 13,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 5,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 6,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 11,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1995QU31900002",
+      "weight": 10,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1985AJY6200011",
+      "target": "WOS:A1987K387700001",
+      "weight": 7,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1985AJY6200011",
+      "target": "WOS:A1995QU31900002",
+      "weight": 7,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1992JY76100015",
+      "target": "WOS:A1990CZ51100022",
+      "weight": 17,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995TA81700004",
+      "weight": 10,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1987K387700001",
+      "weight": 6,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 2000
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 8,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 8,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NR50700001",
+      "weight": 9,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NY97200024",
+      "weight": 2,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 7,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 7,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 17,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 6,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1995TH66100015",
+      "target": "WOS:A1993MM02600003",
+      "weight": 6,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 6,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 11,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1995QU31900002",
+      "weight": 10,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1985AJY6200011",
+      "target": "WOS:A1987K387700001",
+      "weight": 7,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1985AJY6200011",
+      "target": "WOS:A1995QU31900002",
+      "weight": 7,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995TA81700004",
+      "weight": 11,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995QU31900002",
+      "weight": 10,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1987K387700001",
+      "weight": 6,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1995QU31900002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 10,
+      "year": 2001
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 8,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 8,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NY97200024",
+      "weight": 2,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 7,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 8,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 19,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1994NR50700001",
+      "weight": 10,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 6,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1995TH66100015",
+      "target": "WOS:A1993MM02600003",
+      "weight": 6,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 6,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 11,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995TA81700004",
+      "weight": 13,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995QU31900002",
+      "weight": 13,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1987K387700001",
+      "weight": 6,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 2002
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 8,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 8,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NY97200024",
+      "weight": 2,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 7,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1994NA81600009",
+      "weight": 4,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 9,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 20,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1994NR50700001",
+      "weight": 11,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 6,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1995TH66100015",
+      "target": "WOS:A1993MM02600003",
+      "weight": 6,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 6,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 11,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995TA81700004",
+      "weight": 13,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995QU31900002",
+      "weight": 13,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1987K387700001",
+      "weight": 6,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 2003
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 8,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 8,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NY97200024",
+      "weight": 2,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 7,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1994NA81600009",
+      "weight": 4,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 9,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 23,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1994NR50700001",
+      "weight": 12,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 6,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1973Q594400064",
+      "target": "WOS:A1995QG79600004",
+      "weight": 15,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 11,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995QU31900002",
+      "weight": 14,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1987K387700001",
+      "weight": 6,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 2004
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 9,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1982NV15600012",
+      "target": "WOS:A1973Q594400064",
+      "weight": 12,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 8,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NY97200024",
+      "weight": 2,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 9,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1986A825200003",
+      "target": "WOS:A1973Q594400064",
+      "weight": 9,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1994NA81600009",
+      "weight": 4,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 10,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 27,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1994NR50700001",
+      "weight": 12,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 7,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1973Q594400064",
+      "target": "WOS:A1995QG79600004",
+      "weight": 16,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 12,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995QU31900002",
+      "weight": 15,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1993MJ00700004",
+      "target": "WOS:A1987K387700001",
+      "weight": 6,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 2005
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 9,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1982NV15600012",
+      "target": "WOS:A1973Q594400064",
+      "weight": 12,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 8,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NY97200024",
+      "weight": 2,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 9,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1986A825200003",
+      "target": "WOS:A1973Q594400064",
+      "weight": 11,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1994NA81600009",
+      "weight": 4,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 10,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 28,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1994NR50700001",
+      "weight": 12,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 7,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1973Q594400064",
+      "target": "WOS:A1995QG79600004",
+      "weight": 16,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 12,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995QU31900002",
+      "weight": 15,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 2006
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 9,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1982NV15600012",
+      "target": "WOS:A1973Q594400064",
+      "weight": 13,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 8,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NY97200024",
+      "weight": 2,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1994NY97200024",
+      "target": "WOS:A1993MJ00700004",
+      "weight": 2,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 9,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1986A825200003",
+      "target": "WOS:A1973Q594400064",
+      "weight": 12,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1994NA81600009",
+      "weight": 4,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 10,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 32,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1994NR50700001",
+      "weight": 13,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 7,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1973Q594400064",
+      "target": "WOS:A1995QG79600004",
+      "weight": 16,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 12,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995QU31900002",
+      "weight": 15,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 2007
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 11,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1982NV15600012",
+      "target": "WOS:A1973Q594400064",
+      "weight": 13,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 8,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NY97200024",
+      "weight": 2,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1994NY97200024",
+      "target": "WOS:A1993MJ00700004",
+      "weight": 2,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 10,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1986A825200003",
+      "target": "WOS:A1973Q594400064",
+      "weight": 13,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1994NA81600009",
+      "weight": 4,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 10,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 35,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1994NR50700001",
+      "weight": 13,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 8,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995QU31900002",
+      "weight": 8,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1973Q594400064",
+      "target": "WOS:A1995QG79600004",
+      "weight": 17,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 14,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995QU31900002",
+      "weight": 15,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1995QU31900002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 15,
+      "year": 2008
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 11,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1982NV15600012",
+      "target": "WOS:A1973Q594400064",
+      "weight": 13,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 8,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NY97200024",
+      "weight": 2,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1994NY97200024",
+      "target": "WOS:A1993MJ00700004",
+      "weight": 2,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 10,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1986A825200003",
+      "target": "WOS:A1973Q594400064",
+      "weight": 14,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1973Q594400064",
+      "weight": 4,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1994NA81600009",
+      "weight": 4,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 10,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 37,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1994NR50700001",
+      "weight": 13,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 8,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995QU31900002",
+      "weight": 8,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1973Q594400064",
+      "weight": 4,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1973Q594400064",
+      "target": "WOS:A1995QG79600004",
+      "weight": 17,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 15,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1995QG79600004",
+      "target": "WOS:A1995QU31900002",
+      "weight": 15,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1995QU31900002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 15,
+      "year": 2009
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 11,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1982NV15600012",
+      "target": "WOS:A1973Q594400064",
+      "weight": 13,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 8,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NY97200024",
+      "weight": 2,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1994NY97200024",
+      "target": "WOS:A1993MJ00700004",
+      "weight": 2,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 10,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1986A825200003",
+      "target": "WOS:A1973Q594400064",
+      "weight": 16,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1995TA81700004",
+      "weight": 4,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1973Q594400064",
+      "weight": 4,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1994NA81600009",
+      "weight": 4,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 10,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 40,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 8,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995QU31900002",
+      "weight": 8,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1973Q594400064",
+      "weight": 4,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1973Q594400064",
+      "target": "WOS:A1995QG79600004",
+      "weight": 17,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 15,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 2010
+    },
+    {
+      "source": "WOS:A1979JB45000002",
+      "target": "WOS:A1978GC98000006",
+      "weight": 11,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1988N459500006",
+      "target": "WOS:A1989U221300001",
+      "weight": 18,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1982NV15600012",
+      "target": "WOS:A1973Q594400064",
+      "weight": 13,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1993KK94300037",
+      "target": "WOS:A1992JY76100015",
+      "weight": 8,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1992JJ63200016",
+      "target": "WOS:A1994NY97200024",
+      "weight": 2,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1982NA72600012",
+      "target": "WOS:A1991FR13000013",
+      "weight": 8,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1994NY97200024",
+      "target": "WOS:A1993MJ00700004",
+      "weight": 2,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1989T340000017",
+      "target": "WOS:A1991FR13000013",
+      "weight": 10,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1986A825200003",
+      "target": "WOS:A1973Q594400064",
+      "weight": 16,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1992JY76100015",
+      "weight": 4,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1995TA81700004",
+      "weight": 4,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1973Q594400064",
+      "weight": 4,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1996TZ46900010",
+      "target": "WOS:A1994NA81600009",
+      "weight": 4,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1985AJY6200011",
+      "weight": 10,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1994NA81600009",
+      "target": "WOS:A1987H158400014",
+      "weight": 42,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995TA81700004",
+      "weight": 8,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1995TL17000002",
+      "target": "WOS:A1995QU31900002",
+      "weight": 8,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1993MM02600003",
+      "target": "WOS:A1991FR13000013",
+      "weight": 7,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1994NH47000002",
+      "weight": 4,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1991FK17300038",
+      "target": "WOS:A1973Q594400064",
+      "weight": 4,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1973Q594400064",
+      "target": "WOS:A1995QG79600004",
+      "weight": 17,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1994NH47000002",
+      "target": "WOS:A1991FR13000013",
+      "weight": 15,
+      "year": 2011
+    },
+    {
+      "source": "WOS:A1991FR13000013",
+      "target": "WOS:A1985AJY6200016",
+      "weight": 8,
+      "year": 2011
+    }
+  ]
+}
